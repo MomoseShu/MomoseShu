@@ -1,0 +1,142 @@
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sport 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sport 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Sport 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sport 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sport 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tv
+https://sv2.wacthstream.com/wacth_tv/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMyA2OjI5OjU4IFBNJmhhc2hfdmFsdWU9Ym5xM2JIYWxaSFNCQXdrTXJoWlgwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzY5NDk0%7CReferer=https://wacth.tv
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+http://playtv.my.id/play/truefilm1.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
+http://playtv.my.id/play/filmasia.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
+http://playtv.my.id/play/rockactionhd.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="EUSport" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png",🇵🇹 Sport TV 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 group-title="EUSport" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png",🇵🇹 Sport TV 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 group-title="EUSport" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png",🇵🇹 Sport TV 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:-1 group-title="EUSport" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png",🇵🇹 Sport TV 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Discovery",BBC LIFESTYLE 
+http://playtv.my.id/play/bbclifestyle.m3u8
+
+
+
+
+True7
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="1",3
+http://playtv.my.id/play/life.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png", TRUE Spark Play
+http://playtv.my.id/play/spark.m3u8
+
+#EXTINF:-1 group-title="Discovery",Discovery Asia
+https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MzQgQU0maGFzaF92YWx1ZT1FOTVSc3VKNkpNZ015VW4vUlg4Zk1RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzAxNjg=%7CReferer=https://wacth.tv
+
+
+
+#EXTINF:-1 group-title="Movie",Paramount
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjA6MDIgQU0maGFzaF92YWx1ZT1GV2pCM2tPRzlHdll6M0VuVHdFU2NBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTYzMjY=%7CReferer=https://wacth.tv
+
+
+
+#EXTINF:-1 group-title="Discovery",Animal Plannet
+https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTA6NDggQU0maGFzaF92YWx1ZT1NVHZoZHd3MVBId3FwVTRrYUVZQTNnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcwNzQ=%7CReferer=https://wacth.tv
+
+
+
+
+
+
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Supersport
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63112
+
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Astro Supersport 2
+http://metatvpro.com:25461/Q5023/5286/145
+
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
+http://metatvpro.com:25461/Q5023/5286/146
+
+ช่อง7
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:update=10-07-2023 11:40:08 ( please update playlist https://bit.ly/41ui6wT )
+#EXTVLCOPT:develop by Shark Wow not for sale
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+
+
+
+
+
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
