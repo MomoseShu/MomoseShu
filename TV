@@ -24,8 +24,6 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/HLS/V0129.m3u8
 
-#EXTINF:-1 group-title="Japantv",JP WOWOW Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Japantv",JP WOWOW Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -78,11 +76,11 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20
 #EXTVLCOPT:develop by Shark Wow not for sale
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nation-tv-th.svg" group-title="Digital TV",Nation TV
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nation-tv-th.svg" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="WorkpointTV" tvg-logo="http://tvsmagazine.com/images/channels/sm_WORKP.jpg" group-title="Digital TV",WorkpointTV
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="http://tvsmagazine.com/images/channels/sm_WORKP.jpg" group-title="Digital TV",WorkpointTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 
@@ -113,7 +111,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://2nud.short.gy/ais_mcotfhd.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_ONE.jpg" group-title="Digital TV",ONE HD
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_ONE.jpg" group-title="Digital TV",ONE31 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0012/HLS/V0012.m3u8
 
