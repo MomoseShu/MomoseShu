@@ -85,3 +85,18 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-signature/chunks.m3u8?nimblesessi
 #EXTINF:-1 group-title="Movie",warner
 https://dkl-c33es.cdn.akamaiz.com/dookeela/warnertv/chunks.m3u8?nimblesessionid=616615&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDQ6MzAgUE0maGFzaF92YWx1ZT1CWFMzYWxVTHB5UkErY3BxQ2dBR3N3PT0mdmFsaWRtaW51dGVzPTIw
 
+
+
+
+
+#EXTINF:-1 group-title="Movie",be4
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein4/chunks.m3u8?nimblesessionid=616909&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6MTMgUE0maGFzaF92YWx1ZT02QmNyZm9wTkFJN1V2OFQ5aW8xbzlRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",5
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/chunks.m3u8?nimblesessionid=616917&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6MzQgUE0maGFzaF92YWx1ZT1JVHZscFBTa08vT0xGeTRSbjdlU2lRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",6
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein6/chunks.m3u8?nimblesessionid=616932&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6NTggUE0maGFzaF92YWx1ZT1TYWNPNFdHTnN2UTZXR0FvdkgwOXRBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",7
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bein7/chunks.m3u8?nimblesessionid=616935&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTU6MTcgUE0maGFzaF92YWx1ZT1YaUhNc0xIODJHakZIcWcvRE9HRHhBPT0mdmFsaWRtaW51dGVzPTIw
