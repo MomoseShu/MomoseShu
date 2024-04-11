@@ -47,7 +47,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd
 
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1
+#EXTINF:-1 group-title="THSport",AIS PLAY SPORT 1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
@@ -59,7 +59,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sport 3
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
 
@@ -133,28 +133,21 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", Spotv 1 HD
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV 1 
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", Spotv 2 HD
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV 2 
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",true tennis hd
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truetennis/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
-
-
-#EXTINF:-1 group-title="NO",
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/169420615262328513-1024x266.png",MOTOVISION
-https://wacthstream.com/stream_live/687_motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDM6NDkgQU0maGFzaF92YWx1ZT1sS2NvQjAxSHUvd05nNkh5ZW1TUkdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDI3OTk=%7CReferer=https://wacth.tv
 
 #EXTINF:-1 group-title="NO",
