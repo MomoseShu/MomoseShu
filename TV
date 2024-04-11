@@ -6,17 +6,17 @@ http://playtv.my.id/play/truefilm2.m3u8
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", paramount
-http://playtv.my.id/play/paramountnetwork.m3u8
+http://playtv.my.id/play/paramount.m3u8
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", asianFilm
 http://playtv.my.id/play/asianfilm.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", asianmore
-http://playtv.my.id/play/asianmore.m3u8
+http://playtv.my.id/play/trueasianmore.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-http://playtv.my.id/play/thaifilm.m3u8
+http://playtv.my.id/play/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
 http://playtv.my.id/play/trueasianfilm.m3u8
