@@ -20,7 +20,7 @@ http://playtv.my.id/play/sci.m3u8
 http://playtv.my.id/play/lovenature.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-http://playtv.my.id/play/earth.m3u8
+http://playtv.my.id/play/bbcearth.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE
 http://playtv.my.id/play/lifestyle.m3u8
@@ -29,10 +29,10 @@ http://playtv.my.id/play/lifestyle.m3u8
 http://playtv.my.id/play/crime.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/iyAx04i.png", Discovery Asia
-http://playtv.my.id/play/discoveryasia.m3u8
+http://playtv.my.id/play/discovery.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MFN9PGB.png", Animal Planet
-http://playtv.my.id/play/animalplanet.m3u8
+http://playtv.my.id/play/animal.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
