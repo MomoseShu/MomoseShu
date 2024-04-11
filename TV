@@ -1,153 +1,37 @@
-🇹🇭
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1 
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2 
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", BALLTHAI 4
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", BALLTHAI 5
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", BALLTHAI 6
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", BALLTHAI 7
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", BALLTHAI 8
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
 
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT 2
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://musiczaclubradio.ueuo.com/tv/imagestv/Cartoon-Club.jpg", Cartoon club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT 3
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tv
+https://wacthstream.com/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMyA2OjI5OjU4IFBNJmhhc2hfdmFsdWU9Ym5xM2JIYWxaSFNCQXdrTXJoWlgwUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzY5NDk0%7CReferer=https://wacth.tv
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT 4
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png", TRUE Spark Play
+https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjM6MTQgQU0maGFzaF92YWx1ZT0rRDgwdXRGOFhzWWw1L0pxb3VKbnR3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzc1Mzk=
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png", Dream Works 
+https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjI6NTEgQU0maGFzaF92YWx1ZT1EYXdZT1JiTVlpTVo4emxZWFd5SDlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDI1Mjk=
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.lyngsat.com/logo/tv/nn/next-kid-th.png",Nextkids
+https://wacthstream.com/stream_live/goodtv66_NextKid2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6Mjk6MDEgQU0maGFzaF92YWx1ZT1PcXU2ei9rSm1QVS9xNUF0QUNaVC9RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzcwMzk=
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoomoo
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", ANIMAX
+http://metatvpro.com:25461/Q5023/5286/267
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421444
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", TrueSports 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png", DISNEY XD
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421519
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", TrueSports 7
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://prod-media.beinsports.com/image/e92b755eb0d8800175a02a35c2bf44fe.png?ver=09-01-2024" group-title="THSport",beIN SPORTS 4
-
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://prod-media.beinsports.com/image/0a5052334511e344f15ae0bfafd47a67.png?ver=09-01-2024" group-title="THSport",beIN SPORTS 5
-
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://prod-media.beinsports.com/image/1aa4de654d4e502b4ef4136466b13fcc.png?ver=09-01-2024" group-title="THSport",beIN SPORTS 6
-
-
-
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://prod-media.beinsports.com/image/a3ce63a7a8521c37a513db67129855a8.png?ver=09-01-2024" group-title="THSport",beIN SPORTS 7
-
-
-
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV1 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truetennis/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
-
-#EXTINF:-1 group-title="NO",
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png", DISNEY JR.
+http://metatvpro.com:25461/Q5023/5286/13163
