@@ -47,7 +47,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd
 
-#EXTINF:-1 group-title="THSport",AIS PLAY SPORT 1
+#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
@@ -133,11 +133,11 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV 1 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV1 
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV 2 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
