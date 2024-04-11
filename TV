@@ -1,20 +1,74 @@
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hero-th.png",Hero
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6Mjc6MDkgQU0maGFzaF92YWx1ZT1mSFNjelV4WUZ1a29GckpSaGZOWGFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDA5Njg=
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTU6NDggQU0maGFzaF92YWx1ZT1lSVRCL0poOEpiVEl5UWR6TEpIbDlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA5OTQ=%7CReferer=https://wacth.tv
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
+http://playtv.my.id/play/truefilm2.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
+http://playtv.my.id/play/rockentertainment.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTU6NDggQU0maGFzaF92YWx1ZT1lSVRCL0poOEpiVEl5UWR6TEpIbDlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA5OTQ=%7CReferer=https://wacth.tv
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
+#EXTVLCOPT:http-referrer=https://watch.tv
+https://wacthstream.com/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDQ6NDQgQU0maGFzaF92YWx1ZT12TVNXM2Y2aHRuV2tnTlpwQWJGZ1BnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTk4Mzk=%7CReferer=https://wacth.tv
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO ENG
 http://metatvpro.com:25461/Q5023/5286/200
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=612514&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mzk6MDkgUE0maGFzaF92YWx1ZT1JUHkxc1NqRnF2MEFHSVRpUTRPM0hRPT0mdmFsaWRtaW51dGVzPTIw
-
-
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=612083&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzM6MjQgUE0maGFzaF92YWx1ZT1vRzBSRFdLNmZ0QjUyeERMK05jTnNnPT0mdmFsaWRtaW51dGVzPTIw
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
-https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331439&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzE6NTYgUE0maGFzaF92YWx1ZT1Ba1hRLy81YUwwMzhiQzB1enoxZ0xnPT0mdmFsaWRtaW51dGVzPTI=
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331390&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzA6NTMgUE0maGFzaF92YWx1ZT04MzVSMkNJeDBjV1dmZHpwYlY2dTZRPT0mdmFsaWRtaW51dGVzPTI=
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mjc6MzMgUE0maGFzaF92YWx1ZT1kTXN3b3FVdWRsWjk2R3NWNVlDZTBBPT0mdmFsaWRtaW51dGVzPTI=
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
 
@@ -23,7 +77,7 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
-"https://dookeela.live/live-tv/mono29plus#"
+
 
 
 
@@ -43,60 +97,5 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg", NongkhaiTV HD
-https://dookeela.live/live-tv/3bbasian
+http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="Movie", ช่อง7
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
-#EXTINF:-1 group-title="Movie", PPTV
-https://pptv36-1tsjfj.cdn.byteark.com/live/Thai_HD_index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1712863201&x_ark_path_prefix=%2Flive%2F&x_ark_signature=wytVmA42HEFcbGO96wQF8Q
-
-#EXTINF:-1 group-title="Movie", thairath
-https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
-
-#EXTINF:-1 group-title="Movie", thaipbs
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/chunk-025116.ts
-
-
-
-#EXTINF:-1 group-title="Movie",cinemax
-https://dkl-c33es.cdn.akamaiz.com/dookeela/cinemax/chunks.m3u8?nimblesessionid=616307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDA6MTkgUE0maGFzaF92YWx1ZT1DblV0NzBiRGU0VFgxUlpNU1ZZbG1RPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",3bb asian
-https://dkl-c33es.cdn.akamaiz.com/dookeela/3bbasian/chunks.m3u8?nimblesessionid=616394&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDE6MjcgUE0maGFzaF92YWx1ZT1HSzA4NWRKNUFQOWNReTl6L1ZRNHVnPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",mono+
-https://dkl-c33es.cdn.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=616441&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDI6MDcgUE0maGFzaF92YWx1ZT1jSDc5YUhhT2QwNTAxa1d3c1VsOWJ3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",hbo fam
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=616482&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDI6NDAgUE0maGFzaF92YWx1ZT1JbW1aK0p2U1RzaEJEcFA0TkR3MEZ3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",hbo hit
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-hits/chunks.m3u8?nimblesessionid=616539&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDM6MjkgUE0maGFzaF92YWx1ZT1pT2JPNWZDZHl0bG9lZ3pTRVQvNE9BPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",hbo sig
-https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-signature/chunks.m3u8?nimblesessionid=616562&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDM6NDcgUE0maGFzaF92YWx1ZT1STEtxdzFSSzlQeWpnRDlLQTJxYXV3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",warner
-https://dkl-c33es.cdn.akamaiz.com/dookeela/warnertv/chunks.m3u8?nimblesessionid=616615&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDQ6MzAgUE0maGFzaF92YWx1ZT1CWFMzYWxVTHB5UkErY3BxQ2dBR3N3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-
-
-#EXTINF:-1 group-title="Movie",be4
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bein4/chunks.m3u8?nimblesessionid=616909&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6MTMgUE0maGFzaF92YWx1ZT02QmNyZm9wTkFJN1V2OFQ5aW8xbzlRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",5
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/chunks.m3u8?nimblesessionid=616917&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6MzQgUE0maGFzaF92YWx1ZT1JVHZscFBTa08vT0xGeTRSbjdlU2lRPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",6
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bein6/chunks.m3u8?nimblesessionid=616932&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTQ6NTggUE0maGFzaF92YWx1ZT1TYWNPNFdHTnN2UTZXR0FvdkgwOXRBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 group-title="Movie",7
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bein7/chunks.m3u8?nimblesessionid=616935&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MTU6MTcgUE0maGFzaF92YWx1ZT1YaUhNc0xIODJHakZIcWcvRE9HRHhBPT0mdmFsaWRtaW51dGVzPTIw
