@@ -1,24 +1,11 @@
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-http://playtv.my.id/play/truefilm1.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=612083&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzM6MjQgUE0maGFzaF92YWx1ZT1vRzBSRFdLNmZ0QjUyeERMK05jTnNnPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", TrueFilm2
-http://playtv.my.id/play/film2.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331439&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzE6NTYgUE0maGFzaF92YWx1ZT1Ba1hRLy81YUwwMzhiQzB1enoxZ0xnPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331390&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzA6NTMgUE0maGFzaF92YWx1ZT04MzVSMkNJeDBjV1dmZHpwYlY2dTZRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", paramount
-http://playtv.my.id/play/paramount.m3u8
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", asianFilm
-http://playtv.my.id/play/film1.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", asianmore
-http://playtv.my.id/play/film.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-http://playtv.my.id/play/sparkplay.m3u8
-
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-http://playtv.my.id/play/sparkjump.m3u8
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mjc6MzMgUE0maGFzaF92YWx1ZT1kTXN3b3FVdWRsWjk2R3NWNVlDZTBBPT0mdmFsaWRtaW51dGVzPTI=
