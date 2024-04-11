@@ -20,3 +20,8 @@ http://playtv.my.id/play/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
 http://playtv.my.id/play/sparkplay.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+http://playtv.my.id/play/sparkjump.m3u8
+
