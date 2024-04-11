@@ -1,3 +1,9 @@
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO ENG
+http://metatvpro.com:25461/Q5023/5286/200
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=612514&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mzk6MDkgUE0maGFzaF92YWx1ZT1JUHkxc1NqRnF2MEFHSVRpUTRPM0hRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=612083&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzM6MjQgUE0maGFzaF92YWx1ZT1vRzBSRFdLNmZ0QjUyeERMK05jTnNnPT0mdmFsaWRtaW51dGVzPTIw
 
@@ -9,3 +15,73 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mjc6MzMgUE0maGFzaF92YWx1ZT1kTXN3b3FVdWRsWjk2R3NWNVlDZTBBPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
+"https://dookeela.live/live-tv/mono29plus#"
+
+
+
+#EXTINF:-1 group-title="NO",
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg", NongkhaiTV HD
+https://dookeela.live/live-tv/3bbasian
+
+
+
+
+
+
+#EXTINF:-1 group-title="Movie", ช่อง7
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 group-title="Movie", PPTV
+https://pptv36-1tsjfj.cdn.byteark.com/live/Thai_HD_index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1712863201&x_ark_path_prefix=%2Flive%2F&x_ark_signature=wytVmA42HEFcbGO96wQF8Q
+
+#EXTINF:-1 group-title="Movie", thairath
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
+
+#EXTINF:-1 group-title="Movie", thaipbs
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/chunk-025116.ts
+
+
+
+#EXTINF:-1 group-title="Movie",cinemax
+https://dkl-c33es.cdn.akamaiz.com/dookeela/cinemax/chunks.m3u8?nimblesessionid=616307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDA6MTkgUE0maGFzaF92YWx1ZT1DblV0NzBiRGU0VFgxUlpNU1ZZbG1RPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",3bb asian
+https://dkl-c33es.cdn.akamaiz.com/dookeela/3bbasian/chunks.m3u8?nimblesessionid=616394&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDE6MjcgUE0maGFzaF92YWx1ZT1HSzA4NWRKNUFQOWNReTl6L1ZRNHVnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",mono+
+https://dkl-c33es.cdn.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=616441&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDI6MDcgUE0maGFzaF92YWx1ZT1jSDc5YUhhT2QwNTAxa1d3c1VsOWJ3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",hbo fam
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=616482&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDI6NDAgUE0maGFzaF92YWx1ZT1JbW1aK0p2U1RzaEJEcFA0TkR3MEZ3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",hbo hit
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-hits/chunks.m3u8?nimblesessionid=616539&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDM6MjkgUE0maGFzaF92YWx1ZT1pT2JPNWZDZHl0bG9lZ3pTRVQvNE9BPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",hbo sig
+https://dkl-c33es.cdn.akamaiz.com/dookeela/hbo-signature/chunks.m3u8?nimblesessionid=616562&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDM6NDcgUE0maGFzaF92YWx1ZT1STEtxdzFSSzlQeWpnRDlLQTJxYXV3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Movie",warner
+https://dkl-c33es.cdn.akamaiz.com/dookeela/warnertv/chunks.m3u8?nimblesessionid=616615&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDM6MDQ6MzAgUE0maGFzaF92YWx1ZT1CWFMzYWxVTHB5UkErY3BxQ2dBR3N3PT0mdmFsaWRtaW51dGVzPTIw
+
