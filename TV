@@ -8,34 +8,31 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDI6MjA6NTEgUE0maGFzaF92YWx1ZT1nd3lZelVweHh4bHgyQnpRcGV5dzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcyMzc=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/wild.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
 http://playtv.my.id/play/life.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDI6MjA6NTEgUE0maGFzaF92YWx1ZT1nd3lZelVweHh4bHgyQnpRcGV5dzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcyMzc=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/sci.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8
+http://playtv.my.id/play/lovenature.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTM6MDkgQU0maGFzaF92YWx1ZT1JY01qS0hWSU1UeDZCZ2VVRlpUMERRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA3MzQ=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/bbcearth.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTI6MDEgQU0maGFzaF92YWx1ZT12QWJQZzhJMkNTY3g2VmRFbjNYa2JRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODczMzI=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/bbclifestyle.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg",Crime
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MDUgQU0maGFzaF92YWx1ZT04MU9EckV2QUFFRmlITi82ZlUza0RnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTY2MDc=
+http://playtv.my.id/play/crime.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/iyAx04i.png", Discovery Asia
-https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MzQgQU0maGFzaF92YWx1ZT1FOTVSc3VKNkpNZ015VW4vUlg4Zk1RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzAxNjg=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/discoveryasia.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MFN9PGB.png", Animal Planet
-https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTA6NDggQU0maGFzaF92YWx1ZT1NVHZoZHd3MVBId3FwVTRrYUVZQTNnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcwNzQ=%7CReferer=https://wacth.tv
+http://playtv.my.id/play/animalplanet.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
@@ -47,80 +44,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://main.light-ott.net:80/j6C52WJOsh/XAn1NrkdI6/760906
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://img2.pic.in.th/pic/6661ae81131ac2e01d5.png", WILD PLANET
-https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/dKUJaum.png", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=OTH
-#EXTVLCOPT:update=04-07-2023 14:27:35 ( please update playlist https://bit.ly/41ui6wT )
-#EXTVLCOPT:develop by Shark Wow not for sale
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
-https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", NAT GEO US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg", OUTDOOR US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/28869
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqZgCPL-ja6L2-4swaho5OXw2urys5w5EljL7969qEnoNC1ncWlk_jIx4&s=10", OUTSIDE US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/28870
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_sci_th.png", MYSCI
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png", สำรวจโลก
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png",ANIMAL SHOW
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDI6MjA6NTEgUE0maGFzaF92YWx1ZT1nd3lZelVweHh4bHgyQnpRcGV5dzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcyMzc=%7CReferer=https://wacth.tv
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
-http://playtv.my.id/play/life.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDI6MjA6NTEgUE0maGFzaF92YWx1ZT1nd3lZelVweHh4bHgyQnpRcGV5dzhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcyMzc=%7CReferer=https://wacth.tv
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
-#EXTVLCOPT:http-referrer=https://watch.tv
-https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTM6MDkgQU0maGFzaF92YWx1ZT1JY01qS0hWSU1UeDZCZ2VVRlpUMERRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA3MzQ=%7CReferer=https://wacth.tv
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTI6MDEgQU0maGFzaF92YWx1ZT12QWJQZzhJMkNTY3g2VmRFbjNYa2JRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODczMzI=%7CReferer=https://wacth.tv
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg",Crime
-https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MDUgQU0maGFzaF92YWx1ZT04MU9EckV2QUFFRmlITi82ZlUza0RnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTY2MDc=
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/iyAx04i.png", Discovery Asia
-https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MzQgQU0maGFzaF92YWx1ZT1FOTVSc3VKNkpNZ015VW4vUlg4Zk1RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzAxNjg=%7CReferer=https://wacth.tv
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MFN9PGB.png", Animal Planet
-https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTA6NDggQU0maGFzaF92YWx1ZT1NVHZoZHd3MVBId3FwVTRrYUVZQTNnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjcwNzQ=%7CReferer=https://wacth.tv
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://img.pic.in.th/images__1_-removebg-preview.png", NATGEO WILD
-http://main.light-ott.net:80/j6C52WJOsh/XAn1NrkdI6/760906
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://img2.pic.in.th/pic/6661ae81131ac2e01d5.png", WILD PLANET
-https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist1080p.m3u8
+https://d3c7duantorcb1.cloudfront.net/amgwildplanetuk/playlist1080p.m3u8qa
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/dKUJaum.png", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
