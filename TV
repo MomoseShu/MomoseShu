@@ -1,24 +1,64 @@
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
-http://playtv.my.id/play/truexzyte.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte1
-http://playtv.my.id/play/xzyte.m3u8
+http://playtv.my.id/play/truasian.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
-http://playtv.my.id/play/asianfoodnetwork.m3u8
+http://playtv.my.id/play/asianseries.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-http://playtv.my.id/play/foodnetwork.m3u8
+http://playtv.my.id/play/truesparkplaym3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-http://playtv.my.id/play/tlc.m3u8
+http://playtv.my.id/play/dreamworks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
 http://playtv.my.id/play/lifetime.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM
-http://playtv.my.id/play/gem.m3u8
+http://playtv.my.id/play/cartoonnetwork.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM1
+http://playtv.my.id/play/discoveryasia.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM3
+http://playtv.my.id/play/trueexplorewild.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM4
+http://playtv.my.id/play/discovery.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM5
+http://playtv.my.id/play/animalplanet.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM6
+http://playtv.my.id/play/history.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM7
+http://playtv.my.id/play/4k.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM8
+http://playtv.my.id/play/true4k.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM9
+http://playtv.my.id/play/nickjr.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM10
+http://playtv.my.id/play/nicklodeon.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM11
+http://playtv.my.id/play/movieshits.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM12
+http://playtv.my.id/play/truemovieshits.m3u8
+
+
+
+
+
+
+
+
+
+
 
