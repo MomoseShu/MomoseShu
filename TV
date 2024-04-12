@@ -69,3 +69,9 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/28869
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqZgCPL-ja6L2-4swaho5OXw2urys5w5EljL7969qEnoNC1ncWlk_jIx4&s=10", OUTSIDE US
 https://6oclock.xyz:8443/Tyrone43147/My3boys/28870
+
+#EXTINF:-1 group-title="Discovery",1
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331390&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzA6NTMgUE0maGFzaF92YWx1ZT04MzVSMkNJeDBjV1dmZHpwYlY2dTZRPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 group-title="Discovery",2
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mjc6MzMgUE0maGFzaF92YWx1ZT1kTXN3b3FVdWRsWjk2R3NWNVlDZTBBPT0mdmFsaWRtaW51dGVzPTI=
