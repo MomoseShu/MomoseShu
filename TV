@@ -1,64 +1,28 @@
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
-http://playtv.my.id/play/truasian.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
-http://playtv.my.id/play/asianseries.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
+#EXTINF:-1 group-title="Kids" tvg-logo="http://musiczaclubradio.ueuo.com/tv/imagestv/Cartoon-Club.jpg", Cartoon club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-http://playtv.my.id/play/truesparkplaym3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com 
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-http://playtv.my.id/play/dreamworks.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png", TRUE Spark Play
+http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115784&extension=ts&play_token
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
-http://playtv.my.id/play/lifetime.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png", Dream Works 
+http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115691&extension=ts&play_token
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM
-http://playtv.my.id/play/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoomoo
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM1
-http://playtv.my.id/play/discoveryasia.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421444
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM3
-http://playtv.my.id/play/trueexplorewild.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM4
-http://playtv.my.id/play/discovery.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM5
-http://playtv.my.id/play/animalplanet.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM6
-http://playtv.my.id/play/history.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM7
-http://playtv.my.id/play/4k.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM8
-http://playtv.my.id/play/true4k.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM9
-http://playtv.my.id/play/nickjr.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM10
-http://playtv.my.id/play/nicklodeon.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM11
-http://playtv.my.id/play/movieshits.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png",GEM12
-http://playtv.my.id/play/truemovieshits.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png", DISNEY XD
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421519
 
