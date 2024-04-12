@@ -8,8 +8,6 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
 http://playtv.my.id/play/life.m3u8
@@ -17,27 +15,20 @@ http://playtv.my.id/play/life.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
 http://playtv.my.id/play/sci.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg",Crime
-http://playtv.my.id/play/crime.m3u8
-
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 http://playtv.my.id/play/lovenature.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/iyAx04i.png", Discovery Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MFN9PGB.png", Animal Planet
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-animalplanet.stream/playlist.m3u8
+http://playtv.my.id/play/rockentertainment.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
@@ -63,15 +54,3 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
 https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg", OUTDOOR US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/28869
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqZgCPL-ja6L2-4swaho5OXw2urys5w5EljL7969qEnoNC1ncWlk_jIx4&s=10", OUTSIDE US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/28870
-
-#EXTINF:-1 group-title="Discovery",1
-https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331390&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6MzA6NTMgUE0maGFzaF92YWx1ZT04MzVSMkNJeDBjV1dmZHpwYlY2dTZRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 group-title="Discovery",2
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8?nimblesessionid=15331307&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDI0IDI6Mjc6MzMgUE0maGFzaF92YWx1ZT1kTXN3b3FVdWRsWjk2R3NWNVlDZTBBPT0mdmFsaWRtaW51dGVzPTI=
