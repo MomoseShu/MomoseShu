@@ -1,77 +1,42 @@
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--md.webp",EFM 94
-https://atimeonline.smartclick.co.th/efm
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="AsiaSport",Astro SuperSport 1
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918986&extension=ts&play_astro1
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--md.webp" group-title="ฟังวิทยุออนไลน์",Green Wave 106.5
-https://atimeonline.smartclick.co.th/green
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="AsiaSport",Astro SuperSport 2
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918985&extension=ts&play_astro2
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15220/31756/conversions/xclVr4ObRD0l5JPoF68a1QdQguijRb-metaQ2hpbGxPbmxpbmUuanBn--md.webp",Chill Online
-https://atimeonline.smartclick.co.th/chill
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="AsiaSport",Astro SuperSport 3
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918984&extension=ts&play_astro3
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczNzcvMDEuanBn.jpg" group-title="ฟังวิทยุออนไลน์",HITZ 955
-https://18313.live.streamtheworld.com/HITZ_955AAC.aac
+#EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODUvMDMuanBn.jpg" group-title="ฟังวิทยุออนไลน์",STAR FM
-https://24863.live.streamtheworld.com/STARFM_THAAC.aac
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63928
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15223/24629/conversions/yr0pVrPTeGJyIx2ZQ1lgdqGdOF5kMO-metaY29vbCBmYWhyZW5oZWl0LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",COOLfahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63929
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15853/28623/conversions/AG83cHKq2kxb0MZUcDye5QspqPJb7b-metaRk0gT05FIDEwMy41LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",FM ONE 103.5 FM
-https://cdn-th2.livestreaming.in.th/shoutcast/8835
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63930
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://admin.auto-messenger.ru/storage/radios/16076/30072/conversions/o6Mwysr9ImtEpMZNc7FYkxqVy1quqo-metaR3JlYXQ5M2ZtLnBuZw==--lg.webp",GREAT 93 FM
-http://radio.vpsthai.net:9000/stream?type=http
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63931
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9gqd-28ZkjYOk7pTS0HOE4DVC_C6CFZZjbFEOXxi3XsESux-OyNjnz4&s=10",Flex Connect 104.5
-https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63932
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N96spp6XLf.jpg",MUNforward
-https://cdn-th2.livestreaming.in.th/shoutcast/8730
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63933
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.goodtimeradio.fm/assets/images/Goodtime.png",Goodtime Radio
-https://gt-radio-streaming.bugaboo.tv/live_radio/live_high.m3u8
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS SPORT 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/64874
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",สถานีเพลงสตริง Request Radio
-http://cast.requestradio.in.th:8100/stream
+#EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radiotripphuket.com/images/img-listen-live.jpg",89.75 Radio Trip Phuket online
-https://cdn-th2.livestreaming.in.th/shoutcast/1150
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",🇭🇰NOW PREMIER HK 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71m-zDy6P929wVJbukDsEr8HXxFNGyMm7Xg&usqp=CAU",Mellow FM
-https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",🇭🇰Now Sports HK 3 FHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497553&extension=ts&play_token=I9m2rjLkIJ
 
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",City Radio Pattaya
-https://streaming.thaismarthost.com:8020/ctmobile.mp3
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/17728/61769/conversions/em4lKZcikTO13PBIzrxVIpbF22iEej-metabHVrdGh1bmcgbmV0d29yay5wbmc=--md.webp" group-title="ฟังวิทยุออนไลน์",ลูกทุ่งเน็ตเวิร์ก
-https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/chunklist_w768886366.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://imgs.mcot.net/images/2020/01/1578472935560-167x100.png",ลูกทุ่งมหานคร: FM 95
-https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NGxZwsaD8b.jpg",ดนตรีสีสัน FM107.75
-https://plus.onair.network/radio/8010/live
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ddqtw2szlcdc.png",Huahin Radio
-https://inter1.plathong.net/7008/;stream.mp3
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODkvMDUuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rad Radio.FM
-https://14073.live.streamtheworld.com/RAD_RADIO_FMAAC.aac
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczOTMvMDYuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rock on Radio.FM
-https://14073.live.streamtheworld.com/ROCK_ON_RADIOAAC.aac
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODEvMDIuanBn.jpg" group-title="ฟังวิทยุออนไลน์",EAZY FM 105.5
-https://18313.live.streamtheworld.com/EAZYFM_1055AAC.aac
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.requestradio.in.th/wp-content/uploads/2016/07/icon.png",สถานีเพสากล Request Radio
-http://cast.requestradio.in.th:8400/stream
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.met107.fm/assets/images/logo/logo@2x.png",Met 107
-https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15221/24616/conversions/shRCJfuANWUxXI4HPyTkKt2DKXZBQE-metaQWN0aXZlOTkuanBn--md.webp",FM 99 Active Radio
-https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8
-
-
+#EXTINF:-1 group-title="NO",
 
