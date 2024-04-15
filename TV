@@ -1,296 +1,62 @@
-ๆ=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport",Cinemax
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115600&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
 
-#EXTINF:-1 group-title="THSport",TVN
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115604&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="THSport",38
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115605&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport",39
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115606&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport",40
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115607&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
 
-#EXTINF:-1 group-title="THSport",41
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115608&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport",42
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115609&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
 
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
 
-#EXTINF:-1 group-title="THSport",ANIMAL PLANET
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115610&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
 
-#EXTINF:-1 group-title="THSport",Food Netwok
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115611&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://sport.livedoomovies.com:4431/02_AXNHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="THSport",True Series
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115612&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-warnertv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THSport",47
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115613&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 
-#EXTINF:-1 group-title="THSport",48
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115614&extension=ts&play_token
+#EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="THSport",49
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115615&extension=ts&play_token
 
-#EXTINF:-1 group-title="THSport",50
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115616&extension=ts&play_token
 
-#EXTINF:-1 group-title="THSport",51
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115617&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 
-#EXTINF:-1 group-title="THSport",52
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115618&extension=ts&play_token
 
-#EXTINF:-1 group-title="THSport",53
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115619&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
 
-#EXTINF:-1 group-title="THSport",54
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115620&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
 
-#EXTINF:-1 group-title="THSport",BBC EARTH
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115621&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
 
-#EXTINF:-1 group-title="THSport",56
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115622&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
 
-#EXTINF:-1 group-title="THSport",57
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115623&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
 
-#EXTINF:-1 group-title="THSport",58
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115624&extension=ts&play_token
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
 
-#EXTINF:-1 group-title="THSport",BBC lifestyle
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115625&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",60
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115626&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",61
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115627&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Rock Entertainment 
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115628&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",63
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115629&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",64
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115630&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Lifetime
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115631&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",66
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115632&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",67
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115633&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",68
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115634&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",69
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115635&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",70
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115636&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",71
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115637&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",72
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115638&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",73
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115639&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",74
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115640&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",75
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115641&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",76
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115642&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",77
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115643&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",78
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115644&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",79
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115645&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",HBO Hits
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115646&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",81
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115647&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",82
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115648&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Crime
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115649&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Discovery Asia
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115650&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",85
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115651&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Discovery channel
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115652&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",87
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115653&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",Dreamworks
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115654&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",89
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115655&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",90
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115656&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",91
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115657&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",92
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115658&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",93
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115659&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",94
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115660&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",95
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115661&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",96
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115662&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",97
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115663&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",98
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115664&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",True Film Asia
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115665&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",100
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115666&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport", Truefilm1
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",1
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115668&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",2
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115669&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",3
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115670&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",4
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115671&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",5
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115672&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",6
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115673&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",7
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115674&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",8
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115675&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",9
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115676&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",10
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115677&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",11
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115678&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",True Movie hits
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115679&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",13
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115680&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",14
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115681&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",15
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115682&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",16
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115683&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",17
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115684&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",18
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115685&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",19
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115686&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",20
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115687&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",TLC
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115688&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",22
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115689&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",23
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115690&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",24
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115691&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",25
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115692&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",26
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115693&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",27
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115694&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",28
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115695&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",29
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115696&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",30
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115697&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",31
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115698&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",32
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115699&extension=ts&play_token
-
-#EXTINF:-1 group-title="THSport",33
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115700&extension=ts&play_token
+#EXTINF:-1 group-title="NO",
