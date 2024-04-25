@@ -1,194 +1,115 @@
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_sci_th.png", MYSCI
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="Digital TV",NBT
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w860341126_b978000.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png", สำรวจโลก
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot_th_hd.png" group-title="Digital TV",MCOT HD
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w402304271_b3000000.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png",ANIMAL SHOW
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="http://tvsmagazine.com/images/channels/sm_TRATH.jpg" group-title="Digital TV",Thairath TV
+#EXTVLCOPT:http-user-agent=serAgent": "ExoPlayerDemo/1.0 (Linux;Android 10) ExoPlayerLib/2.10.4
+https://streaming-web.thairath.co.th/hls/playlist_mid.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="3" tvg-logo="http://tvsmagazine.com/images/channels/sm_N33.jpg" group-title="Digital TV", 3HD
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ch3-33-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1714073401&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=_qtO2g04NrvArSiCipPtMg
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/560_TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTg6NTggQU0maGFzaF92YWx1ZT1mVkdtSlFtWGxxaDRaY3J2a3JoS0tRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTExOTg=
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="AMARINTV" tvg-logo="http://tvsmagazine.com/images/channels/sm_N34.jpg" group-title="Digital TV",Amarin TV
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://amarin-ks7jcc.cdn.byteark.com/live/Thai_SD_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1714087805&x_ark_path_prefix=%2Flive%2F&x_ark_signature=G1Ei8zIrFgfLTGPEp5fPuA
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTg6NTggQU0maGFzaF92YWx1ZT1mVkdtSlFtWGxxaDRaY3J2a3JoS0tRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTExOTg=
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.svg" group-title="Digital TV",PPTV HD
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://pptv36-1tsjfj.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1714048801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=A6mUo8Z5SSM-boOgiGv8cA
 
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--md.webp",EFM 94
+https://atimeonline.smartclick.co.th/efm
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
-https://distractible-smile.000webhostapp.com/channel/play/lovenature.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--md.webp" group-title="ฟังวิทยุออนไลน์",Green Wave 106.5
+https://atimeonline.smartclick.co.th/green
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MDI6NDMgUE0maGFzaF92YWx1ZT12bVBHZU5nUnpVQmNKQW5XZkhJM0p3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzQ1NjY=
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/iyAx04i.png", Discovery Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/MFN9PGB.png", Animal Planet
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTk6MTcgQU0maGFzaF92YWx1ZT1VSmxoRmNBWkNMWnhFMjBMMWVVSkpRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjM0MDE=
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://img2.pic.in.th/pic/HH.png",HISTORY
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://img.pic.in.th/images__1_-removebg-preview.png", NATGEO WILD
-http://main.light-ott.net:80/j6C52WJOsh/XAn1NrkdI6/760906
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/dKUJaum.png", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=OTH
-#EXTVLCOPT:update=04-07-2023 14:27:35 ( please update playlist https://bit.ly/41ui6wT )
-#EXTVLCOPT:develop by Shark Wow not for sale
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
-https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", NAT GEO US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
-https://distractible-smile.000webhostapp.com/channel/play/3bbasin.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
-https://distractible-smile.000webhostapp.com/channel/play/trueasianmorg.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
-https://distractible-smile.000webhostapp.com/channel/play/truefilm2.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTM6MDggUE0maGFzaF92YWx1ZT00MGVTbFhqOTlLbUxQakk2cDJsNkN3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzc5NTM=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTI6MzQgUE0maGFzaF92YWx1ZT1KMndtaFA4U1JrWlFZZXVKZGRRMGZBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTY3MDQ=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
-
-#EXTINF:-1 group-title="NO",
-
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15220/31756/conversions/xclVr4ObRD0l5JPoF68a1QdQguijRb-metaQ2hpbGxPbmxpbmUuanBn--md.webp",Chill Online
+https://atimeonline.smartclick.co.th/chill
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="http://musiczaclubradio.ueuo.com/tv/imagestv/Cartoon-Club.jpg", Cartoon club
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczNzcvMDEuanBn.jpg" group-title="ฟังวิทยุออนไลน์",HITZ 955
+https://18313.live.streamtheworld.com/HITZ_955AAC.aac
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://freetvdd.com 
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODUvMDMuanBn.jpg" group-title="ฟังวิทยุออนไลน์",STAR FM
+https://24863.live.streamtheworld.com/STARFM_THAAC.aac
 
-#EXTINF:-1 group-title="Kids" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png", TRUE Spark Play
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTc6MTYgUE0maGFzaF92YWx1ZT1lNjJMKzNYNDk5dTFPOWhvdGxTeDh3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODAxMDc=
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15223/24629/conversions/yr0pVrPTeGJyIx2ZQ1lgdqGdOF5kMO-metaY29vbCBmYWhyZW5oZWl0LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",COOLfahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png", Dream Works 
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTY6NTAgUE0maGFzaF92YWx1ZT0zZ2dOZVdTZjZneTlzS0VSVndZanhnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAxMzk=
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15853/28623/conversions/AG83cHKq2kxb0MZUcDye5QspqPJb7b-metaRk0gT05FIDEwMy41LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",FM ONE 103.5 FM
+https://cdn-th2.livestreaming.in.th/shoutcast/8835
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoomoo
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://admin.auto-messenger.ru/storage/radios/16076/30072/conversions/o6Mwysr9ImtEpMZNc7FYkxqVy1quqo-metaR3JlYXQ5M2ZtLnBuZw==--lg.webp",GREAT 93 FM
+http://radio.vpsthai.net:9000/stream?type=http
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL
-https://6oclock.xyz:8443/Tyrone43147/My3boys/421444
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9gqd-28ZkjYOk7pTS0HOE4DVC_C6CFZZjbFEOXxi3XsESux-OyNjnz4&s=10",Flex Connect 104.5
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png", DISNEY XD
-https://6oclock.xyz:8443/Tyrone43147/My3boys/421519
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N96spp6XLf.jpg",MUNforward
+https://cdn-th2.livestreaming.in.th/shoutcast/8730
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.goodtimeradio.fm/assets/images/Goodtime.png",Goodtime Radio
+https://gt-radio-streaming.bugaboo.tv/live_radio/live_high.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",สถานีเพลงสตริง Request Radio
+http://cast.requestradio.in.th:8100/stream
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radiotripphuket.com/images/img-listen-live.jpg",89.75 Radio Trip Phuket online
+https://cdn-th2.livestreaming.in.th/shoutcast/1150
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71m-zDy6P929wVJbukDsEr8HXxFNGyMm7Xg&usqp=CAU",Mellow FM
+https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",City Radio Pattaya
+https://streaming.thaismarthost.com:8020/ctmobile.mp3
+
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/17728/61769/conversions/em4lKZcikTO13PBIzrxVIpbF22iEej-metabHVrdGh1bmcgbmV0d29yay5wbmc=--md.webp" group-title="ฟังวิทยุออนไลน์",ลูกทุ่งเน็ตเวิร์ก
+https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/chunklist_w768886366.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://imgs.mcot.net/images/2020/01/1578472935560-167x100.png",ลูกทุ่งมหานคร: FM 95
+https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NGxZwsaD8b.jpg",ดนตรีสีสัน FM107.75
+https://plus.onair.network/radio/8010/live
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ddqtw2szlcdc.png",Huahin Radio
+https://inter1.plathong.net/7008/;stream.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODkvMDUuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rad Radio.FM
+https://14073.live.streamtheworld.com/RAD_RADIO_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczOTMvMDYuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rock on Radio.FM
+https://14073.live.streamtheworld.com/ROCK_ON_RADIOAAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODEvMDIuanBn.jpg" group-title="ฟังวิทยุออนไลน์",EAZY FM 105.5
+https://18313.live.streamtheworld.com/EAZYFM_1055AAC.aac
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.requestradio.in.th/wp-content/uploads/2016/07/icon.png",สถานีเพสากล Request Radio
+http://cast.requestradio.in.th:8400/stream
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.met107.fm/assets/images/logo/logo@2x.png",Met 107
+https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15221/24616/conversions/shRCJfuANWUxXI4HPyTkKt2DKXZBQE-metaQWN0aXZlOTkuanBn--md.webp",FM 99 Active Radio
+https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8
 
 
 
