@@ -1,3 +1,68 @@
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
+https://distractible-smile.000webhostapp.com/channel/play/3bbasin.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
+https://distractible-smile.000webhostapp.com/channel/play/trueasianmorg.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
+https://distractible-smile.000webhostapp.com/channel/play/truefilm2.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTM6MDggUE0maGFzaF92YWx1ZT00MGVTbFhqOTlLbUxQakk2cDJsNkN3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzc5NTM=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MTI6MzQgUE0maGFzaF92YWx1ZT1KMndtaFA4U1JrWlFZZXVKZGRRMGZBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTY3MDQ=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="AMARINTV" tvg-logo="http://tvsmagazine.com/images/channels/sm_N34.jpg" group-title="Digital TV",Amarin TV
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeZjA5NTI3ZTA5Y2IxN2I2N2UzNAOWIxODAyMzc4NTFhOTcy
+
+#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_7HD.jpg" group-title="Digital TV",CH 7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.svg" group-title="Digital TV",PPTV HD
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeNTgxODE2YjYzYmM3Zjg1MmQ4YwNmJkN2JmMzRhYmZhODJh
+
 #EXTINF:-1 tvg-chno="12" tvg-id="MOVIES WORLD 2.th" tvg-name="MOVIES WORLD 2" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw2.jpg",MOVIES WORLD 2
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
@@ -110,7 +175,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot_th_hd.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=cjeZGY2NGJmNTYzYWQ1NmE5NmMxOQOWI4ZGIwOTY4NjFiMjRk
 
 #EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_ONE.jpg" group-title="Digital TV",ONE31 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -122,16 +187,4 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="3" tvg-logo="http://tvsmagazine.com/images/channels/sm_N33.jpg" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-
-#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="AMARINTV" tvg-logo="http://tvsmagazine.com/images/channels/sm_N34.jpg" group-title="Digital TV",Amarin TV
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-
-#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_7HD.jpg" group-title="Digital TV",CH 7HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.svg" group-title="Digital TV",PPTV HD
-#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://cdn726.stm.trueid.net/p101aes/da7_multi_w_auto_tidapp.smil/chunklist_w163062494_b2000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=d1570fb69d&did=WnJ5bHBBUXJuckFZVlkwNWQwaHktZEUxa0gtTzFxSVk&mpass=OzuOVu3FiVkK81GeWETe2a4PHxM1VhP_OPKR3toGjWBCdQBVN-ad5t3d-1jRZ62DC8MB4BE7UplbMqtQeBidz57JfKvm9bzIYHPg9hrrd0IQlZbeNiH3WepRWb9K-ucpICBPAdsQDpIsQzpnRm8brDic&sid=34e068ebae&rt=1714029047&ds=86400&tk=rYqSq8wv9dybO2_iU6jMGoNrS1w46K6CTvjHHdgTNok
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeNzJmNDU3NWUwYjMyZWJiZDI2MAMzk4NjcwNzk4OThiOG
