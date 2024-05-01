@@ -1,3 +1,18 @@
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 1
+https://m2-txt-2.hngeatqqyj.com/playlist2/detail/dda2e45d/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 2
+https://m1-txt-2.hngeatqqyj.com/playlist2/detail/feddbdab/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 3
+https://m2-txt-2.hngeatqqyj.com/playlist2/detail/4b92d7fe/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 4
+https://m3-txt-2.hngeatqqyj.com/playlist2/detail/606bd1f9/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 5
+https://m3-txt-2.hngeatqqyj.com/playlist2/detail/bfe2423f/720/hls/index.m3u8
+
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 1
 https://vod.cf.dmcdn.net/sec2(Rcw00HgfuRs2wXLju5GyDut5i0THTaADvJKBxUa-vJjcuPWe--dXWJ-gzjDCLOECHDixdEZFET9m00oCsIksopONWuQcpDSoGygA4J4zTMVUbtvSM8QEqj-L73sZ4U61TBMtlQ07ELJLSa0Pbepc2A)/video/843/455/483554348_mp4_h264_aac_hd.m3u8
 
