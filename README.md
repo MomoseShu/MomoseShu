@@ -1,24 +1,2 @@
-{
-    "name": "LISTA DESPORTO - GERAL",
-    "author": "Bosslulamen&Lacasitos",
-    "url": "http://git.io/v8TRX",
-    "Update": "(13/11/2015)",
-    "contact": "luilulas@hotmail.com",
-    "groups": [
-    {
-    "name": "DESPORTO PORTUGAL",
-    "image": "http://cdn3-i.hitc-s.com/134/liga_portugal_34695.jpg",
-    "stations": [
-                  {
-                    "name": "''Todos os canais nacionais desporto.''
-                    SERVIDORES:''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
-                    Bosslulamen (ForoWise)",
-                    "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
-                    "url": "",
-                    "referer": "",
-                    "isHost": "" },
-								{
-                    "name": "SPORT TV AMERICAS",
-                    "image": "http://www.getsatellite.com/channels/sport-tv-americas.png",
-                    "url": "https://www.dailymotion.com/video/x7a0v4d"
-                },
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", mare
+https://vod.cf.dmcdn.net/sec2(SZ5FmwEl7iAWq0zvGqJuZ_PNe-QBlcZCJRn477-uhkRZ2NZCmSDgDccc-OBNhjMRhCRp-yywie3Jr1Zucadjkn2WYAQ9uT_eSVCHe9Eh_Y9tWM6UnTL0tBWYiW09Ye56ROutfPbLXvYAxHVtPL7rnw)/video/863/885/482588368_mp4_h264_aac_hq.m3u8
