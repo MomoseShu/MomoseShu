@@ -34,24 +34,6 @@ https://vod.cf.dmcdn.net/sec2(1Dzs6Bm4Wdx1L-X4JHZ6qP4M1aRWWV9VN_3_zaMlHn7GDEX2HT
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 10-2
 https://vod.cf.dmcdn.net/sec2(ggskIrKP5DU75B8rVwq4Tx86GO5fo2VgZyLio4yZkhAAiciL8sjBA2RO6RNZovVaO9vQ6v-c6Ovbtx1mR6d761ASKDPj6fRCxxFCZuLOGWrkvJ7iTrjzuHIfG46H0PmVepUJ4pl--1BpV77hMtjgKg)/video/046/746/484647640_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 
-https://m2-txt-2.hngeatqqyj.com/playlist2/detail/dda2e45d/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 2
-https://m1-txt-2.hngeatqqyj.com/playlist2/detail/feddbdab/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 3
-https://m2-txt-2.hngeatqqyj.com/playlist2/detail/4b92d7fe/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 4
-https://m3-txt-2.hngeatqqyj.com/playlist2/detail/606bd1f9/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 5
-https://m3-txt-2.hngeatqqyj.com/playlist2/detail/bfe2423f/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="Change" tvg-logo="https://series4you.co/uploads/b449aeef8c880bfa3b61debc8bdfdccd.jpg", นายกมือใหม่ หัวใจประชาชน ตอนที่ 1
-https://rr3---sn-w5nuxa-0u2z.googlevideo.com/videoplayback?expire=1714560760&ei=mMoxZqW8E6ql3LUP6-2JqAU&ip=2403%3A6200%3A8813%3A4abd%3Addd4%3Afa2b%3Afdcc%3Adf9b&id=o-APSgvCla5fUEXjCkUfLs-2U2pxksBYRhNCFk5dXTUfdH&itag=136&aitags=134%2C136%2C160&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=XA&mm=31%2C29&mn=sn-w5nuxa-0u2z%2Csn-w5nuxa-c33l6&ms=au%2Crdu&mv=m&mvi=3&pl=50&initcwndbps=1681250&bui=AWRWj2QmqXqtoMTHOuf5V2HdTRyKFLnWQ6PlRFruR4vsn2wwbxq94uJzCk--IFuLiZZ64i1V7b5-MdrM&spc=UWF9fwqSPTKEnLXqRuI_tlp2Hnu-gQLJnkgKcTCWzJzzvBEpLzgqAF1Lhxpv&vprv=1&svpuc=1&mime=video%2Fmp4&ns=YsqDFB6drx5vb692ZRORpbUQ&gir=yes&clen=551551376&dur=4249.811&lmt=1710840673510858&mt=1714538686&fvip=6&keepalive=yes&c=WEB&sefc=1&txp=8219224&n=J-MpdMJLdMSzaw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHWaYeowRAIgZ30AulEOdGUfBd8Xtzzezg6B1cKR-Ealklr_7sL6wz4CIF1ooiP6JzepHzft1zq9bT_U4K9WhNc...
-
 #EXTINF:-1 group-title="" tvg-logo="", 
 
 #EXTINF:-1 group-title="" tvg-logo="", 
