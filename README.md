@@ -54,19 +54,3 @@ https://vod.cf.dmcdn.net/sec2(qHiD3dgzz9B5pRlB4muOyY0nORRQ744cc4SKgTLRKZGQkFhN0r
 
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 11-2
 https://vod.cf.dmcdn.net/sec2(FA5dt67uz_e4mUwolmqSJ5NGu1J0CAXPgyLVq3A0umkXYHxEDJWhyuXiLpvzI62yeN_Y9cuxKeiXdhh2klcudxF-_5hBt-vQWrlGQvtXgNIRNdP5PW0NdLoFlqpFdkJtSvMU403ncWZV-9QfqaYJZQ)/video/504/007/484700405_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
-
-#EXTINF:-1 group-title="" tvg-logo="", 
