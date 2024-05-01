@@ -34,6 +34,39 @@ https://vod.cf.dmcdn.net/sec2(1Dzs6Bm4Wdx1L-X4JHZ6qP4M1aRWWV9VN_3_zaMlHn7GDEX2HT
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 10-2
 https://vod.cf.dmcdn.net/sec2(ggskIrKP5DU75B8rVwq4Tx86GO5fo2VgZyLio4yZkhAAiciL8sjBA2RO6RNZovVaO9vQ6v-c6Ovbtx1mR6d761ASKDPj6fRCxxFCZuLOGWrkvJ7iTrjzuHIfG46H0PmVepUJ4pl--1BpV77hMtjgKg)/video/046/746/484647640_mp4_h264_aac_hd.m3u8
 
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 
+https://m2-txt-2.hngeatqqyj.com/playlist2/detail/dda2e45d/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 2
+https://m1-txt-2.hngeatqqyj.com/playlist2/detail/feddbdab/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 3
+https://m2-txt-2.hngeatqqyj.com/playlist2/detail/4b92d7fe/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 4
+https://m3-txt-2.hngeatqqyj.com/playlist2/detail/606bd1f9/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 5
+https://m3-txt-2.hngeatqqyj.com/playlist2/detail/bfe2423f/720/hls/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="", 
+
+#EXTINF:-1 group-title="" tvg-logo="", 
+
+#EXTINF:-1 group-title="" tvg-logo="", 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 11-1
 https://vod.cf.dmcdn.net/sec2(qHiD3dgzz9B5pRlB4muOyY0nORRQ744cc4SKgTLRKZGQkFhN0r1Au0kTQj50yfj9itMitrSzNlHr9qeTK-Y667QqJkJgaYXzsFO-WAhV3Eibp6L2hglAzwmIR4pqfBnTKLDXGMEsmMrvxHtWUpKBCQ)/video/033/007/484700330_mp4_h264_aac_hd.m3u8
 
