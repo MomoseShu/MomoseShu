@@ -76,3 +76,6 @@ https://vod.cf.dmcdn.net/sec2(WCaMuUjaTx7wZ4ZKTNMx_II8DCkTIX21WoxUrIGn0uAFArqYnT
 #EXTINF:-1 group-title="La Grande Maison Tokyo" tvg-logo="https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain", ซีรีส์ญี่ปุ่นเรื่อง สุดยอดเชฟหัวใจแกร่ง (La Grande Maison Tokyo) ตอนที่ 10-2
 https://vod.cf.dmcdn.net/sec2(Xr235QdWuJfIDH0PAlqf50kavSLV0pKTC0hP3MC2CzO75l7aoDWBfz6GPezDKXSW7b2m3lnknOTIga2mFAxVM4fglaYmLjPxSubX9kME0J9L1Xf27X0Lx94RB1_whOYVCZNHYHsT-aehHOA7bvx85A)/video/488/739/485937884_mp4_h264_aac_hq.m3u8
 
+#EXTINF:-1 group-title="La Grande Maison Tokyo" tvg-logo="https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain", ซีรีส์ญี่ปุ่นเรื่อง สุดยอดเชฟหัวใจแกร่ง (La Grande Maison Tokyo) ตอนที่ 11
+https://720.anime888.com/files/a12bd4d036ff8686a42c95c4fe4a57a5_720p.html
+
