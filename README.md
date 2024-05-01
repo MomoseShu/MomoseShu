@@ -1,18 +1,3 @@
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 1
-https://m2-txt-2.hngeatqqyj.com/playlist2/detail/dda2e45d/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 2
-https://m1-txt-2.hngeatqqyj.com/playlist2/detail/feddbdab/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 3
-https://m2-txt-2.hngeatqqyj.com/playlist2/detail/4b92d7fe/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 4
-https://m3-txt-2.hngeatqqyj.com/playlist2/detail/606bd1f9/720/hls/index.m3u8
-
-#EXTINF:-1 group-title="YuYu Hakusho (2023)" tvg-logo="https://serieshd24.com/wp-content/uploads/2023/12/AnyConv.com__YuYu-Hakusho-2023.webp", YuYu Hakusho (2023) คนเก่งฟ้าประทาน ตอนที่ 5
-https://m3-txt-2.hngeatqqyj.com/playlist2/detail/bfe2423f/720/hls/index.m3u8
-
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 1
 https://vod.cf.dmcdn.net/sec2(Rcw00HgfuRs2wXLju5GyDut5i0THTaADvJKBxUa-vJjcuPWe--dXWJ-gzjDCLOECHDixdEZFET9m00oCsIksopONWuQcpDSoGygA4J4zTMVUbtvSM8QEqj-L73sZ4U61TBMtlQ07ELJLSa0Pbepc2A)/video/843/455/483554348_mp4_h264_aac_hd.m3u8
 
@@ -54,3 +39,6 @@ https://vod.cf.dmcdn.net/sec2(qHiD3dgzz9B5pRlB4muOyY0nORRQ744cc4SKgTLRKZGQkFhN0r
 
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 11-2
 https://vod.cf.dmcdn.net/sec2(FA5dt67uz_e4mUwolmqSJ5NGu1J0CAXPgyLVq3A0umkXYHxEDJWhyuXiLpvzI62yeN_Y9cuxKeiXdhh2klcudxF-_5hBt-vQWrlGQvtXgNIRNdP5PW0NdLoFlqpFdkJtSvMU403ncWZV-9QfqaYJZQ)/video/504/007/484700405_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1 group-title="Signal" tvg-logo="https://seriesmy.com/wp-content/uploads/2023/01/Signal-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-110x150.webp", ซีรี่ย์ญี่ปุ่น Signal สืบข้ามเวลาสัญญาณต่ออดีต ตอนที่ 
+https://vd480.mycdn.me/?expires=1714626381411&srcIp=223.204.224.2&pr=10&srcAg=CHROME&ms=45.136.22.37&type=1&sig=Ej3LW2JFavQ&ct=6&urls=45.136.20.56&clientType=0&zs=67&id=3604843072143&selected_id=6
