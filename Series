@@ -1,4 +1,5 @@
-Thai Movie
+#EXTINF:-1 group-title="Thai Movie", หนังไทย
+
 
 #EXTINF:-1 group-title="หนังไทย" tvg-logo="https://th.bing.com/th/id/OIP.3d88fKh_rGHGVUGZlrrvEwHaLH?rs=1&pid=ImgDetMain", หมากเตะรีเทิร์นส
 https://ezycdn.com/playlist-pkmv6ng4-SD.m3u8
@@ -90,7 +91,10 @@ https://ezycdn.com/playlist-rukte1dr-SD.m3u8
 
 
 
-Thai Series
+#EXTINF:-1 group-title="Thai Series", ซีรีย์ไทย
+
+
+
 
 #EXTINF:-1 group-title="น้ำตากามเทพ" tvg-logo="https://th.bing.com/th/id/OIP.aluqITRPGft0B6whhtgPKAHaEK?rs=1&pid=ImgDetMain", ซีรีส์ไทยเรื่อง น้ำตากามเทพ (Stupid Cupid TheSeries) EP.1
 https://vod.cf.dmcdn.net/sec2(BksmllTo3f83_Ki6V-cdbY426ZYxVxBiChzN8ESAr0nELF3tiUXy_9T7xOfWHtci-mzxTpxwLRjiIJilONZwDPZbkLhdNEnRcrcb2Psohvb76ntQAvIkI2_eDkiFB3Vglge9sweQ0cO9UwNb4JsWqQ)/video/304/735/375537403_mp4_h264_aac_hd_hfr.m3u8
@@ -136,7 +140,10 @@ https://vod.cf.dmcdn.net/sec2(7lF-hoKSsDCbHgjnBSSPWpLCFzV2j9ut4KzcmUyROmuBIOFOVN
 
 
 
-Inter Movie
+#EXTINF:-1 group-title="Inter Movie", หนังฝรั่ง
+
+
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2021/06/Batman-Begins-2005.jpg.webp",Batman Begins (2005) แบทแมน บีกินส์
 https://playermhd.p2phls.xyz/232f5d7d-9ec1-4aad-b29b-7170270b6b8a/0
@@ -159,8 +166,8 @@ https://play.kakjeawplay.xyz/dfb3e830-f316-4b85-911f-0ebc5a9f9936/0
 
 
 
+#EXTINF:-1 group-title="Inter Series",ซีรีย์ฝรั่ง
 
-Inter Series
 
 
 #EXTINF:-1 group-title="BLOCKBUSTER" tvg-logo="https://tvallseries.co/wp-content/uploads/2022/11/1seIJ8wIKo3KXp7hnwS5wj69U8M-185x278.jpg.webp", ซีรีส์ฝรั่งเรื่อง BLOCKBUSTER (2022) บล็อกบัสเตอร์ EP.1
@@ -676,13 +683,12 @@ https://playcdn.tvallseries.com/57bd06ee-63d7-408d-ba3d-842dd4e00ed8/0
 #EXTINF:-1 group-title="The Good Doctor Season 4" tvg-logo="https://fr.web.img3.acsta.net/pictures/20/09/18/09/07/2663066.jpg", ซีรีส์ฝรั่งเรื่อง The Good Doctor Season 4 EP.8
 https://playcdn.tvallseries.com/a190a93e-8def-4c7b-a74d-7765b341a198/0
 
-#EXTINF:-1 group-title="" tvg-logo="", ซีรีส์ฝรั่ง
 
 
 
+#EXTINF:-1 group-title="Japan Series",ซีรีย์ญี่ปุ่น
 
 
-Japan Series
 
 
 #EXTINF:-1 group-title="RIKUOH" tvg-logo="https://i.mydramalist.com/QdeLWf.jpg", ซีรีส์ญี่ปุ่น RIKUOH วิ่งสุดใจ ไปสุดฝัน ตอนที่ 1
@@ -1635,15 +1641,11 @@ https://series-cdn.team-indy.net:8443/vod/wq1xSAcO/video.mp4/chunk.m3u8?nimblese
 https://series-cdn.team-indy.net:8443/vod/R4FFRbkt/video.mp4/chunk.m3u8?nimblesessionid=5806262
 
 
-#EXTINF:-1 group-title="" tvg-logo="", ซีรีส์ญี่ปุ่นเรื่อง
 
 
+#EXTINF:-1 group-title="Korea Series", ซีรีย์เกาหลี
 
 
-
-
-
-Korea Series
 
 #EXTINF:-1 group-title="Revolutionary Love" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIe4h9F5X7oF0gOTgjBS0C1leSo.jpg", ซีรีส์เกาหลีเรื่อง Revolutionary Love หัวใจไม่มีกรอบ EP.1
 https://playcdn.tvallseries.com/2dc04719-0508-44b2-ad29-684b741ffe47/0
@@ -2150,11 +2152,7 @@ https://playcdn.tvallseries.com/9d9be738-ec45-4a33-92a8-bb8b20c6c5d2/0
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="", ซีรีส์เกาหลีเรื่อง 
 
-#EXTINF:-1 group-title="" tvg-logo="", ซีรีส์เกาหลีเรื่อง 
-
-#EXTINF:-1 group-title="" tvg-logo="", ซีรีส์เกาหลีเรื่อง 
 
 
 
