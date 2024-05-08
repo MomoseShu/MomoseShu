@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Thai Movie", หนังไทย
+#EXTINF:-1, หนังไทย
 
 
 #EXTINF:-1 group-title="หนังไทย" tvg-logo="https://th.bing.com/th/id/OIP.3d88fKh_rGHGVUGZlrrvEwHaLH?rs=1&pid=ImgDetMain", หมากเตะรีเทิร์นส
@@ -140,7 +140,7 @@ https://vod.cf.dmcdn.net/sec2(7lF-hoKSsDCbHgjnBSSPWpLCFzV2j9ut4KzcmUyROmuBIOFOVN
 
 
 
-#EXTINF:-1 group-title="Inter Movie", หนังฝรั่ง
+#EXTINF:-1, หนังฝรั่ง
 
 
 
@@ -166,7 +166,7 @@ https://play.kakjeawplay.xyz/dfb3e830-f316-4b85-911f-0ebc5a9f9936/0
 
 
 
-#EXTINF:-1 group-title="Inter Series",ซีรีย์ฝรั่ง
+#EXTINF:-1,ซีรีย์ฝรั่ง
 
 
 
@@ -686,7 +686,7 @@ https://playcdn.tvallseries.com/a190a93e-8def-4c7b-a74d-7765b341a198/0
 
 
 
-#EXTINF:-1 group-title="Japan Series",ซีรีย์ญี่ปุ่น
+#EXTINF:-1,ซีรีย์ญี่ปุ่น
 
 
 
@@ -1886,7 +1886,7 @@ https://stream1-gsxcob.cdn-nanaplayer.com/hls2/02/00005/duh63qgzwnd4_h/index-v1-
 
 
 
-#EXTINF:-1 group-title="Korea Series", ซีรีย์เกาหลี
+#EXTINF:-1, ซีรีย์เกาหลี
 
 
 
