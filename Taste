@@ -1,33 +1,26 @@
-#EXTINF:-1 group-title="THSport", 1
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
-
-#EXTINF:-1 group-title="THSport", 2
+#EXTINF:-1 group-title="THSport", Siamsport 1
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
 
-#EXTINF:-1 group-title="THSport", 3
+#EXTINF:-1 group-title="THSport", Siamsport 2
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
+
+#EXTINF:-1 group-title="THSport", Siamsport 3
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
 
-#EXTINF:-1 group-title="THSport", 4
+#EXTINF:-1 group-title="THSport", Siamsport 4
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
 
-#EXTINF:-1 group-title="THSport", 11
+#EXTINF:-1 group-title="THSport", BallThai 1
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 
-#EXTINF:-1 group-title="THSport", golf
+#EXTINF:-1 group-title="THSport", Golf
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8
 
-#EXTINF:-1 group-title="THSport", dream
+#EXTINF:-1 group-title="THSport", Dreamworks 
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
 
-#EXTINF:-1 group-title="THSport", 
+#EXTINF:-1 group-title="THSport", Spark Play
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
 
-#EXTINF:-1 group-title="THSport", 
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/discovery-asia
-
-#EXTINF:-1 group-title="THSport", 
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/animal-planet
