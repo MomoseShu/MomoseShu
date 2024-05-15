@@ -13,14 +13,49 @@ https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais
 #EXTINF:-1 group-title="THSport", BallThai 1
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 
-#EXTINF:-1 group-title="THSport", Golf
+#EXTINF:-1 group-title="THSport", Golf Channel
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8
 
-#EXTINF:-1 group-title="THSport", Dreamworks 
+#EXTINF:-1 group-title="Kids", Dreamworks 
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
 
-#EXTINF:-1 group-title="THSport", Spark Play
+#EXTINF:-1 group-title="Kids", Spark Play
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Entertainment", 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+
+#EXTINF:-1 group-title="Movie",HBO
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Movie",Cinemax
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Movie",Paramount
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Movie",Hero
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Movie",Gem
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Movie",AsianMore
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="Discovery", 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+
+
+
+
+
 
