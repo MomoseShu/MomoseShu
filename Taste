@@ -81,147 +81,76 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
 
-#EXTINF:-0 group-title="Knowledge" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://2nud.short.gy/ukdmax.m3u8
-
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Animal Planet" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Ais Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=ttps://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfRHlMcWNJS08xZlFkR2IwQ0ZZZHoiLCJjaWQiOiJWMDE4MiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzM3R1VlZVB0MFcvL3RPTVQ3TzNTaWUiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjE2OjE4WiIsImhhc2giOiJJREhJUkMxV2Z3OHF5ZGJHUlZSZFJvLzI2dStNTy9RblR2N1V0M0RhQitjPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Discovery" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", Ais Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfaUdKZDR1NkdMaENRMWhTbVg1QUoiLCJjaWQiOiJWMDE4MCIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzNEeWJaQVVNYXBoSUNaTnN6TlJEYW8iLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjE3OjAyWiIsImhhc2giOiIvbm95RkRJODlrQ2xONlFjdUZDSnV2Y0xKMHFySGtmS25UVWppblhwaVhNPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id=" Discovery Asia" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png", Ais Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfdWtsdFBxNlhFSlJ0Vkl5QVVLRWEiLCJjaWQiOiJWMDE4MSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzAvRkVZNmhQMG5KbEllTmZOSnBnTisiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjE3OjQ2WiIsImhhc2giOiJkQm5vVkJPYUVCQXhIWFlqeDc1SnY5ZTBrVVNoRllQR0RzMnhGanU4QldNPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Food Network" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png", Ais Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfVm9CME4zSTFNb1FKQXk3UUIyOW0iLCJjaWQiOiJWMDE2MiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzE3K2NaZDJJU0VyTWxQankvUThheDgiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjI0OjEwWiIsImhhc2giOiJwd0xrOGJoVXFwUXpyOGJ5bHlHQU1CWWFiYnRabHBvTHBGb0QxTmtnYmJ3PSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Asian Food" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png", Ais Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfbVloWEdsSG9rWlJmbnk1NENmUm4iLCJjaWQiOiJWMDE2MSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzAySVVwZFE3M2RKaWlQbHN3VEZuMTgiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjI0OjQyWiIsImhhc2giOiIrcE5WbEl4UzNGVXoyb0d5cWU4RXE0azV5d0FDeFMxVzEwWStiaWtVOGFNPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="TLC" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png", Ais TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfeUdCOW9SYXM5TjdJbklLSklxRlYiLCJjaWQiOiJWMDE4MyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzF5Uk8vTWRuc3ErS1UyL3BTNnlOcFQiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjI1OjIzWiIsImhhc2giOiJYM3NLVXJKMVFReERYWkttbUR4bzJhLzYyOGdOZSs3VDB2c0FCRzZGTmdFPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="GlobalTrekker" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png", Ais GlobalTrekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfdTlzZ2FoSWhQSUNrbjVTWnJyRkYiLCJjaWQiOiJWMDAyMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzNhcUFyVWU2Rzk1bE13RW9rWGZUYWgiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjI1OjU3WiIsImhhc2giOiJVS3lDOFdYRXF0czNxZGZRSU9ObHM4V2RUZllIQnBHQ3hhNEN5WmFXRncwPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="TechStorm" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png", Ais TechStorm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfa01CeEdudXI1dTNhMmpzNEVmdzkiLCJjaWQiOiJWMDE2OCIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS09Faml6QU5VL1NNNGs1RmdFWmFMYzBZNjZjL1lVWG9VSU9qNVpqSHBCNHoiLCJ0aW1lc3RhbXAiOiIyMDIzLTExLTIyVDA0OjI2OjI4WiIsImhhc2giOiJ3MmV4M1B3YkFFTzFDUFlBbSs3bDUxcW12aWlHVXNLTFRQQlNKckNiamdRPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://www.bahfootball.com/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="สำรวจโลก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", Ais สำรวจโลก
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="MySci" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", Ais MySci
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Animal Show" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", Ais Animal Show
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="ของดี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png", Ais ของดี
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0154/DASH/V0154.mpd
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/DASH/V0154.mpd
 
 #EXTINF:-0 group-title="Ais Knowledge" tvg-id="Thainess" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png", Ais Thainess
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
-
-#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png" tvg-name="" tvg-id="3BB-HBO" group-title="Ais Movies",HBO HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cnt1-streamer15.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-
-#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png" tvg-name="" tvg-id="3BB-HBO Singnature" group-title="Ais Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-
-#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png" tvg-name="" tvg-id="3BB-HBO Hits" group-title="Ais Movies",HBO Hits
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-https://cnt1-streamer20.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
-#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png" tvg-name="" tvg-id="3BB-HBO Family" group-title="Ais Movies",HBO Family
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cnt1-streamer19.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png" tvg-name="" tvg-id="3BB-Cinemax" group-title="Ais Movies",Cinemax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o3XQhiQpqNJv/2ZV5IZc1Q", "kid":"EQg3dH7ihdTP0RRaEyiNNQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" tvg-name="" tvg-id="3BB-" group-title="Ais Movies",Mono29 Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" tvg-name="" tvg-id="3BB-" group-title="Ais Movies",Mono2 T
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0109/HLS/V0109.m3u8
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" tvg-name="" tvg-id="3BB-" group-title="Ais Movies",M HBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o3XQhiQpqNJv/2ZV5IZc1Q", "kid":"EQg3dH7ihdTP0RRaEyiNNQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0103/HLS/V0103.m3u8
-
-#EXTINF:-1,2
-https://2nud.short.gy/beinth.m3u8
-
-#EXTINF:-1,3
-https://2nud.short.gy/bein1.m3u8
-
-#EXTINF:-1,6
-https://2nud.short.gy/epl1.m3u8
-
-#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" tvg-name="" tvg-id="3BB-" group-title="Ais Movies",M HBO55
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o3XQhiQpqNJv/2ZV5IZc1Q", "kid":"EQg3dH7ihdTP0RRaEyiNNQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V005/HLS/V005.m3u8
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
 
 
 
