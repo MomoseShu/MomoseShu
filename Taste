@@ -216,5 +216,13 @@ https://2nud.short.gy/bein1.m3u8
 #EXTINF:-1,6
 https://2nud.short.gy/epl1.m3u8
 
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png" tvg-name="" tvg-id="3BB-" group-title="Ais Movies",M HBO55
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o3XQhiQpqNJv/2ZV5IZc1Q", "kid":"EQg3dH7ihdTP0RRaEyiNNQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V005/HLS/V005.m3u8
+
+
 
 
