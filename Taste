@@ -18,3 +18,205 @@ https://webhdrus.onlinehdhls.ru/lb/premium8/index.m3u8
 
 #EXTINF:-1,9
 https://webhdrus.onlinehdhls.ru/lb/premium9/index.m3u8
+
+#EXTINF:-1,astro 1
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63112
+
+#EXTINF:-1,astro 2
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63113
+
+#EXTINF:-1,3
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63114
+
+#EXTINF:-1,astro 4
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63598
+
+
+#EXTINF:-1,tsn1
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142475
+
+#EXTINF:-1,tsn2
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142476
+
+#EXTINF:-1,tsn3
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142477
+
+#EXTINF:-1,tsn4
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142478
+
+#EXTINF:-1,tsn5
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\2233
+
+
+
+#EXTINF:-1,tnt sport 1
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\2245
+
+#EXTINF:-1,tnt sport 2
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\117026
+
+#EXTINF:-1,tnt sport 3
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\117074
+
+#EXTINF:-1,tnt sport 4
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\117028
+
+
+
+
+
+
+
+sport
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--440.png" group-title="LIVEBALLTV",TV3 Sport1
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/tv3sport1/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1219.png" group-title="LIVEBALLTV",TV3 Max
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/tv3max/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png" group-title="LIVEBALLTV",Sport Digital
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/sportdigital/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--166.png" group-title="LIVEBALLTV",Sport1 HD
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/sport1hd/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--149.png" group-title="LIVEBALLTV",Sport1+ Plus
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/sport1plus/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1133.png" group-title="LIVEBALLTV",6eren
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/6eren/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--446.png" group-title="LIVEBALLTV",CANAL9
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/canal9denmark/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png" group-title="LIVEBALLTV",CANAL11 PT
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/canal11pt/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1500.png" group-title="LIVEBALLTV",Eleven Sport1 PT
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/elevensports1pt/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1501.png" group-title="LIVEBALLTV",Eleven Sport2 PT
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/elevensport2pt/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1502.png" group-title="LIVEBALLTV",Eleven Sport3 PT
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/elevensport3pt/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--114.png" group-title="LIVEBALLTV",MUTV
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/mutv/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--112.png" group-title="LIVEBALLTV",LFCTV
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/lfctv/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png" group-title="LIVEBALLTV",beIN Sports 1
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/beinsport1_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png" group-title="LIVEBALLTV",beIN Sports 2
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/beinsporthd2_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1079.png" group-title="LIVEBALLTV",beIN Sports 3
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/beinsporthd3_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd.png" group-title="LIVEBALLTV",True Sport HD1
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd1_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd2.png" group-title="LIVEBALLTV",True Sport HD2
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd2_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd3.png" group-title="LIVEBALLTV",True Sport HD3
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd3_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tyln58gguj0oo99/tsp4.png?dl=1",True Sport HD4
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/truesporthd4_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl1.png" group-title="LIVEBALLTV",True Premier HD 1
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl1_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png" group-title="LIVEBALLTV",True Premier HD 2
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl2_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl3.png" group-title="LIVEBALLTV",True Premier HD 3
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl3_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl4.png" group-title="LIVEBALLTV",True Premier HD 4
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl4_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl5.png" group-title="LIVEBALLTV",True Premier HD 5
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl5_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://365liveball.com/
+
+#EXTINF:-1,fox soccer plus
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\141465
+
+#EXTINF:-1,bein sports usa 
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\141452
+
+
+#EXTINF:-1,optus 1
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63928
+
+#EXTINF:-1,optus 2
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63929
+
+#EXTINF:-1,optus 3
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63930
+
+#EXTINF:-1,optus 4
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63931
+
+#EXTINF:-1,optus 5
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63932
+
+#EXTINF:-1,optus 6
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\63933
+
+#EXTINF:-1,optus 7
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\64874
+
+#EXTINF:-1,XITE
+http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\73726
+
