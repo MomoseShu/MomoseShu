@@ -1,21 +1,92 @@
+#EXTINF:-1, astro1
+https:\\webhdrus.onlinehdhls.ru\lb\premium123\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",1
-#EXTVLCOPT:http-referrer=https://webhdrus.onlinehdhls.ru
-https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
+#EXTINF:-1, astro 2
+https:\\webhdrus.onlinehdhls.ru\lb\premium124\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",2
-#EXTVLCOPT:http-referrer=https://webhdrus.onlinehdhls.ru
-https://webhdrus.onlinehdhls.ru/lb/premium611/index.m3u8
+#EXTINF:-1, astro3
+https:\\webhdrus.onlinehdhls.ru\lb\premium125\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",3
-#EXTVLCOPT:http-referrer=https://webhdrus.onlinehdhls.ru
-https://webhdrus.onlinehdhls.ru/lb/premium612/index.m3u8
+#EXTINF:-1, astro4
+https:\\webhdrus.onlinehdhls.ru\lb\premium126\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",4
-#EXTVLCOPT:http-referrer=https://webhdrus.onlinehdhls.ru
-https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
+#EXTINF:-1, arena premium 1
+https:\\webhdrus.onlinehdhls.ru\lb\premium134\index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",5
-#EXTVLCOPT:http-referrer=https://webhdrus.onlinehdhls.ru
-https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
+#EXTINF:-1, arena premium 2
+https:\\webhdrus.onlinehdhls.ru\lb\premium135\index.m3u8
+
+#EXTINF:-1, arena premium 3
+https:\\webhdrus.onlinehdhls.ru\lb\premium135\index.m3u8
+
+
+#EXTINF:-1, bein usa
+https:\\webhdrus.onlinehdhls.ru\lb\premium425\index.m3u8
+
+#EXTINF:-1, cosmote sport 1
+https:\\webhdrus.onlinehdhls.ru\lb\premium622\index.m3u8
+
+#EXTINF:-1, cosmote sport 2
+https:\\webhdrus.onlinehdhls.ru\lb\premium623\index.m3u8
+
+#EXTINF:-1, cosmote sport 3
+https:\\webhdrus.onlinehdhls.ru\lb\premium624\index.m3u8
+
+#EXTINF:-1, cosmote sport 4
+https:\\webhdrus.onlinehdhls.ru\lb\premium625\index.m3u8
+
+#EXTINF:-1, cosmote sport 5
+https:\\webhdrus.onlinehdhls.ru\lb\premium626\index.m3u8
+
+#EXTINF:-1, cosmote sport 6
+https:\\webhdrus.onlinehdhls.ru\lb\premium627\index.m3u8
+
+#EXTINF:-1, cosmote sport 7
+https:\\webhdrus.onlinehdhls.ru\lb\premium628\index.m3u8
+
+#EXTINF:-1, cosmote sport 8
+https:\\webhdrus.onlinehdhls.ru\lb\premium629\index.m3u8
+
+#EXTINF:-1, ESPN NL 
+https:\\webhdrus.onlinehdhls.ru\lb\premium379\index.m3u8
+
+#EXTINF:-1, ESPN2 NL
+https:\\webhdrus.onlinehdhls.ru\lb\premium386\index.m3u8
+
+#EXTINF:-1, Eleven Sport PT 
+https:\\webhdrus.onlinehdhls.ru\lb\premium455\index.m3u8
+
+#EXTINF:-1, Eurosport 1 UK
+https:\\webhdrus.onlinehdhls.ru\lb\premium41\index.m3u8
+
+#EXTINF:-1, Eurosport 2 UK
+https:\\webhdrus.onlinehdhls.ru\lb\premium42\index.m3u8
+
+#EXTINF:-1, Fox Sport Argentina
+https:\\webhdrus.onlinehdhls.ru\lb\premium767\index.m3u8
+
+#EXTINF:-1, Fox Sport2 Argentina
+https:\\webhdrus.onlinehdhls.ru\lb\premium788\index.m3u8
+
+#EXTINF:-1, Fox Sport3 Argentina
+https:\\webhdrus.onlinehdhls.ru\lb\premium789\index.m3u8
+
+#EXTINF:-1, Laliga SmartBank TV
+https:\\webhdrus.onlinehdhls.ru\lb\premium539\index.m3u8
+
+#EXTINF:-1, Max Sport 1 Bulgaria
+https:\\webhdrus.onlinehdhls.ru\lb\premium472\index.m3u8
+
+#EXTINF:-1, Max Sport 2 Bulgaria
+https:\\webhdrus.onlinehdhls.ru\lb\premium473\index.m3u8
+
+#EXTINF:-1, Max Sport 3 Bulgaria
+https:\\webhdrus.onlinehdhls.ru\lb\premium474\index.m3u8
+
+#EXTINF:-1, Max Sport 4 Bulgaria
+https:\\webhdrus.onlinehdhls.ru\lb\premium475\index.m3u8
+
+#EXTINF:-1, rai sport Italy
+https:\\webhdrus.onlinehdhls.ru\lb\premium882\index.m3u8
+
 
