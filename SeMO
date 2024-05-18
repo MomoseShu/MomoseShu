@@ -1,0 +1,98 @@
+{
+  "name": "Serie Movie",
+  "author": "Momose Watch",
+  "info": "ทำไว้ดูเอง อย่าเอาไปขายนะครับ ไม่งั้นก็จะหายไป",
+  "image": "https://th.bing.com/th/id/R.58d34216d27f40de22fa1252b08acce4?rik=cdHlR05JTD89zg&pid=ImgRaw&r=0",
+  "groups": [
+    {
+      "name": "NIGHT DOCTOR",
+      "info": "HD",
+      "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/d78dfe45-281f-4db8-9924-7e4f17a91961/0
+",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/2e15b7c8-263c-4e5f-a9ea-5f08840e935a/0
+",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/2855649a-f1f4-41eb-9b32-1b907ee55118/0
+",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/dfea6b6a-01c7-4af2-a2a6-4279ec5a3171/0
+",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/538bd4cc-9bcb-425d-8fd2-d29977e0e90f/0",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/28c98694-6424-4907-bd68-e24c9eea4a5a/0",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/4a152fdc-bda3-403f-a620-23b6f1e73e4c/0",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/f2e37b9f-3073-4468-873c-e2eac34c74af/0",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/9a66db68-2605-4212-b050-bda77b7a9e83/0",
+          "referer": ""
+        },
+   {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/fca41ce0-241f-434f-ac5c-bc7534625619/0",
+          "referer": ""
+        },
+    {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
+          "url": "https://playcdn.tvallseries.com/24c4b726-3ded-4f92-ae95-8565c14fe2dc/0",
+          "referer": ""
+        },
+      ]
+    },
+  ]
+  }
+ ]
+}
