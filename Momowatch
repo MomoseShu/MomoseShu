@@ -1,0 +1,14 @@
+{
+	"name": "Momose Series&Movie",
+	"author": "Momose",
+	"image": "https://th.bing.com/th/id/R.58d34216d27f40de22fa1252b08acce4?rik=cdHlR05JTD89zg&pid=ImgRaw&r=0",
+	"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Momose%20Series%26Movie",
+	"groups": [
+{
+				"name": "ซีรี่ย์ญี่ปุ่น",
+				"image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+				"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/SeMO",
+				"import": "false"
+			},
+]
+}
