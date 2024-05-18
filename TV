@@ -164,13 +164,13 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 https://spleeny-bridges.000webhostapp.com/channel/truefilm2.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
-https://spleeny-bridges.000webhostapp.com/channel/rockentertainment.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
-https://spleeny-bridges.000webhostapp.com/channel/rockaction.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
-https://spleeny-bridges.000webhostapp.com/channel/paramountnetwork.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -207,24 +207,25 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-https://spleeny-bridges.000webhostapp.com/channel/hbo.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
-https://spleeny-bridges.000webhostapp.com/channel/hbohits.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
-https://spleeny-bridges.000webhostapp.com/channel/hbofamily.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
-https://spleeny-bridges.000webhostapp.com/channel/rockentertainment.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
-https://spleeny-bridges.000webhostapp.com/channel/cinemax.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
-https://spleeny-bridges.000webhostapp.com/channel/monoplus.m3u8
+
 
 #EXTINF:-1 group-title="NO",
+
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
@@ -375,133 +376,12 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/28270
 
 #EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2 
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", BALLTHAI 4
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+*****
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", BALLTHAI 5
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", BALLTHAI 6
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", BALLTHAI 7
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", BALLTHAI 8
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",Siamsport 1
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png", Siamsport 2
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png", Siamsport 3
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png", Siamsport 4
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 2
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/2sporthd2_480p/chunks.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", TrueSports 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", TrueSports 7
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/truetennis_480p/chunks.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
-https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png", 3BB SPORT
-https://spleeny-bridges.000webhostapp.com/channel/3bbspor.m3u8
-
-#EXTINF:-1 group-title="NO",
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/2560px-Premier_sports_logo_2018.svg.png",PREMIER SPORTS 
@@ -560,17 +440,23 @@ http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7342/index.m3u8
 
 🇵🇹 Portugal 
 
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-k0eCRENwEHKaumhfdGA6lE7gETRwGtLvtj66yUY8KWvAcBuPmpYOpKG&s=10",Sport TV +
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62077
+
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png",Sport TV 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png",Sport TV 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62079
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png",Sport TV 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/74595
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png",Sport TV 4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62074
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93v_mt3jzy54y15lcbv0luewK-ByHJuZXkM_gDghN&s",Sport TV 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62082
 
 #EXTINF:-1 group-title="NO",
 
@@ -587,11 +473,6 @@ http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5nfXVDaubknKrVhuMpVCdeVSrTs2g1UUYw&usqp=CAU",DK TV 2  SPORT
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59250
-
-#EXTINF:-1 group-title="NO", 
-
-#EXTINF:-1 group-title="Football", Rai Sport 
-https://playtv.my.id/play/dnraisport.m3u8
 
 #EXTINF:-1 group-title="NO", 
 
@@ -650,6 +531,8 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73132
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",SKY SPORT 9 Newzealand
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/73133
 
+#EXTINF:-1 group-title="NO",
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro SuperSport 1
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63112
 
@@ -667,7 +550,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63598
 #EXTINF:-1 group-title="NO",
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNiJm27gTKgVuJ70SfHaTBGVzqz9ib0ST1wQ&usqp=CAU", USA BEIN SPORTS
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/32351
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg",CBS SPORTS NETWORK
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/141455
@@ -791,9 +674,6 @@ http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\64874
 
 
 🇺🇲 USA
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SrxO-DERpKkHUGkyHIMnqoBCvVO0c2w51S2n7ePeZw&s" group-title="LIVEBALLTV",bein sports usa 
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\141452
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN US
 https://6oclock.xyz:8443/Tyrone43147/My3boys/15976
@@ -1047,6 +927,160 @@ http://hardcoremedia.xyz:80/ymxiontq/4136602003/206935
 
 
 #EXTINF:-1 group-title="NO",
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qI1A3KX.png", CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fJNDK6l.png",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1upyW3z.png",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/bOY9jm3.png", Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/31S1GeB.png", DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/4NQtwZy.png", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Z0YdSDe.png", Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/4ZwDPsK.png", Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
+#EXTVLCOPT:develop by Shark Wow not for sale
+http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
+
+#EXTINF:-1 group-title="News", CNBC
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12774
+
+#EXTINF:-1 group-title="News" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",NHK WORLD
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--md.webp",EFM 94
+https://atimeonline.smartclick.co.th/efm
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15219/61770/conversions/fdWbOjobEgCGoDkxQnfsnGYkS3e3eL-metaZ3JlZW53YXZlLnBuZw==--md.webp" group-title="ฟังวิทยุออนไลน์",Green Wave 106.5
+https://atimeonline.smartclick.co.th/green
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15220/31756/conversions/xclVr4ObRD0l5JPoF68a1QdQguijRb-metaQ2hpbGxPbmxpbmUuanBn--md.webp",Chill Online
+https://atimeonline.smartclick.co.th/chill
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczNzcvMDEuanBn.jpg" group-title="ฟังวิทยุออนไลน์",HITZ 955
+https://18313.live.streamtheworld.com/HITZ_955AAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODUvMDMuanBn.jpg" group-title="ฟังวิทยุออนไลน์",STAR FM
+https://24863.live.streamtheworld.com/STARFM_THAAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15223/24629/conversions/yr0pVrPTeGJyIx2ZQ1lgdqGdOF5kMO-metaY29vbCBmYWhyZW5oZWl0LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",COOLfahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15853/28623/conversions/AG83cHKq2kxb0MZUcDye5QspqPJb7b-metaRk0gT05FIDEwMy41LmpwZw==--md.webp" group-title="ฟังวิทยุออนไลน์",FM ONE 103.5 FM
+https://cdn-th2.livestreaming.in.th/shoutcast/8835
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://admin.auto-messenger.ru/storage/radios/16076/30072/conversions/o6Mwysr9ImtEpMZNc7FYkxqVy1quqo-metaR3JlYXQ5M2ZtLnBuZw==--lg.webp",GREAT 93 FM
+http://radio.vpsthai.net:9000/stream?type=http
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9gqd-28ZkjYOk7pTS0HOE4DVC_C6CFZZjbFEOXxi3XsESux-OyNjnz4&s=10",Flex Connect 104.5
+https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N96spp6XLf.jpg",MUNforward
+https://cdn-th2.livestreaming.in.th/shoutcast/8730
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.goodtimeradio.fm/assets/images/Goodtime.png",Goodtime Radio
+https://gt-radio-streaming.bugaboo.tv/live_radio/live_high.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",สถานีเพลงสตริง Request Radio
+http://cast.requestradio.in.th:8100/stream
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.radiotripphuket.com/images/img-listen-live.jpg",89.75 Radio Trip Phuket online
+https://cdn-th2.livestreaming.in.th/shoutcast/1150
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71m-zDy6P929wVJbukDsEr8HXxFNGyMm7Xg&usqp=CAU",Mellow FM
+https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",City Radio Pattaya
+https://streaming.thaismarthost.com:8020/ctmobile.mp3
+
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/17728/61769/conversions/em4lKZcikTO13PBIzrxVIpbF22iEej-metabHVrdGh1bmcgbmV0d29yay5wbmc=--md.webp" group-title="ฟังวิทยุออนไลน์",ลูกทุ่งเน็ตเวิร์ก
+https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/chunklist_w768886366.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://imgs.mcot.net/images/2020/01/1578472935560-167x100.png",ลูกทุ่งมหานคร: FM 95
+https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NGxZwsaD8b.jpg",ดนตรีสีสัน FM107.75
+https://plus.onair.network/radio/8010/live
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ddqtw2szlcdc.png",Huahin Radio
+https://inter1.plathong.net/7008/;stream.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODkvMDUuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rad Radio.FM
+https://14073.live.streamtheworld.com/RAD_RADIO_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczOTMvMDYuanBn.jpg" group-title="ฟังวิทยุออนไลน์",Rock on Radio.FM
+https://14073.live.streamtheworld.com/ROCK_ON_RADIOAAC.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://s.isanook.com/jo/0/rp/r/w300/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDgzLzI0MTczODEvMDIuanBn.jpg" group-title="ฟังวิทยุออนไลน์",EAZY FM 105.5
+https://18313.live.streamtheworld.com/EAZYFM_1055AAC.aac
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.requestradio.in.th/wp-content/uploads/2016/07/icon.png",สถานีเพสากล Request Radio
+http://cast.requestradio.in.th:8400/stream
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://www.met107.fm/assets/images/logo/logo@2x.png",Met 107
+https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15221/24616/conversions/shRCJfuANWUxXI4HPyTkKt2DKXZBQE-metaQWN0aXZlOTkuanBn--md.webp",FM 99 Active Radio
+https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/playlist.m3u8
+
+
 
 
 
