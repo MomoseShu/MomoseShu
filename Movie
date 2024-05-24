@@ -1,5 +1,5 @@
 {
-  "name": "หนัง",
+  "name": "หนังนอก",
   "author": "Momose Watch",
   "info": "ทำเองดูเอง ใครขายก็ลิงก์ตาย",
   "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
@@ -36,7 +36,7 @@
           "referer": ""
         },
         {
-"name": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
+          "name": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/8bb5f0948f38a6d13759ee5e/8bb5f0948f38a6d13759ee5e438.m3u8",
@@ -44,8 +44,8 @@
     }
       ]
     },
-    {
-"name": "Percy Jackson เพอร์ซีย์ แจ็คสัน",
+{
+      "name": "Percy Jackson เพอร์ซีย์ แจ็คสัน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
       "stations": [
         {
@@ -56,7 +56,7 @@
           "referer": ""
         },
         {
-"name": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
+          "name": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/250fd93027c545817a4b79ec/250fd93027c545817a4b79ec438.m3u8",
@@ -76,7 +76,7 @@
           "referer": ""
         },
         {
- "name": "Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผีหนี ไปพักร้อน 3 ซัมเมอร์หฤหรรษ์",
+          "name": "Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผีหนี ไปพักร้อน 3 ซัมเมอร์หฤหรรษ์",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-3-Summer-Vacation-2018-โรงแรมผีหนี-ไปพักร้อน-3-ซัมเมอร์หฤหรรษ์-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/c17c64dc1ecdf2f610b0da23/c17c64dc1ecdf2f610b0da23438.m3u8",
@@ -90,16 +90,16 @@
           "referer": ""
         },
         {
-"name": "Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน",
+          "name": "Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/f4670df549de0a3b698b5775/f4670df549de0a3b698b5775438.m3u8",
           "referer": ""
-  }
+       }
       ]
     },
-    {
- "name": "Star Trek สตาร์ เทรค ข้ามขอบจักรวาล",
+{
+      "name": "Star Trek สตาร์ เทรค ข้ามขอบจักรวาล",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
       "stations": [
         {
@@ -115,17 +115,16 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
           "url": "https://hot.yuminse.com/autoplaylist/f5016e87005a056afac93283ed02aa18/f5016e87005a056afac93283ed02aa18.m3u8",
           "referer": ""
-},
+        },
         {
           "name": "Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
           "url": "https://hot.yuminse.com/autoplaylist/c89e32c374d7b61a36d3621b08f71f46/c89e32c374d7b61a36d3621b08f71f46.m3u8",
           "referer": ""
- }
+       }
       ]
     },
-    {
  {
       "name": "Zombieland ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-ซอมบี้แลนด์-แก๊งซ่าส์ล่าล้างซอมบี้-300x450.png",
@@ -149,4 +148,3 @@
   ]
 }
    
-
