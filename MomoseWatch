@@ -22,7 +22,7 @@
 "import": "false"
   },
 	{
-"name"  : "หนัง",
+"name"  : "หนังนอก",
 "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
 "url"  : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
 "import": "false"
@@ -31,6 +31,12 @@
 "name"  : ":ซีรีย์ไทย",
 "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
 "url"  : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THSeries",
+"import": "false"
+   },
+{
+"name"  : ":หนังไทย",
+"image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
+"url"  : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THMovie",
 "import": "false"
    }
 	]
