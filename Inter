@@ -1,111 +1,151 @@
- {
-  "name": "ซีรีย์ฝรั่ง",
+{
+  "name": "หนัง",
   "author": "Momose Watch",
-  "info": "ทำไว้ดูเอง อย่าเอาไปขายนะครับ ไม่งั้นก็จะหายไป",
-  "image": "https://th.bing.com/th/id/R.ad3b75b18d747a0d400b7605a1023d3a?rik=AVPHfB7i7hLzJw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fAmerican-Flag-iphone-Background-Images.jpg&ehk=KUdla5Mg0djSGpHuwDYvWDJyzaDkbzx9efBxHWXF0uA%3d&risl=&pid=ImgRaw&r=0",
+  "info": "ทำเองดูเอง ใครขายก็ลิงก์ตาย",
+  "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
   "groups": [
- {
-      "name": "Reacher รีชเชอร์ ยอดคนสืบระห่ำ Season 1-3 (กำลังรอฉาย)",
-      "info": "พากย์ไทย",
-      "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
+{
+      "name": "Deadpool เดดพูล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
       "stations": [
         {
-          "name": "ซีซั่น 1 ตอนที่ 1",
+          "name": "Deadpool (2016) เดดพูล",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/b2017ef5-36ce-4198-8798-f34c70d45021/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 2",
+          "name": "Deadpool 2 (2018) เดดพูล 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/2f0f008a-1959-4e5a-a2b4-af08933d594b/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
+          "referer": ""
+  }
+      ]
+    },
+{
+      "name": "Has Fallen ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-300x450.jpg",
+      "stations": [
+        {
+          "name": "Olympus Has Fallen (2013) ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a414fb77d44ee8695603b1c6/a414fb77d44ee8695603b1c6438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 3",
+"name": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/00802061-043c-4a9e-be65-7407958cf787/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8bb5f0948f38a6d13759ee5e/8bb5f0948f38a6d13759ee5e438.m3u8",
+          "referer": ""
+    }
+      ]
+    },
+    {
+"name": "Percy Jackson เพอร์ซีย์ แจ็คสัน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
+      "stations": [
+        {
+          "name": "Percy Jackson  the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสันกับสายฟ้าที่หายไป",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d2beab5102f95ca1642f07fb/d2beab5102f95ca1642f07fb438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 4",
+"name": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/58b6f5b0-219c-485d-ae59-735e5c64b17e/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/250fd93027c545817a4b79ec/250fd93027c545817a4b79ec438.m3u8",
+          "referer": ""
+    }
+      ]
+    },
+{
+      "name": "Hotel Transylvania โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-300x450.png",
+      "stations": [
+        {
+          "name": "Hotel Transylvania Transformania (2022) โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/69162a10d07701af07981761/69162a10d07701af07981761438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 5",
+ "name": "Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผีหนี ไปพักร้อน 3 ซัมเมอร์หฤหรรษ์",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/eb9b9aa6-ab72-4d48-919f-d8c3e71bdc43/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-3-Summer-Vacation-2018-โรงแรมผีหนี-ไปพักร้อน-3-ซัมเมอร์หฤหรรษ์-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c17c64dc1ecdf2f610b0da23/c17c64dc1ecdf2f610b0da23438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 6",
+          "name": "Hotel Transylvania 2 (2015) โรงแรมผี หนีไปพักร้อน 2",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/786a058b-0583-4492-8bf3-a1532ebfc2ec/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2-2015-โรงแรมผี-หนีไปพักร้อน-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7396aed816e7e108033578e0/7396aed816e7e108033578e0438.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 7",
+"name": "Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/1ab8f44d-79bc-4e89-bc63-eb955a054ea1/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f4670df549de0a3b698b5775/f4670df549de0a3b698b5775438.m3u8",
+          "referer": ""
+  }
+      ]
+    },
+    {
+ "name": "Star Trek สตาร์ เทรค ข้ามขอบจักรวาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
+      "stations": [
+        {
+          "name": "Star Trek 3 Beyond (2016) สตาร์ เทรค ข้ามขอบจักรวาล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/b65c119af3e0a6708ae910821df50ec7/b65c119af3e0a6708ae910821df50ec7.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
+          "name": "Star Trek 2 Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/dfc170fa-ef46-42e0-8013-656b589770d4/0"
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/f5016e87005a056afac93283ed02aa18/f5016e87005a056afac93283ed02aa18.m3u8",
+          "referer": ""
+},
+        {
+          "name": "Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/c89e32c374d7b61a36d3621b08f71f46/c89e32c374d7b61a36d3621b08f71f46.m3u8",
+          "referer": ""
+ }
+      ]
+    },
+    {
+ {
+      "name": "Zombieland ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-ซอมบี้แลนด์-แก๊งซ่าส์ล่าล้างซอมบี้-300x450.png",
+      "stations": [
+        {
+          "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-ซอมบี้แลนด์-แก๊งซ่าส์ล่าล้างซอมบี้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6f5eaa448446b209e3b6f046/6f5eaa448446b209e3b6f046168.m3u8",
+          "referer": ""
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 1",
+          "name": "Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้",
           "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/7003a523-f11f-48ee-96eb-827b698cbc20/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8e598614-1a97-4903-b96b-ce2c00df1ad9/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/e09946d7-ced8-449f-938d-f46c0fe3d353/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/c8e5946b-8610-448d-b788-ca3364d1a680/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/33f7d0d5-9a4d-4ebd-8584-e3f59aa31284/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/0fe91e8b-f94d-4867-bca1-048dec049d19/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/a3fbeac1-a161-45c0-a67c-156dc90e6e63/0"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8 (ตอนจบ)",
-          "info": "พากย์ไทย",
-          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Reacher-Season-2-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/7ddb3b1b-e1aa-4786-a613-569a4376d400/0"
-}
-   ]
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3168.m3u8",
+          "referer": ""
+      }
+      ]
     }
   ]
-}     
+}
+   
