@@ -1,76 +1,3 @@
-
-#EXTINF:-1, SY Cinema Action
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18695
-
-#EXTINF:-1,SY Cinema Premier
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18686
-
-#EXTINF:-1,SY Cinema Select
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18687
-
-#EXTINF:-1,SY Cinema Disney
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18691
-
-#EXTINF:-1,SYFY US
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
-
-#EXTINF:-1,Showtime Showcase
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
-
-
-#EXTINF:-1,ESPN MX
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28000
-
-#EXTINF:-1,ESPN3 MX
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\27998
-
-#EXTINF:-1,Fox Sport MX
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28008
-
-#EXTINF:-1,Fox Sport3 MX
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28010
-
-
-
-
-
-
-#EXTINF:-1,Disney Junior US
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421510
-
-
-
-#EXTINF:-1,CBS WNBA
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\42012
-
-#EXTINF:-1,NBC Sport
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\41998
-
-#EXTINF:-1,Fox Charleston
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\41979
-
-
-
-
-
-
-
-#EXTINF:-1,bt sp 
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20821
-
-#EXTINF:-1,bt sp 2
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20820
-
-#EXTINF:-1,bt sp 3
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20819
-
-#EXTINF:-1,bt sp 4
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\24304
-
-
-#EXTINF:-1,TUDN US
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\25338
-
 #EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BallThai 1
 https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 
@@ -144,7 +71,7 @@ https://spleeny-bridges.000webhostapp.com/channel/trueasianmorg.m3u8
 
 
 
-ช่อง7
+#EXTINF:-1,ช่อง7
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8
 
 
@@ -160,3 +87,77 @@ http://hardcoremedia.xyz:80/fadkjokz/4950078150/29017
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS 4
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/29020
+#EXTINF:-1, SY Cinema Action
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18695
+
+#EXTINF:-1,SY Cinema Premier
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18686
+
+#EXTINF:-1,SY Cinema Select
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18687
+
+#EXTINF:-1,SY Cinema Disney
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18691
+
+#EXTINF:-1,SYFY US
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
+
+#EXTINF:-1,Showtime Showcase
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
+
+
+#EXTINF:-1,ESPN MX
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28000
+
+#EXTINF:-1,ESPN3 MX
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\27998
+
+#EXTINF:-1,Fox Sport MX
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28008
+
+#EXTINF:-1,Fox Sport3 MX
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\28010
+
+
+
+
+
+
+#EXTINF:-1,Disney Junior US
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421510
+
+
+
+#EXTINF:-1,CBS WNBA
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\42012
+
+#EXTINF:-1,NBC Sport
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\41998
+
+#EXTINF:-1,Fox Charleston
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\41979
+
+
+
+
+
+
+
+#EXTINF:-1,bt sp 
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20821
+
+#EXTINF:-1,bt sp 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20820
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1,bt sp 3
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20819
+
+#EXTINF:-1,bt sp 4
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\24304
+
+
+#EXTINF:-1,TUDN US
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\25338
+
