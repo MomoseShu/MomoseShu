@@ -362,7 +362,21 @@
      "image": "https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
      "url": "https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fury_of_the_Gods_2023_st_1080p.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
-  }
+   },
+   {
+     "name": "Shazam! (2019) ชาแซม!",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xoJ2TExRHwrEdcuLglbQskgW5Q9-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/568fa239-8d1f-5f49-b4e3-fee301271857.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shazam! (2019) ชาแซม!",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xoJ2TExRHwrEdcuLglbQskgW5Q9-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fedc99cd-120d-4813-97fc-7e2385bd812c/_",
+     "referer": "https://www.9nunghd.com/"
+}
    ]
   }
  ]
