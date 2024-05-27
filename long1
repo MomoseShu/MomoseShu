@@ -1,0 +1,390 @@
+{
+ "name": "หนังนอก",
+  "author": "Momose Watch",
+  "info": "ทำเองดูเอง ใครขายก็ลิงก์ตาย",
+  "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
+  "groups": [
+{
+      "name": "Deadpool เดดพูล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
+      "stations": [
+        {
+          "name": "Deadpool (2016) เดดพูล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Deadpool 2 (2018) เดดพูล 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
+          "referer": ""
+  }
+      ]
+    },
+{
+      "name": "Has Fallen ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-300x450.jpg",
+      "stations": [
+        {
+          "name": "Olympus Has Fallen (2013) ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-ฝ่าวิกฤติ-วินาศกรรมทำเนียบขาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a414fb77d44ee8695603b1c6/a414fb77d44ee8695603b1c6438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "London Has Fallen (2016) ผ่ายุทธการถล่มลอนดอน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/London-Has-Fallen-2016-ผ่ายุทธการถล่มลอนดอน-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8bb5f0948f38a6d13759ee5e/8bb5f0948f38a6d13759ee5e438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Angel Has Fallen (2019) ผ่ายุทธการ ดับแผนอหังการ์",
+          "info": "ตัวเล่นหลัก พากย์ไทย",
+          "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Angel-Has-Fallen-2019-190x300-c-default.webp",
+          "url": "https://play.kakjeawplay.xyz/c0e855f9-7749-4f42-8d2b-fac834f77fdf/_",
+          "referer": "https://www.9nunghd.com/"
+    }
+      ]
+    },
+{
+      "name": "Percy Jackson เพอร์ซีย์ แจ็คสัน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
+      "stations": [
+        {
+          "name": "Percy Jackson  the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสันกับสายฟ้าที่หายไป",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d2beab5102f95ca1642f07fb/d2beab5102f95ca1642f07fb438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/250fd93027c545817a4b79ec/250fd93027c545817a4b79ec438.m3u8",
+          "referer": ""
+    }
+      ]
+    },
+{
+      "name": "Hotel Transylvania โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-300x450.png",
+      "stations": [
+        {
+          "name": "Hotel Transylvania Transformania (2022) โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/69162a10d07701af07981761/69162a10d07701af07981761438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผีหนี ไปพักร้อน 3 ซัมเมอร์หฤหรรษ์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-3-Summer-Vacation-2018-โรงแรมผีหนี-ไปพักร้อน-3-ซัมเมอร์หฤหรรษ์-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c17c64dc1ecdf2f610b0da23/c17c64dc1ecdf2f610b0da23438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Hotel Transylvania 2 (2015) โรงแรมผี หนีไปพักร้อน 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2-2015-โรงแรมผี-หนีไปพักร้อน-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7396aed816e7e108033578e0/7396aed816e7e108033578e0438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f4670df549de0a3b698b5775/f4670df549de0a3b698b5775438.m3u8",
+          "referer": ""
+       }
+      ]
+    },
+{
+      "name": "Star Trek สตาร์ เทรค ข้ามขอบจักรวาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
+      "stations": [
+        {
+          "name": "Star Trek 3 Beyond (2016) สตาร์ เทรค ข้ามขอบจักรวาล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/b65c119af3e0a6708ae910821df50ec7/b65c119af3e0a6708ae910821df50ec7.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Star Trek 2 Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/f5016e87005a056afac93283ed02aa18/f5016e87005a056afac93283ed02aa18.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
+          "url": "https://hot.yuminse.com/autoplaylist/c89e32c374d7b61a36d3621b08f71f46/c89e32c374d7b61a36d3621b08f71f46.m3u8",
+          "referer": ""
+       }
+      ]
+    },
+ {
+      "name": "Zombieland ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-ซอมบี้แลนด์-แก๊งซ่าส์ล่าล้างซอมบี้-300x450.png",
+      "stations": [
+        {
+          "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-Double-Tap-2019-ซอมบี้แลนด์-แก๊งซ่าส์ล่าล้างซอมบี้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6f5eaa448446b209e3b6f046/6f5eaa448446b209e3b6f046168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3168.m3u8",
+          "referer": ""
+       }
+      ]
+    },
+ {
+   "name": "Superhero Movie ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว (2008)",
+   "image": "https://img.inwiptv.net/postor/202403250215264MtvQdh5VP7jMSydhggp1P80FMj.jpg",
+   "stations": [
+    {
+     "name": "Superhero Movie ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว (2008)",
+     "info": " พากย์ไทย [720p]",
+     "image": "https://img.inwiptv.net/postor/202403250215264MtvQdh5VP7jMSydhggp1P80FMj.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Superhero_Movie_2008/Superhero_Movie_2008_th_720.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Superhero Movie ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว (2008)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202403250215264MtvQdh5VP7jMSydhggp1P80FMj.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Superhero_Movie_2008/Superhero_Movie_2008_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+ {
+   "name": "Barbie บาร์บี้ (2023)",
+   "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+   "stations": [
+    {
+     "name": "Barbie บาร์บี้ (2023)",
+     "info": " พากย์ไทย HBO [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_th_1080_HBO.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+"name": "Barbie บาร์บี้ (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Oppenheimer ออพเพนไฮเมอร์ (2023)",
+   "image": "https://img.inwiptv.net/postor/202311261433488Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+   "stations": [
+    {
+     "name": "Oppenheimer ออพเพนไฮเมอร์ (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202311261433488Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_th_1080_F.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Oppenheimer ออพเพนไฮเมอร์ (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202311261433488Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Oppenheimer_2023/Oppenheimer_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+{
+   "name": "The Flash เดอะ แฟลช (2023)",
+   "image": "https://img.inwiptv.net/postor/202307231347414vjKJRcO1LO36JZYMbbjbx421YN.jpg",
+   "stations": [
+    {
+     "name": "The Flash เดอะ แฟลช (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202307231347414vjKJRcO1LO36JZYMbbjbx421YN.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Flash เดอะ แฟลช (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202307231347414vjKJRcO1LO36JZYMbbjbx421YN.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Flash_2023/The_Flash_2023_en_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+ {
+   "name": "Crawlspace คลานระห่ำปะทะเดือด (2022)",
+   "image": "https://img.inwiptv.net/postor/20220807130022qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg",
+   "stations": [
+    {
+     "name": "Crawlspace คลานระห่ำปะทะเดือด (2022)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20220807130022qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Crawlspace_2022/Crawlspace_2022_th_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Crawlspace คลานระห่ำปะทะเดือด (2022)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20220807130022qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Crawlspace_2022/Crawlspace_2022_st_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nope ไม่ (2022)",
+   "image": "https://img.inwiptv.net/postor/20220828005603vBgJ9syEBAPK0agPKj6Qpn3FwBi.jpg",
+   "stations": [
+    {
+     "name": "Nope ไม่ (2022)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20220828005603vBgJ9syEBAPK0agPKj6Qpn3FwBi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Nope_2022/Nope_2022_th_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Nope ไม่ (2022)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20220828005603vBgJ9syEBAPK0agPKj6Qpn3FwBi.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Nope_2022/Nope_2022_en_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+ {
+   "name": "Fall (2022)",
+   "image": "https://img.inwiptv.net/postor/202209031123319f5sIJEgvUpFv0ozfA6TurG4j22.jpg",
+   "stations": [
+    {
+     "name": "Fall (2022)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202209031123319f5sIJEgvUpFv0ozfA6TurG4j22.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Fall_2022/Fall_2022_th_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Fall (2022)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202209031123319f5sIJEgvUpFv0ozfA6TurG4j22.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Fall_2022/Fall_2022_st_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+{
+   "name": "Avatar อวตาร (2009)",
+   "image": "https://img.inwiptv.net/postor/20230617130551dd.jpg",
+   "stations": [
+    {
+     "name": "Avatar อวตาร (2009)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230617130551dd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Avatar_2009/Avatar_2009_th_1080p_FF.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Avatar อวตาร (2009)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230617130551dd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Avatar_2009/Avatar_2009_st_1080p_FF.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Extraction 2 คนระห่ำภารกิจเดือด 2 (2023) NETFLIX",
+   "image": "https://img.inwiptv.net/postor/20230616154517sdds.jpg",
+   "stations": [
+    {
+     "name": "Extraction 2 คนระห่ำภารกิจเดือด 2 (2023) NETFLIX",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230616154517sdds.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Extraction_2_2023/Extraction_2_2023_th_1080p_FFF.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Extraction 2 คนระห่ำภารกิจเดือด 2 (2023) NETFLIX",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230616154517sdds.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Extraction_2_2023/Extraction_2_2023_st_1080p_FFF.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+{
+   "name": "Dungeons & Dragons: Honor Among Thieves ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร (2023)",
+   "image": "https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg",
+   "stations": [
+    {
+     "name": "Dungeons & Dragons: Honor Among Thieves ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieves_2023/Dungeons_And_Dragons_Honor_Among_Thieves_2023_th_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Dungeons & Dragons: Honor Among Thieves ดันเจียนส์ & ดรากอนส์ : เกียรติยศในหมู่โจร (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20230519232949qwdqdwqd.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Dungeons_And_Dragons_Honor_Among_Thieves_2023/Dungeons_And_Dragons_Honor_Among_Thieves_2023_st_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+ }
+   ]
+  },
+{    
+   "name": "Shazam!",
+   "image": "https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+   "stations": [
+    {
+     "name": "Shazam! Fury of the Gods ชาแซม! จุดเดือดเทพเจ้า (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fury_of_the_Gods_2023_th_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "Shazam! Fury of the Gods ชาแซม! จุดเดือดเทพเจ้า (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/202304102058503GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Shazam_Fury_of_the_Gods_2023/Shazam_Fury_of_the_Gods_2023_st_1080p.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+   },
+   {
+     "name": "Shazam! (2019) ชาแซม!",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xoJ2TExRHwrEdcuLglbQskgW5Q9-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/568fa239-8d1f-5f49-b4e3-fee301271857.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shazam! (2019) ชาแซม!",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xoJ2TExRHwrEdcuLglbQskgW5Q9-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fedc99cd-120d-4813-97fc-7e2385bd812c/_",
+     "referer": "https://www.9nunghd.com/"
+ }
+   ]
+    }
+  ]
+}   
