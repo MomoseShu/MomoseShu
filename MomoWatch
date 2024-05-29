@@ -29,16 +29,18 @@
 "import": "false"
    },
 	{
-"name"  : ":ซีรีย์ไทย",
+"name"  : "ซีรีย์ไทย",
 "image": "https://c2.staticflickr.com/8/7085/7178035499_23f04b6d8a_b.jpg",
 "url"  : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THSeries",
 "import": "false"
    },
 {
-"name"  : ":หนังไทย",
+"name"  : "หนังไทย",
 "image": "https://animal.catdumb.com/wp-content/uploads/2019/07/9-36-696x661.jpg",
 "url"  : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THMovie",
 "import": "false"
-   }
-	]
-	},
+  }
+   ]
+  }
+ ]
+}
