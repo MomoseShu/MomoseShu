@@ -1,0 +1,50 @@
+{
+  "name": "ซีรีย์ญี่ปุ่น",
+  "author": "Momose Watch",
+  "info": "ทำไว้ดูเอง อย่าเอาไปขายนะครับ ไม่งั้นก็จะหายไป",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+  "groups": [
+  {
+      "name": "Doctors Saikyou no Meii หมอหัวใจศัลยแพทย์",
+      "info": "HD",
+      "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://server4.cdn-th.com/hls/DYX2KiO/file_360.mp4/index-v1-a1.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://server2.oneplayer.online/mp4/bnYxCHL/file_360.mp4",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://server1.oneplayer.online/mp4/CUURRai/file_360.mp4",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://server2.oneplayer.online/mp4/7KGVfD8/file_360.mp4",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.yedmyMeJKsWeymWH_cooOwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://server9.oneplayer.online:11231/mp4/j1HXXNg/file_360.mp4",
+          "referer": ""
+   }
+   ]
+    }
+  ]
+}     
