@@ -1,0 +1,56 @@
+{
+	"name": "Momose Series&Movie",
+	"author": "Momose",
+	"image": "https://th.bing.com/th/id/R.58d34216d27f40de22fa1252b08acce4?rik=cdHlR05JTD89zg&pid=ImgRaw&r=0",
+	"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/MomoseWatch",
+	"groups": [
+   {
+	"name" : "ซีรี่ย์ญี่ปุ่น",
+        "image" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
+	"url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Taste",
+	"import" : "false"
+   },
+   {
+        "name" : "ซีรีย์เกาหลี",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1920px-Flag_of_South_Korea.svg.png",
+        "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/SKorea",
+        "import" : "false"
+   },
+   {
+        "name" : "ซีรีย์ฝรั่ง",
+        "image" : "https://th.bing.com/th/id/R.ad3b75b18d747a0d400b7605a1023d3a?rik=AVPHfB7i7hLzJw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fAmerican-Flag-iphone-Background-Images.jpg&ehk=KUdla5Mg0djSGpHuwDYvWDJyzaDkbzx9efBxHWXF0uA%3d&risl=&pid=ImgRaw&r=0",
+        "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/InterSerie",
+        "import" : "false"
+   },
+   {
+        "name" : "หนังนอก",
+	      "image" : "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/cbc1/live/74fe8e20-5170-11ed-ac87-630245663c6a.png",
+	      "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
+	      "import" : "false"
+   },
+   {
+        "name" : "ซีรีย์ไทย",
+	      "image" : "https://c2.staticflickr.com/8/7085/7178035499_23f04b6d8a_b.jpg",
+	      "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THSeries",
+	      "import" : "false"
+   },
+   {
+  	    "name" : "ซีรีย์จีน",
+  	    "image" : "https://c2.staticflickr.com/8/7085/7178035499_23f04b6d8a_b.jpg",
+	      "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/ChinaSeries",
+	      "import" : "false"
+   },
+   {
+	      "name" : "หนังไทย",
+	      "image" : "https://animal.catdumb.com/wp-content/uploads/2019/07/9-36-696x661.jpg",
+	      "url" : "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/THMovie",
+	      "import" : "false"
+        }
+    ]
+}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
