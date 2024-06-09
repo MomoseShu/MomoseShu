@@ -3636,7 +3636,7 @@ https://m1-txt-2.hngeatqqyj.com/playlist2/detail/6190bea828b59hj7/720/hls/index.
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://i.mydramalist.com/QdeLWf.jpg",
-          "url": "yScNWih3Q0LUnojQKfcCmRhHwJmIiaAFxyozoXw7ikNMceL5rzu8uuVWMrleIZpOkv1mBOg)/video/843/455/483554348_mp4_h264_aac_hd.m3u8",
+          "url": "https://vod.cf.dmcdn.net/sec2(WyCYkTMudfVVIqmpl3oc-Qy--xRYrYex7gctCFJeLG7RBONXNoL19GAFg6XuTc4Ms6KoMuqCy3uItH-yScNWih3Q0LUnojQKfcCmRhHwJmIiaAFxyozoXw7ikNMceL5rzu8uuVWMrleIZpOkv1mBOg)/video/843/455/483554348_mp4_h264_aac_hd.m3u8",
           "referer": ""
    },
    {
@@ -3738,10 +3738,17 @@ https://m1-txt-2.hngeatqqyj.com/playlist2/detail/6190bea828b59hj7/720/hls/index.
       "image": "https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain",
       "stations": [
 {
-          "name": "ตอนที่ 1",
+          "name": "ตอนที่ 1-1",
           "info": "พากย์ไทย",
           "image": "https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain",
-          "url": "https://www.bilibili.tv/th/video/4788419860109824?",
+          "url": "https://vod.cf.dmcdn.net/sec2(JwmDbaj_dz7NdDL1FXQPc5LDLzWQ3HtnYb4xF9OroghfvY80UKO0MWT4nPfKpDGW3EMdwjEImj1gZKqQUeihO4E7XlkrR2VX0uWGhL1HJa_8MTpP_SkEwF_OagNIUOiLvhwKfpIvcPriAgHTCGjpdA)/video/231/198/484891132_mp4_h264_aac_hq.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 1-2",
+          "info": "พากย์ไทย",
+          "image": "https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain",
+          "url": "https://vod.cf.dmcdn.net/sec2(LcbbmAQjTUoSM15QJy3wP-gNVjC21zmwMOMS9Fx3GDApBYuDTKeHHBWnB3133sPx1x11lpr_QcB6SCToBNrKv6fwHjreT9VuVr0WsXf36tsigwNIC4PqekY1HTMrVeZgQwkSzuMcawBa9zYQzymGbA)/video/331/198/484891133_mp4_h264_aac_hq.m3u8",
           "referer": ""
    },
    {
@@ -3818,7 +3825,7 @@ https://m1-txt-2.hngeatqqyj.com/playlist2/detail/6190bea828b59hj7/720/hls/index.
           "name": "ตอนที่ 11",
           "info": "พากย์ไทย",
           "image": "https://th.bing.com/th/id/OIP.ezBR9M6g53FCJ9x-EFNR-AHaK5?rs=1&pid=ImgDetMain",
-          "url": "https://720.anime888.com/files/a12bd4d036ff8686a42c95c4fe4a57a5_720p.html",
+          "url": "https://www.watchlakorn.in/egde/18f4ac344eec8718342b73f4f5294aef/NDE2MA==/MTE=/ZGF0YTEyLzIyLTA1LTIwMjEvTGFHcmFuZGVNYWlzb25Ub2t5by1EaXNjMTEtMjItTWF5LTIwMjFfSEQubXA0/index-v1-a1.m3u8",
           "referer": ""
 }
    ]
