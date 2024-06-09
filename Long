@@ -112,3 +112,8 @@ https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais
 https://spleeny-bridges.000webhostapp.com/channel/3bbspor.m3u8
 
 #EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="THSport",1
+#EXTVLCOPT:http-referrer=https://r3-sn-5fo-c37ed22.googleuservideo.com/
+https://r3-sn-5fo-c37ed22.googleuservideo.com/dbdn_x1/trueidsport_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjQgODo0OToyMSBBTSZoYXNoX3ZhbHVlPU1hc3kvcWZKb2VCenJXeVl2Wk0xVnc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNCZpZD1iZ2hyMjg0MDU1
+
