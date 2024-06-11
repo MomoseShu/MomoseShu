@@ -515,68 +515,8 @@ https://spleeny-bridges.000webhostapp.com/channel/3bbspor.m3u8
 
 #EXTINF:-1 group-title="NO",
 
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qI1A3KX.png", CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fJNDK6l.png",CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1upyW3z.png",Channel News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/bOY9jm3.png", Euro News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/31S1GeB.png", DW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/4NQtwZy.png", France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Z0YdSDe.png", Arirang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/4ZwDPsK.png", Al Jazeera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-#EXTVLCOPT:update=30-07-2023 21:49:29 ( please update playlist https://bit.ly/44QbomY )
-#EXTVLCOPT:develop by Shark Wow not for sale
-http://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=b9102116e81e35c1865dd0f1c34f1c6a&chunkHttps=true&tmid=B0017&tpbk=09w8oVEBE6E9Ebes&rrt=1690699685&tmod=rfk&rsid=6b9b3ef0-10eb-4efe-a760-f324dd37a6ae&tuid=svS002KV0gs7sYfyrTOuGwepcsdTaung%2FSXThNNLNT6kJWVJvsnD7jIgUsTZ7pUjrrQTLYxWNqIVgz3ZzybbJRY8ESUXkqJLum%2F6cu1opMrxQ%3D&cdn=redfox-https&tdid=8d3961cf7484a9f64eeacb857a7a440e&origin=anevia&tfa=f0-fc&tttl=1690786085&Linktimeout=31-07-2023-13:49:12
-
-#EXTINF:-1 group-title="News", CNBC
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12774
-
-#EXTINF:-1 group-title="News" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",NHK WORLD
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/R.3de2ba905cf9910047d82392ee5320e7?rik=B5NFPfi1gLze0Q&riu=http%3a%2f%2fchinasportsinsider.com%2fwp-content%2fuploads%2f2016%2f08%2fCCTV5.jpg&ehk=5yhzB8MlqpJDQtrtMiPxksUetD%2bzXG2j%2fp0CYxaRD%2fM%3d&risl=&pid=ImgRaw&r=0", CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--md.webp",EFM 94
 https://atimeonline.smartclick.co.th/efm
