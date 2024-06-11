@@ -1,38 +1,97 @@
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",HBO Family
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_HBOfamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",HBO Signature 
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8?nimblesessionid=177173686
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/th-sport/spotv1/chunks.m3u8?nimblesessionid=177173253
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/670_Tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="NO",
-
 #EXTINF:-1 group-title="Football",tp4
 https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",1
+https://iptv-th.com:440/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",2
+https://iptv-th.com:441/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",3
+https://iptv-th.com:442/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",4
+https://iptv-th.com:444/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",5
+https://iptv-th.com:445/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",6
+https://iptv-th.com:446/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",7
+https://iptv-th.com:447/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",8
+https://iptv-th.com:448/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",9
+https://iptv-th.com:449/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",10
+https://iptv-th.com:450/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",11
+https://iptv-th.com:451/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",12
+https://iptv-th.com:452/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",13
+https://iptv-th.com:453/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",14
+https://iptv-th.com:454/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",15
+https://iptv-th.com:455/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",16
+https://iptv-th.com:456/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",17
+https://iptv-th.com:457/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",18
+https://iptv-th.com:458/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",19
+https://iptv-th.com:459/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",20
+https://iptv-th.com:460/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",21
+https://iptv-th.com:430/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",22
+https://iptv-th.com:431/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",23
+https://iptv-th.com:432/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",24
+https://iptv-th.com:433/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",25
+https://iptv-th.com:434/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",26
+https://iptv-th.com:435/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",27
+https://iptv-th.com:436/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",28
+https://iptv-th.com:437/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",29
+https://iptv-th.com:438/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="Football",30
+https://iptv-th.com:439/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+
+
+
+
