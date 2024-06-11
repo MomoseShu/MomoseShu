@@ -4,7 +4,6 @@
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173633explorewild.jpg" group-title="สารคดีและความรู้_WacthTV",WILD #EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623153313true_explore_sci.jpg" group-title="สารคดีและความรู้_WacthTV",SCI #EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192540bbc-earth.png" group-title="สารคดีและความรู้_WacthTV",BBCERTH #EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
@@ -122,8 +121,89 @@ EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_i
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113193245cinemax.png" group-title="Entertainment_WacthTV",Cinemax 
 
-
 ******************
 
 #EXTINF:-1 group-title="Football", Rai Sport 
 https://playtv.my.id/play/dnraisport.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BallThai 1
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BallThai 2
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BallThai 3
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", BallThai 4
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", BallThai 5
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", BallThai 6
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", BallThai 7
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", BallThai 8
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Sport 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sport 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sport 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="AsiaSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro Supersport
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63112
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://sport.livedoomovies.com:4431/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1,ช่อง7
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS 1
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/29011
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS 2
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/29012
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS 3
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/29017
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJxvqekXwiReh2h6SyVFjjqIddJyj0Ql-Jg&usqp=CAU",OPTUS 4
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/29020
+
+#EXTINF:-1 group-title="Football",tp4
+https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
