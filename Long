@@ -12,3 +12,11 @@ https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsport1_480p/chunks.m
 
 #EXTINF:-1 group-title="NO",6
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220623152914golf2.jpg", TRUE-Golf2 
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113134914bein1.png",TRUE-Bein1 
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
