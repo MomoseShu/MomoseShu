@@ -617,5 +617,134 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 group-title="NO",
 
+#EXTINF:-1 tvg-chno="28" tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png",Boomerang Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UhPlBfK.png", Cartoon Network TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com 
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_320.webp", Dreamworks 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTk6NDEgUE0maGFzaF92YWx1ZT1mL0VvVGZBeXMrRkNONStJdEhzYXBRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjc5NTg=
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp", True Spark Play
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTk6NTEgUE0maGFzaF92YWx1ZT1rK2VOZ3Q4Qktla2hsWFV0WVE3UzhnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjk0OTY=
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoomoo
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421444
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png", DISNEY XD
+https://6oclock.xyz:8443/Tyrone43147/My3boys/421519
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0",Disney Junior US
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421510
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/OIP.7FkvWFjLXOPkhHdiOGTpuQHaE8?rs=1&pid=ImgDetMain",nick JR (US)
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12717
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/OIP.RQ2CTmW77qLf_PMfikNlLgHaEo?rs=1&pid=ImgDetMain",nickToons
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12718
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png", สำรวจโลก
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjZ2TyQs1mKUc5K0iabNWQjKWwUAMc5AFBpnsty9LrfkQsBa9HRSyXoY&s=10",My Sci
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iKPP1N-mcIilmDPzXDWk1AaGbrnxgKiNHgs9tbRp2S3ps3MJ2obeU0F7&s=10",House Channel 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png",Animal Kingdom
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khongdee_th.png",ของดี
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",World Of Sci
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
+https://edge-s6.onlineprostream.com:8832/v5/YDZr1_ztuNngl6xPoh6d9w/1718014371/bc71ad3d90e1feb300642c0612933b2e/pKdY9nOfml-BO3U4hAJF2g/1718025051/live/dx-origin/th-explife_480/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
+https://edge-s6x.onlineprostream.com:9094/v5/n3_4sZoNbPgEsaLum2O1XQ/1718014347/bc71ad3d90e1feb300642c0612933b2e/dUkUhx0OhK0LrtBouvf6nQ/1718025027/live/dx-origin/th-expsci_480/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
+https://spleeny-bridges.000webhostapp.com/channel/lovenature.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="Discovery",BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Discovery",Discovery Asia
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://img2.pic.in.th/pic/HH.png",HISTORY
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
+https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", NAT GEO US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UzQeYtihA3iI1DIMaKlTJFD53_2RAxxqI163gcBsXS47is-ZxFjdm3H6&s=10",Food channel
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8 
+
 
 
