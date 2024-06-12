@@ -115,117 +115,6 @@ https://spleeny-bridges.000webhostapp.com/channel/3bbspor.m3u8
 
 #EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
-https://spleeny-bridges.000webhostapp.com/channel/3bbasin.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM= 
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
-https://edge-s7.onlineprostream.com:8826/v5/45t5aIuSZnk5LvOxe_RErA/1717919361/bc71ad3d90e1feb300642c0612933b2e/arvqwILI0nkqZ7XZTHaivg/1717930041/live/dx-origin/hd-tfilm2_720/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MjcgUE0maGFzaF92YWx1ZT1waWw5NmdFNVVBZU1YM0tPZlhBTXJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA5OTc=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MTIgUE0maGFzaF92YWx1ZT1hV3h3R2MwRGovMkk5Yml4SFZmSkF3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMyMzk=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
- #EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",Gem
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
-
-#EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw1.jpg",MOVIES WORLD 1
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-
-#EXTINF:-1 tvg-chno="12" tvg-id="MOVIES WORLD 2.th" tvg-name="MOVIES WORLD 2" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw2.jpg",MOVIES WORLD 2
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
-
-#EXTINF:-1 tvg-chno="13" tvg-id="MOVIES WORLD 3.th" tvg-name="MOVIES WORLD 3" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw3.jpg",MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO  ENG
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113193214hbo.png",hbo 
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",hbo hits
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231222084329hbo-signature.png",hbo signature
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.750d79c005a4cdf58db04214946f09b9?rik=4qRjpJG8frhMIg&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f2b%2fSky_de_cinema_action.png%2frevision%2flatest%3fcb%3d20170105095524&ehk=9Ha28HFLU6621%2b33A94sIZt7A0GWKrlRmBwe8dH5ORE%3d&risl=&pid=ImgRaw&r=0", SY Cinema Action
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18695
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.62ae718554d33bf4762c0bf7cfc61c62?rik=ivxNR%2bi7vVN0Pw&riu=http%3a%2f%2fvignette2.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f28%2fSky_Cinema_Premiere.png%2frevision%2flatest%3fcb%3d20160708223437&ehk=ercrgLaTs%2fWgfxLF88uD5iogpwqwFbTE6ZMe8WQen%2bA%3d&risl=&pid=ImgRaw&r=0",SY Cinema Premier
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18686
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.fd1-YjBd3-S_MW8Z4BnjVAHaBz?rs=1&pid=ImgDetMain",SY Cinema Select
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18687
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.yFWcwkR0IEl-ba2toHonigHaBB?rs=1&pid=ImgDetMain",SY Cinema Disney
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18691
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.082dfb706b305af8a412b2e6dfc50174?rik=1A7tVyEYuysB5Q&riu=http%3a%2f%2fcdn.entries.clios.com%2fstyles%2fclio_aotw_ems_image_details_retina%2fs3%2fentry_attachments%2fimage%2f39%2f21175%2fscreenshot_2017-08-04_15.41.19_3.png&ehk=64WVbY%2fGw0F%2fzb6g9pbRTXFVrPsbS2wIK0Ut1yU6vc8%3d&risl=&pid=ImgRaw&r=0",SYFY US
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",Showtime Showcase
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",bugaboo
 https://live-cdn-hwc.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
 
@@ -617,6 +506,172 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 group-title="NO",
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.0RS_074_bTV3rZwfoWBNzAAAAA?rs=1&pid=ImgDetMain",TNT SPORT 1 1
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20821
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.XaeAFqgocIdv7tndrQfrkAHaCC?rs=1&pid=ImgDetMain",TNT SPORT 2 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20820
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.4EdgC_kY8kxumsAhw_Sv5gAAAA?pid=ImgDet&w=150&h=150&c=7",TNT SPORT 3 3
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\20819
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT SPORT 4 4
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\24304
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.ufy1Dueb-QqzQIYacyca2AAAAA?rs=1&pid=ImgDetMain",NBA TV 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12722
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/R.bd5d6b337da3a422b03e453f52a290c0?rik=Jno99B6XGhMyPQ&pid=ImgRaw&r=0",Tennis (US) 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\15880
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg",NHL (US) 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\15889
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.kXVukTyz0CkaQtr26idyFAHaB2?rs=1&pid=ImgDetMain",NBC Golf 2
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\15898
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/R.805107ffec4bd6379ca810f006fe8a7e?rik=JEttcY4CUEeEEw&pid=ImgRaw&r=0&sres=1&sresct=1",ts2 2
+https:\\cdn1.aws-live-streaming.com\ais\tsp2\playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
+https://spleeny-bridges.000webhostapp.com/channel/3bbasin.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
+#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM= 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120", True Movie Hits
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/BMJQFXv.png", True Film 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
+https://edge-s7.onlineprostream.com:8826/v5/45t5aIuSZnk5LvOxe_RErA/1717919361/bc71ad3d90e1feb300642c0612933b2e/arvqwILI0nkqZ7XZTHaivg/1717930041/live/dx-origin/hd-tfilm2_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MjcgUE0maGFzaF92YWx1ZT1waWw5NmdFNVVBZU1YM0tPZlhBTXJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA5OTc=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tvsmagazine.com/images/channels/sm_260.jpg",Rock Action
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MTIgUE0maGFzaF92YWx1ZT1hV3h3R2MwRGovMkk5Yml4SFZmSkF3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMyMzk=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network
+ #EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN  
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/2KybYyr.png", Warner TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",Gem
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://tv.sritown.com/images/chlogo/box-film.png", BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw1.jpg",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="MOVIES WORLD 2.th" tvg-name="MOVIES WORLD 2" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw2.jpg",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="MOVIES WORLD 3.th" tvg-name="MOVIES WORLD 3" group-title="Movie" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw3.jpg",MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO  ENG
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113193214hbo.png",hbo 
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",hbo hits
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231222084329hbo-signature.png",hbo signature
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",Cinemax
+#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmkXCEfSGjoN1PA7iTMJn_yt00ohpJDrG6w&usqp=CAU", Mono29+
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.750d79c005a4cdf58db04214946f09b9?rik=4qRjpJG8frhMIg&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f2b%2fSky_de_cinema_action.png%2frevision%2flatest%3fcb%3d20170105095524&ehk=9Ha28HFLU6621%2b33A94sIZt7A0GWKrlRmBwe8dH5ORE%3d&risl=&pid=ImgRaw&r=0", SY Cinema Action
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18695
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.62ae718554d33bf4762c0bf7cfc61c62?rik=ivxNR%2bi7vVN0Pw&riu=http%3a%2f%2fvignette2.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f28%2fSky_Cinema_Premiere.png%2frevision%2flatest%3fcb%3d20160708223437&ehk=ercrgLaTs%2fWgfxLF88uD5iogpwqwFbTE6ZMe8WQen%2bA%3d&risl=&pid=ImgRaw&r=0",SY Cinema Premier
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18686
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.fd1-YjBd3-S_MW8Z4BnjVAHaBz?rs=1&pid=ImgDetMain",SY Cinema Select
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18687
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.yFWcwkR0IEl-ba2toHonigHaBB?rs=1&pid=ImgDetMain",SY Cinema Disney
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18691
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.082dfb706b305af8a412b2e6dfc50174?rik=1A7tVyEYuysB5Q&riu=http%3a%2f%2fcdn.entries.clios.com%2fstyles%2fclio_aotw_ems_image_details_retina%2fs3%2fentry_attachments%2fimage%2f39%2f21175%2fscreenshot_2017-08-04_15.41.19_3.png&ehk=64WVbY%2fGw0F%2fzb6g9pbRTXFVrPsbS2wIK0Ut1yU6vc8%3d&risl=&pid=ImgRaw&r=0",SYFY US
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",Showtime Showcase
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UzQeYtihA3iI1DIMaKlTJFD53_2RAxxqI163gcBsXS47is-ZxFjdm3H6&s=10",Food channel
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8 
+
 #EXTINF:-1 tvg-chno="28" tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
@@ -720,31 +775,141 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
 https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="TVB Thai.th" tvg-name="TVB Thai" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/TVBThai.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eGjYVIb.png",Asian Food Network
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0001.png",NBT 2 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",  KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1|Referer=https://kbsworld-ott.akamaized.net
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://storage.googleapis.com/bucket-pdpa-static-prod/dev/upload/000/061/782/b6282747-dfc4-4ad2-949f-b5f6045d18b7/original/TPBS_Logo.png" group-title="Digital TV",THAI PBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://www.altv.tv/images/assets/logo.png" group-title="Digital TV",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ch5new.logo.png",TV5 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UzQeYtihA3iI1DIMaKlTJFD53_2RAxxqI163gcBsXS47is-ZxFjdm3H6&s=10",Food channel
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8 
+#EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/T-SPorts_7_Final.png",T-Sports7
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6CLtDtbpJW6kPo9T44dZqo68QcYfMt3neQ&usqp=CAU",JP WOWOW Live
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://static.wikia.nocookie.net/drama/images/e/e7/TV_Tokyo.png/revision/latest?cb=20200303164558",Tv Tokyo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tp-channel-th.png" group-title="Digital TV",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Nippon_Television_Holdings_logo.svg",Nippon TV 
+https://ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-chno="19"  tvg-id="7Flix.th" tvg-name="7Flix" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRLnRNL-JwivxV5B81PvfGJYvYaIsT7UzCR6bU2d_6w&s",7Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",NHK General TV
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVImc2vZNDFmRyjXb5U5Isg5l9IlAvdVC1A&usqp=CAU",NHK WORLD-JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_mini.png",Nippon News 24  
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png" group-title="Digital TV",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqdplBY64zARvhh-kJnqPwwksSCJ-_55V5P_cFDWN7g&s",Tv Asahi
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jkn-18-th.png" group-title="Digital TV",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://drive.google.com/uc?id=141Goz5SCvIOicmCdi06hNDmZrEckK1SH", Animal kingdom
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_wowowcinema.png",JP WOWOW Cinema
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/4FcIqJP.png", Wild EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=OTH
+#EXTVLCOPT:update=04-07-2023 14:27:35 ( please update playlist https://bit.ly/41ui6wT )
+#EXTVLCOPT:develop by Shark Wow not for sale
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nation-tv-th.svg" group-title="Digital TV",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="http://tvsmagazine.com/images/channels/sm_WORKP.jpg" group-title="Digital TV",WorkpointTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0054.png",True 4 U
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://livejapan.com/public/operation/alliance/tbs/img/logo.jpg",TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-chno="27" tvg-id="CH8.th" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+
+#EXTINF:-1 group-title="Japan" tvg-logo="https://static.wikia.nocookie.net/drama/images/f/fb/Fuji_TV.png",Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="http://tvsmagazine.com/images/channels/sm_MONO.png" group-title="Digital TV",MONO 29
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="ONE 31.th" tvg-name="ONE 31 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE 31
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="3HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+
+#EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_7HD.jpg" group-title="Digital TV",CH 7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
 
 
 
