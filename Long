@@ -1,17 +1,14 @@
-#EXTINF:-1 group-title="NO",1
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", true tennis
+#EXTVLCOPT:http-referrer=https:https://ballsodlive.com/
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/truetennis_480p/chunks.m3u8?nimblesessionid=3442817&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI0IDM6MjI6MTAgQU0maGFzaF92YWx1ZT1Hays1OStQYTVmanRZU3l5ejgyREtnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9YmdocjkwMzY2Mg==
 
-#EXTINF:-1 group-title="NO",2
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png",truesport2
+#EXTVLCOPT:http-referrer=https:https://ballsodlive.com/
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/2sporthd2_480p/chunks.m3u8?nimblesessionid=3442865&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI0IDM6MjY6NDEgQU0maGFzaF92YWx1ZT1wT1MvSTMvNGJ2TUdqWTBZQmw3N2dRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9YmdocjY4OTMxNg==
 
-#EXTINF:-1 group-title="NO",3
-http://1.85.0.62:808/hls/503/index.m3u8
-
-#EXTINF:-1 group-title="NO",4
-http://220.178.228.153:1935/live/cctv5/playlist.m3u8
-
-#EXTINF:-1 group-title="NO",5
-http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png",bein1
+#EXTVLCOPT:http-referrer=https:https://ballsodlive.com/
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsport1_480p/chunks.m3u8?nimblesessionid=3442871&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDI0IDM6Mjc6NDIgQU0maGFzaF92YWx1ZT14L0cxS3Fyb1NuTmo3NURndDRReUJBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9Ymdocjk2NDA0OQ==
 
 #EXTINF:-1 group-title="NO",6
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
