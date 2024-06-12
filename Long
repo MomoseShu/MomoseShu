@@ -227,7 +227,7 @@ https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
 https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",bugaboo
-https://live-cdn-tero.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
+https://live-cdn-hwc.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png", sport tv3
 http:\\160262301811339545.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\339545.ts
