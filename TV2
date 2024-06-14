@@ -285,6 +285,12 @@ http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29390
 #EXTINF:-1,Sport TV 4
 http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29389
 
+#EXTINF:-1,Sport TV 5
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3188
+
+#EXTINF:-1,Sport TV +
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3187
+
 #EXTINF:-1,Now Sports Premier League 01 HD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
 
@@ -402,10 +408,65 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771102&ex
 #EXTINF:-1,ITV 1
 http://sansat.net:88/live/02022772333729/02022772333729/102509.m3u8
 
+#EXTINF:-1,ORF Sport+
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29175
 
+#EXTINF:-1,Sport1+
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29061
 
+#EXTINF:-1,Sky Sport Austria
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29090
 
+#EXTINF:-1,Sky Sport Bundesliga DE
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29085
 
+#EXTINF:-1,Sport Digital
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29060
 
+#EXTINF:-1,EuroSport 1 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2917
 
+#EXTINF:-1,EuroSport 2 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2916
 
+#EXTINF:-1,ITV 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2906
+
+#EXTINF:-1,ITV 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2905
+
+#EXTINF:-1,ITV 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2904
+
+#EXTINF:-1,ITV4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2903
+
+#EXTINF:-1,Bein 2 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28880
+
+#EXTINF:-1,Laliga TV
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28879
+
+#EXTINF:-1,BBC Scotland
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28871
+
+#EXTINF:-1,Rai Sport1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2715
+
+#EXTINF:-1,ART Sport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30623
+
+#EXTINF:-1,ART Sport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30622
+
+#EXTINF:-1,ART Sport 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30621
+
+#EXTINF:-1,Blue Sport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30883
+
+#EXTINF:-1,Blue Sport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30882
+
+#EXTINF:-1,Blue Zoom
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30880
