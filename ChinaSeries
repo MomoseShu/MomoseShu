@@ -5,11 +5,11 @@
 	"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/ChinaSeries",
 	"groups": [
 {
- "name": "ซีรี่ย์จีน",
- "author": "Momose",
- "info": "จีนจ้าจีน",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png",
- "groups": [
+	 "name": "ซีรี่ย์จีน",
+ 	"author": "Momose",
+ 	"info": "จีนจ้าจีน",
+ 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1920px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+ 	"groups": [
   { 
 {
    "name": "Fireworks of My Heart (2023) กู้ภัยรัก นักดับเพลิง",
