@@ -1,24 +1,3 @@
-#EXTINF:-1,Canal+ Sport
-http:\\160262301811749274.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749274.ts
-
-#EXTINF:-1,Canal+ Sport 2
-http:\\160262301811808743.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\808743.ts
-
-#EXTINF:-1,Canal+ Sport 3
-http:\\160262301811749277.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749277.ts
-
-#EXTINF:-1,Canal+ Sport 4
-http:\\160262301811819063.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\819063.ts
-
-#EXTINF:-1,Canal+ Sport 5
-http:\\160262301811749429.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749429.ts
-
-#EXTINF:-1,Polsat Sport 1
-http:\\160262301811826657.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\826657.ts
-
-#EXTINF:-1,Polsat Sport Premium 1
-http:\\160262301811857288.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\857288.ts
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png", 3BBAsian
 https://spleeny-bridges.000webhostapp.com/channel/3bbasin.m3u8
 
