@@ -1,11 +1,3 @@
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD22
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/223_True_Film_2_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD23
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/223_True_Film_HD_2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
@@ -31,8 +23,8 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/223_True_Film2_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+#EXTVLCOPT:http-referrer=https://dooball66
+https://edge-la.onlineprostream.com:9090/v5/IrMV6fyuaJ9hLpQENyeMig/1718433292/46611e8a6663736c92902c8b78ed7d55/26kLXf_soHLh69mTuLMouQ/1718443972/live/dx-origin/hd-tfilm2_720/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -78,7 +70,6 @@ https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113193214hbo.png",hbo 
 #EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",hbo hits
 #EXTVLCOPT:http-referrer=https://wacth.tv 
@@ -89,7 +80,6 @@ https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2Vydm
 https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png", Cinemax
-#EXTVLCOPT:http-referrer=https://wacth.tv https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 
 #EXTINF:-1 group-title="NO",
 
@@ -110,3 +100,68 @@ https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",Showtime Showcase
 https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png", สำรวจโลก
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjZ2TyQs1mKUc5K0iabNWQjKWwUAMc5AFBpnsty9LrfkQsBa9HRSyXoY&s=10",My Sci
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iKPP1N-mcIilmDPzXDWk1AaGbrnxgKiNHgs9tbRp2S3ps3MJ2obeU0F7&s=10",House Channel 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png",Animal Kingdom
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khongdee_th.png",ของดี
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",World Of Sci
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/560_TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
+https://spleeny-bridges.000webhostapp.com/channel/lovenature.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/205.png" group-title="Discovery",BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Discovery",Discovery Asia
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://img2.pic.in.th/pic/HH.png",HISTORY
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
+https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", NAT GEO US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
+
