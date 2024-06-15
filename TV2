@@ -29,7 +29,7 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
-https://edge-s7x.onlineprostream.com:9092/v5/HnALk4K8MalDJmkEevX6Aw/1718430825/d302843fcfb90b5ca51868497559b2f0/lViq99-dR-_BBJxKKAiUQg/1718441505/live/dx-origin/hd-tfilm2_720/playlist.m3u8
+https://edge-s3.onlineprostream.com:8828/v5/KaIJcZCwTk-dSJ_ygGrkAw/1718431170/d302843fcfb90b5ca51868497559b2f0/9mUZGp1cyT0a60BLj4MR7g/1718441850/live/dx-origin/hd-tfilm2_720/l_7126984_10789143_1797.ts
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
 #EXTVLCOPT:http-referrer=https://wacth.tv
