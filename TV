@@ -519,6 +519,9 @@ https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL
 https://live-cdn-tero.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL 2
+https://live-cdn-hwc-a.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://radio-thailand.com/storage/radios/15404/55239/conversions/mBjs0dUDklRQCFcDqvlu6yHt8oL1Kk-metaRUZNOTQucG5n--md.webp",EFM 94
 https://atimeonline.smartclick.co.th/efm
 
