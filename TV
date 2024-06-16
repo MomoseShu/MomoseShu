@@ -553,7 +553,10 @@ https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 https://cdn-th2.livestreaming.in.th/shoutcast/8730
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.goodtimeradio.fm/assets/images/Goodtime.png",Goodtime Radio
-https://gt-radio-streaming.bugaboo.tv/live_radio/live_high.m3u8
+https://streaming.teroradio.com/Goodtime/Goodtime-Listen/media_w896707096_322722.aac
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://tofupopradio.teroradio.com/assets/images/logo-top.png",Tofu POP Radio
+https://18803.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=970x250&burst-time=15&sbmid=ef3778c0-de26-4a7a-bfc7-234c13ecbadb
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wryg76p7ebax.png",สถานีเพลงสตริง Request Radio
 http://cast.requestradio.in.th:8100/stream
