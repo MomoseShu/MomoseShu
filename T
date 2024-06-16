@@ -677,6 +677,18 @@ http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\64874
 
 #EXTINF:-1 group-title="NO",
 
+ESPN 1 NL
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31425
+
+ESPN 2 NL
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31424
+
+ESPN 3 NL
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31423
+
+ESPN 4 NL
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31422
+
 
 
 
