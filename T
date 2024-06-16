@@ -1,11 +1,3 @@
-#EXTINF:-1,1
-#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
-https://www.livedoomovies.com/3bbsport1/chunklist.m3u8
-
-#EXTINF:-1,2
-#EXTVLCOPT:http-referrer=https://www.livedoomovies.com
-https://www.livedoomovies.com/3bbsport/chunklist.m3u8
-
 #EXTINF:-1,ESPN 1 NL
 http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31425
 
@@ -18,39 +10,481 @@ http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31423
 #EXTINF:-1,ESPN 4 NL
 http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31422
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 3
-#EXTVLCOPT:http-referrer=https://baadooball.com
-https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport3/playlist.m3u8
+#EXTINF:-1,TyC Sports
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30054
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 2
-#EXTVLCOPT:http-referrer=https://baadooball.com
-https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport2/playlist.m3u8
+#EXTINF:-1,TSN 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3004
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 1
-#EXTVLCOPT:http-referrer=https://baadooball.com
-https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport/playlist.m3u8
+#EXTINF:-1,TSN 2 
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3003
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", 4
-#EXTVLCOPT:http-referrer=https://baadooball.com
-https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport4/playlist.m3u8
+#EXTINF:-1,TSN 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3002
 
-#EXTINF:-1 group-title="NO",
+#EXTINF:-1,TSN 4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3001
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv/playlist.m3u8
+#EXTINF:-1,TSN 5
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3000
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
+#EXTINF:-1,
 
-#EXTINF:-1 group-title="NO",
+#EXTINF:-1,Bein 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2830
 
+#EXTINF:-1,Bein 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2829
 
+#EXTINF:-1,Bein 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2828
 
+#EXTINF:-1,Bein 4 
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2826
 
+#EXTINF:-1,Bein 5 
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2825
 
+#EXTINF:-1,Bein 6
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2824
 
+#EXTINF:-1,Bein 7
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2823
 
+#EXTINF:-1,Bein 8
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2822
 
+#EXTINF:-1,Bein 9
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2821
 
+#EXTINF:-1,Bein 10
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2827
+
+#EXTINF:-1,
+
+#EXTINF:-1,DAZN 1 DE
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2659
+
+#EXTINF:-1,DAZN 2 DE
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2658
+
+#EXTINF:-1,DE Sky sport premier league
+http:\\160262301811827325.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\827325.ts
+
+#EXTINF:-1,Sport Digital Fussball
+http:\\160262301811827329.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\827329.ts
+
+#EXTINF:-1,Sport1+
+http:\\160262301811819868.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\819868.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,Rai sport 
+http:\\160262301811850903.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\850903.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,Canal+ Sport
+http:\\160262301811749274.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749274.ts
+
+#EXTINF:-1,Canal+ Sport 2
+http:\\160262301811808743.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\808743.ts
+
+#EXTINF:-1,Canal+ Sport 3
+http:\\160262301811749277.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749277.ts
+
+#EXTINF:-1,Canal+ Sport 4
+http:\\160262301811819063.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\819063.ts
+
+#EXTINF:-1,Canal+ Sport 5
+http:\\160262301811749429.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\749429.ts
+
+#EXTINF:-1,Polsat Sport 1
+http:\\160262301811826657.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\826657.ts
+
+#EXTINF:-1,Polsat Sport Premium 1
+http:\\160262301811857288.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\857288.ts
+
+#EXTINF:-1,ELEVEN SPORTS 1 Poland
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\33360
+
+#EXTINF:-1,ELEVEN SPORTS 2 Poland
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\33359
+
+#EXTINF:-1,ELEVEN SPORTS 3 Poland
+http:\\160262301811762298.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\762298.ts
+
+#EXTINF:-1,ELEVEN SPORTS 4 Poland
+http:\\160262301811773186.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\773186.ts
+
+#EXTINF:-1,ELEVEN SPORTS 5 Poland
+http:\\160262301811773186.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\773186.ts
+
+#EXTINF:-1,Even sports 1
+http:\\160262301811828670.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828670.ts
+
+#EXTINF:-1,Even sports 2
+http:\\160262301811828673.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828673.ts
+
+#EXTINF:-1,sport klub 1
+http:\\160262301811828821.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828821.ts
+
+#EXTINF:-1,sport klub 2
+http:\\160262301811828822.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828822.ts
+
+#EXTINF:-1,sport klub 3
+http:\\160262301811834828.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834828.ts
+
+#EXTINF:-1,sport klub 4
+http:\\160262301811816667.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\816667.ts
+
+#EXTINF:-1,sport klub 5 cro
+http:\\160262301811820562.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\820562.ts
+
+#EXTINF:-1,sport klub 6
+http:\\160262301811834829.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834829.ts
+
+#EXTINF:-1,sport klub 8
+http:\\160262301811834832.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834832.ts
+
+#EXTINF:-1,arenasport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49322
+
+#EXTINF:-1,arenasport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49321
+
+#EXTINF:-1,arenasport 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49320
+
+#EXTINF:-1,arenasport4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49319
+
+#EXTINF:-1,Arenasport 5
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49318
+
+#EXTINF:-1,Arenasport 6
+http:\\160262301811834814.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834814.ts
+
+#EXTINF:-1,Arenasport 7
+http:\\160262301811834816.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834816.ts
+
+#EXTINF:-1,premium 1
+http:\\160262301811834819.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834819.ts
+
+#EXTINF:-1,premium 2
+http:\\160262301811834820.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834820.ts
+
+#EXTINF:-1,premium 3
+http:\\160262301811834821.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\834821.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,Viasat Sport 1
+http:\\160262301811826423.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\826423.ts
+
+#EXTINF:-1,Viasat Sport 1
+http:\\160262301811849896.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\849896.ts
+
+#EXTINF:-1,Viasat Sport 3
+http:\\160262301811828904.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828904.ts1
+
+#EXTINF:-1,
+
+#EXTINF:-1,V Sport+
+http:\\160262301811828906.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\828906.ts
+
+#EXTINF:-1,Viasat Sport Extra
+http:\\160262301811826424.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\826424.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,Sport tv+
+http:\\160262301811829053.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\829053.ts
+
+#EXTINF:-1,Sport3
+http:\\160262301811849519.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\849519.ts
+
+#EXTINF:-1,Sport4
+http:\\160262301811849520.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\849520.ts
+
+#EXTINF:-1,RTM TV2
+http:\\160262301811820009.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\820009.ts
+
+#EXTINF:-1,Astro Arena
+http:\\160262301811832674.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\832674.ts
+
+#EXTINF:-1,astro super sport 3
+http:\\160262301811853694.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\853694.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,TV3 MAX
+http:\\160262301811843176.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\843176.ts
+
+#EXTINF:-1,TV3 Sport
+http:\\160262301811862541.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\862541.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,TV6 EREN
+http:\\160262301811862536.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\862536.ts
+
+#EXTINF:-1,
+
+#EXTINF:-1,bein3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61076
+
+#EXTINF:-1,Fox Sports 501
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61080
+
+#EXTINF:-1,Fox Sports 502
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61081
+
+#EXTINF:-1,Fox Sports 503
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61082
+
+#EXTINF:-1,Fox Sports 504
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61083
+
+#EXTINF:-1,Fox Sports 505
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61084
+
+#EXTINF:-1,Fox Sports 506
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61085
+
+#EXTINF:-1,Fox Sports 507
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\61086
+
+#EXTINF:-1,ESPN ARG
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49721
+
+#EXTINF:-1,ESPN2 ARG
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49720
+
+#EXTINF:-1,ESPN3 ARG
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49719
+
+#EXTINF:-1,ESPN+ ARG
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\49717
+
+#EXTINF:-1,V Sport Football
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51528
+
+#EXTINF:-1,V Sport Extra
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51523
+
+#EXTINF:-1,V Sport Vinter
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51506
+
+#EXTINF:-1,C More Live
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51525
+
+#EXTINF:-1,C More Live 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51511
+
+#EXTINF:-1,C More Live 4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\51526
+
+#EXTINF:-1,Orange Sport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31780
+
+#EXTINF:-1,Orange Sport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31779
+
+#EXTINF:-1,Sport TV 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29392
+
+#EXTINF:-1,Sport TV 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29391
+
+#EXTINF:-1,Sport TV 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29390
+
+#EXTINF:-1,Sport TV 4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29389
+
+#EXTINF:-1,Sport TV 5
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3188
+
+#EXTINF:-1,Sport TV +
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\3187
+
+#EXTINF:-1,Now Sports Premier League 01 HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,SuperSport Premier League HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=278512&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771178   Albania
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771178&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771170   Austria
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771170&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771171   Belgium
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771171&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771172   Croatia
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771172&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771186   Czech Republic
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771186&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771173   Denmark
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771173&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771174   England
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771174&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771193   France
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771193&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771192   Georgia
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771192&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771188   Germany
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771188&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771189   Hungary
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771189&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771177   Italy
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771177&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771094   Netherlands
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771094&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770658   Poland
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770658&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771095   Portugal
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771095&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770662   Romania
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770662&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770661   Scotland
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770661&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770663   Serbia
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770663&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770657   Slovakia
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770657&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771122   Slovenia
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771122&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771096   Spain
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771096&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770664   Switzerland
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770664&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771130   Turkey
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771130&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771098   Ukraine
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771098&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770659   Match Day 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770659&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771103   Match Day 2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771103&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771194   Match Day 3
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771194&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771195   Match Day 4
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771195&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771154   Quarter Final 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771154&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771168   Quarter Final 2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771168&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771160   Quarter Final 3
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771160&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771161   Quarter Final 4
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771161&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771196   Semi Final 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771196&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,770660   Semi Final 2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=770660&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771123   Final BBC
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771123&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,771102   Final ITV
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771102&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,ITV 1
+http://sansat.net:88/live/02022772333729/02022772333729/102509.m3u8
+
+#EXTINF:-1,ORF Sport+
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29175
+
+#EXTINF:-1,Sport1+
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29061
+
+#EXTINF:-1,Sky Sport Austria
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29090
+
+#EXTINF:-1,Sky Sport Bundesliga DE
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29085
+
+#EXTINF:-1,Sport Digital
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\29060
+
+#EXTINF:-1,EuroSport 1 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2917
+
+#EXTINF:-1,EuroSport 2 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2916
+
+#EXTINF:-1,ITV 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2906
+
+#EXTINF:-1,ITV 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2905
+
+#EXTINF:-1,ITV 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2904
+
+#EXTINF:-1,ITV4
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2903
+
+#EXTINF:-1,Bein 2 UK
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28880
+
+#EXTINF:-1,Laliga TV
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28879
+
+#EXTINF:-1,BBC Scotland
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\28871
+
+#EXTINF:-1,Rai Sport1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\2715
+
+#EXTINF:-1,ART Sport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30623
+
+#EXTINF:-1,ART Sport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30622
+
+#EXTINF:-1,ART Sport 3
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30621
+
+#EXTINF:-1,Blue Sport 1
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30883
+
+#EXTINF:-1,Blue Sport 2
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30882
+
+#EXTINF:-1,Blue Zoom
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\30880
