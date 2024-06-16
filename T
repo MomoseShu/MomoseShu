@@ -1,0 +1,116 @@
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2 
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", BALLTHAI 4
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", BALLTHAI 5
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", BALLTHAI 6
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", BALLTHAI 7
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", BALLTHAI 8
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/th-sport/truesport2/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", TrueSports 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", TrueSports 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
+
+
+#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
+#EXTVLCOPT:http-referrer=https://googleuservideo.com
+https://r3-sn-5fo-c37ed22.googleuservideo.com/dbdn_x1/spotv1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDI0IDQ6MzA6MjYgQU0maGFzaF92YWx1ZT16bWg5Q3QrWXhoY2dzUitsMXAvckF3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTkmaWQ9YmdocjE5ODA4Mg==
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
+#EXTVLCOPT:http-referrer=https://googleuservideo.com
+https://r3-sn-5fo-c37ed22.googleuservideo.com/dbdn_x1/spotv2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDI0IDQ6MzE6MDggQU0maGFzaF92YWx1ZT1LQVNoNlpQNGdwVEwrdEJ3K0c0Y3ZnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MTkmaWQ9YmdocjY5MDkzNQ==
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
+#EXTVLCOPT:http-referrer=https://googleuservideo.com https://r3-sn-5fo-c37ed22.googleuservideo.com/dbdn_x1/truetennis_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDI0IDQ6MzI6MDIgQU0maGFzaF92YWx1ZT1oV1NyNXlnbkpWcEhHT2ZVamRQUUR3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjMmaWQ9YmdocjI5MzA1MA== 
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",bugaboo
+https://live-cdn-hwc.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
+
+
