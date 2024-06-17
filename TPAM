@@ -30,15 +30,7 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/HLS/JL001.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 
 #EXTVLCOPT:http-referrer=https://baadooball.com
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport1/playlist.m3u8
 
@@ -123,12 +115,12 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/truetenis.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodlive.com/
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/truetennis_480p/chunks.m3u8?nimblesessionid=3569776&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI0IDEyOjMwOjE5IFBNJmhhc2hfdmFsdWU9M1dXVkM3eXg1SlB5b1Y3cDM4QVArZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPWJnaHIyOTc3MTQ=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD 2
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/true-tenis.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://ballsodlive.com/
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/truetennis_480p/chunks.m3u8?nimblesessionid=3569776&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI0IDEyOjMwOjE5IFBNJmhhc2hfdmFsdWU9M1dXVkM3eXg1SlB5b1Y3cDM4QVArZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPWJnaHIyOTc3MTQ=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
 #EXTVLCOPT:http-referrer=https://wacth.tv 
