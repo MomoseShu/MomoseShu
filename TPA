@@ -34,6 +34,10 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", 1
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/JL001/HLS/JL001.m3u8
+
 #EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://baadooball.com
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport1/playlist.m3u8
@@ -94,9 +98,11 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="NO",
+
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ= 
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -117,16 +123,15 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-https://edge-s6x.onlineprostream.com:9090/v5/0fjEWY-lH1hc2T1r04lqSQ/1718517892/d302843fcfb90b5ca51868497559b2f0/EUyyK3xLXucbFpKBILO25A/1718528572/live/lx-origin/hd-tennis_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/truetenis.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD 2
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/true-tenis.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
 #EXTVLCOPT:http-referrer=https://wacth.tv 
 https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
 
 #EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL
-https://live-cdn-tero.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL 2
-https://live-cdn-hwc-a.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
