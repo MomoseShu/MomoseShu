@@ -158,8 +158,7 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD2
-#EXTVLCOPT:http-referrer=https://dooball66
-https://edge-s2c.onlineprostream.com:9093/v5/MEUDgKxuezRxMAH13ve6mg/1718514540/46611e8a6663736c92902c8b78ed7d55/NnbrAO9zdEhmczQXLCNVdQ/1718525220/live/dx-origin/hd-tfilm2_720/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -201,10 +200,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO  ENG
 #EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220113193214hbo.png",hbo 
-#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",hbo hits
 #EXTVLCOPT:http-referrer=https://wacth.tv 
@@ -215,26 +211,9 @@ https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2Vydm
 https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png", Cinemax
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\71058
 
 #EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.750d79c005a4cdf58db04214946f09b9?rik=4qRjpJG8frhMIg&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f2b%2fSky_de_cinema_action.png%2frevision%2flatest%3fcb%3d20170105095524&ehk=9Ha28HFLU6621%2b33A94sIZt7A0GWKrlRmBwe8dH5ORE%3d&risl=&pid=ImgRaw&r=0", SY Cinema Action
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18695
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.62ae718554d33bf4762c0bf7cfc61c62?rik=ivxNR%2bi7vVN0Pw&riu=http%3a%2f%2fvignette2.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f28%2fSky_Cinema_Premiere.png%2frevision%2flatest%3fcb%3d20160708223437&ehk=ercrgLaTs%2fWgfxLF88uD5iogpwqwFbTE6ZMe8WQen%2bA%3d&risl=&pid=ImgRaw&r=0",SY Cinema Premier
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18686
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.fd1-YjBd3-S_MW8Z4BnjVAHaBz?rs=1&pid=ImgDetMain",SY Cinema Select
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18687
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/OIP.yFWcwkR0IEl-ba2toHonigHaBB?rs=1&pid=ImgDetMain",SY Cinema Disney
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\18691
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://th.bing.com/th/id/R.082dfb706b305af8a412b2e6dfc50174?rik=1A7tVyEYuysB5Q&riu=http%3a%2f%2fcdn.entries.clios.com%2fstyles%2fclio_aotw_ems_image_details_retina%2fs3%2fentry_attachments%2fimage%2f39%2f21175%2fscreenshot_2017-08-04_15.41.19_3.png&ehk=64WVbY%2fGw0F%2fzb6g9pbRTXFVrPsbS2wIK0Ut1yU6vc8%3d&risl=&pid=ImgRaw&r=0",SYFY US
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12698
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.fubo.tv/lp/v3_files/nlogos/logo-showtime-showcase.png",Showtime Showcase
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421508
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/QJN5m2R.png",True X-Zyte
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -259,9 +238,6 @@ https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UzQeYtihA3iI1DIMaKlTJFD53_2RAxxqI163gcBsXS47is-ZxFjdm3H6&s=10",Food channel
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC6/index.m3u8 
-
 #EXTINF:-1 tvg-chno="28" tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
@@ -283,9 +259,6 @@ https://wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2V
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTk6NTEgUE0maGFzaF92YWx1ZT1rK2VOZ3Q4Qktla2hsWFV0WVE3UzhnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjk0OTY=
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoomoo
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png", DISNEY CHANNEL
 https://6oclock.xyz:8443/Tyrone43147/My3boys/421444
 
@@ -297,36 +270,13 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/421519
 #EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0",Disney Junior US
 https:\\6oclock.xyz:8443\Tyrone43147\My3boys\421510
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/OIP.7FkvWFjLXOPkhHdiOGTpuQHaE8?rs=1&pid=ImgDetMain",nick JR (US)
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12717
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://th.bing.com/th/id/OIP.RQ2CTmW77qLf_PMfikNlLgHaEo?rs=1&pid=ImgDetMain",nickToons
-https:\\6oclock.xyz:8443\Tyrone43147\My3boys\12718
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png", สำรวจโลก
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjZ2TyQs1mKUc5K0iabNWQjKWwUAMc5AFBpnsty9LrfkQsBa9HRSyXoY&s=10",My Sci
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iKPP1N-mcIilmDPzXDWk1AaGbrnxgKiNHgs9tbRp2S3ps3MJ2obeU0F7&s=10",House Channel 
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-show-th.png",Animal Kingdom
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khongdee_th.png",ของดี
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",World Of Sci
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8
-
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp", TRUE EXPLORE LIFE
-https://edge-la.onlineprostream.com:9092/v5/PpNs2OHzlRZxd0-cXxhkSA/1718512215/46611e8a6663736c92902c8b78ed7d55/_fkah3AtNZlSsZsGRgft7A/1718522895/live/dx-origin/th-explife_480/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/560_TRUE_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -367,12 +317,6 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/qYHStJ0/heart.png", HEART
-https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDY6MjYgQU0maGFzaF92YWx1ZT1PZkxNOWtQakFhQTJzNVE0Uy9ieWtBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODIwMjQ=
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8ZO_ACLnGmFtsTQVPeezQPO6qqCoGCsq2A&usqp=CAU",Channel V
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png", Qmusic 
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
@@ -381,13 +325,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="NO", 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhXziRWNw0VY4KWtVbQlkHbXXGmXJMAd28g&usqp=CAU", Stingray Qello Concerts
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=YYLfxXQo7scmjLytUWon&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=YYLfxXQo7scmjLytUWon&custom_7=5fe27da28c198b002d179199
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png",MTV LIVE
 https://6oclock.xyz:8443/Tyrone43147/My3boys/28270
 
 #EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://th.bing.com/th/id/OIP.frW9SxXV2jZKQFxg3uW7jAHaEg?rs=1&pid=ImgDetMain",XITE NL
+http:\\newlife3.wanicelife.com:8880\6mmk170005\92179118\31360
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://img5.pic.in.th/file/secure-sv1/bitmap.png",V2 BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
@@ -421,10 +368,6 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z_hZlYm3Yia82DHNWBpUZ83vtwOygfL9gaj9Fw2X9FMmPP6qWx1w0SY&s=10",AIS PLAY SPORT 1
-#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
-
 #EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://baadooball.com
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport1/playlist.m3u8
@@ -446,8 +389,8 @@ https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport4/playlist.m
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -508,7 +451,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-2/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-https://edge-s6x.onlineprostream.com:9090/v5/0fjEWY-lH1hc2T1r04lqSQ/1718517892/d302843fcfb90b5ca51868497559b2f0/EUyyK3xLXucbFpKBILO25A/1718528572/live/lx-origin/hd-tennis_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ballhd.ch/
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ballhd24liv_e1/truetennis_480p/chunks.m3u8?nimblesessionid=128174708&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDg6Mjk6MjMgQU0maGFzaF92YWx1ZT1jZStZc3B5QzVMN1VTbE02WEZaOUtRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9YmdocjQwODMwNQ==
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
 #EXTVLCOPT:http-referrer=https://wacth.tv 
@@ -516,9 +460,4 @@ https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2Vyd
 
 #EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL
-https://live-cdn-tero.bugaboo.tv/live_line1/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://th.bing.com/th/id/OIP.VtpWBFT5MMCe6IuzREHmXwAAAA?w=474&h=496&rs=1&pid=ImgDetMain", Bugaboo VNL 2
-https://live-cdn-hwc-a.bugaboo.tv/live_line2/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv
 
