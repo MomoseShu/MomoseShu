@@ -5,6 +5,90 @@
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
   "groups": [
 {
+      "name": "Stand Up Start (2023) ธุรกิจพลิกเกมฝัน",
+      "info": "HD",
+      "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1aea40737580792a41f2e003/1aea40737580792a41f2e003438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ddd6506eb8558a6b656b299b/ddd6506eb8558a6b656b299b438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1f3ed3f525f0062572ea1426/1f3ed3f525f0062572ea1426438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a8e587556af852b677ec1a54/a8e587556af852b677ec1a54438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/78038b403a5b31ed0f174bb1/78038b403a5b31ed0f174bb1438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a4267fb51e647dc8e54f5f86/a4267fb51e647dc8e54f5f86438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/64625258bba26070e7ed0db4/64625258bba26070e7ed0db4438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/b252dd5b7057785811439f13/b252dd5b7057785811439f13438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/dbb4b29a4b8b36a35355e47b/dbb4b29a4b8b36a35355e47b438.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a60d292dd05b0b3de69ab6a8/a60d292dd05b0b3de69ab6a8438.m3u8",
+          "referer": ""
+    },
+   {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.serie-day.com/wp-content/uploads/2024/04/Stand-Up-Start-2023-212x300.jpg",
+          "url": "https://main.24playerhd.com/m3u8/99b6f0e4412c0aad3b0798b0/99b6f0e4412c0aad3b0798b0438.m3u8",
+          "referer": ""
+    }
+   ]
+  },
+{
       "name": "Silent สัมผัสรักไร้เสียง (2022)",
       "info": "HD",
       "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
