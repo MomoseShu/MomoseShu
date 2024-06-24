@@ -4,7 +4,91 @@
   "info": "ทำไว้ดูเอง อย่าเอาไปขายนะครับ ไม่งั้นก็จะหายไป",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",
   "groups": [
-    {
+{
+      "name": "Silent สัมผัสรักไร้เสียง (2022)",
+      "info": "HD",
+      "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+      "stations": [
+{
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://tcp.miruplayer.com/media/sv1/GsLaxp3IZItCQ8siwSaL/720a.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://tcp.miruplayer.com/media/sv3/JuJUhYSWRZq1uED4fQ7k/720a.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://tcp.miruplayer.com/media/sv1/BW2KT6KIQdB9qS_JfxMB/720a.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://tcp.miruplayer.com/media/sv3/cThcRzyLaq888IckoPcJ/720a.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/733ace38367161625e03c0d9/733ace38367161625e03c0d9438.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ca5bf63e780a2f7cd2256d83/ca5bf63e780a2f7cd2256d83438.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4e415e0192ac3d3a34d8604e/4e415e0192ac3d3a34d8604e438.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1a038f469e6b5d27e282e649/1a038f469e6b5d27e282e649438.m3u8",
+          "referer": ""
+   },
+     {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/298d231d3c9075539f0b921f/298d231d3c9075539f0b921f438.m3u8",
+          "referer": ""
+   },
+      {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/d62d24bb1a4cf71b0943d653/d62d24bb1a4cf71b0943d653438.m3u8",
+          "referer": ""
+  },
+     {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://320hd.com/wp-content/uploads/2024/03/040-4.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9d362a12ae5e93cced079bb2/9d362a12ae5e93cced079bb2438.m3u8",
+          "referer": ""  
+    }
+   ]
+  },
+{
       "name": "NIGHT DOCTOR",
       "info": "HD",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/ai36YX5HDIunpAhaUneUl7H0G5V-185x278.jpg.webp",
