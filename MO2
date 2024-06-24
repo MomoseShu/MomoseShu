@@ -426,20 +426,20 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com
-https://dooball2you.com/live/tpf3/
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://livestream88
-https://dooball2you.com/live/tpf4/
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com
-https://edge-s2x.onlineprostream.com:9093/v5/sO3rWVslnzP1rwo0rPB7_Q/1719219556/dd4b9de12bcf40b55e93820a2b8534ae/-ha5BzWVrWsiPJ4oQQZL1g/1719230236/live/lx-origin/epl-bein1_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
 
 #EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
 #EXTVLCOPT:http-referrer=https://freetvdd.com
