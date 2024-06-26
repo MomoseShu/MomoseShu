@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1,DE Dazn 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=231220&extension=ts&play_token=7rEWNk6OI0&sn2=
+#EXTINF:-1,DE Dazn 1
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=96428&extension=ts&sn2=092017N036283
+#EXTINF:-1,DE Dazn 1
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=8707&extension=ts&sn2=092017N036283
+
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=455045&extension=ts&play_token=PsAecd8gI2
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=731042&extension=ts&play_token=oaCNdHqeTS
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=731086&extension=ts&play_token=xaiqWfVTpg
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=489766&extension=ts&play_token=pymob5iki2
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=646967&extension=ts&play_token=mmcedB3Zkx
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=731088&extension=ts&play_token=XVfirHXePQ
+#EXTINF:-1,DE Dazn 1Bar
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=731092&extension=ts&play_token=jrKFKDXuEB
+
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=768742&extension=ts&play_token=q8F7oDsBed
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=768742&extension=ts&play_token=q8F7oDsBed
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:B8:A1:99&stream=768744&extension=ts&play_token=HrPGMEdja9
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=73651&extension=ts&sn2=092017N036283
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=73649&extension=ts&sn2=092017N036283
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=82241&extension=ts&play_token=RhCiKmOCU3
+#EXTINF:-1,UK: TNT SPORT1 HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=82261&extension=ts&play_token=dugye0bVni
+
+#EXTINF:-1,FR RMC SPORT 1 HD
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=70480&extension=ts&sn2=092017N036283
+
+#EXTINF:-1,Sky Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=783612&extension=ts&play_token=ezfndoqxjT
+#EXTINF:-1,Sky Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=348784&extension=ts&play_token=o504bSrZpH
+#EXTINF:-1,Dazn Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=348783&extension=ts&play_token=d4kpq7tfFQ
+#EXTINF:-1,Dazn Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=783611&extension=ts&play_token=rO0A40oErp
+#EXTINF:-1,TNT Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=348781&extension=ts&play_token=iOR3EG7eLB
+#EXTINF:-1,TNT Sport Box Office HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:47:BB:2C&stream=348781&extension=ts&play_token=dRn9zAXpWd
+
