@@ -1,0 +1,184 @@
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png",MLB NETWORK 
+https://6oclock.xyz:8443/Tyrone43147/My3boys/12728
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES NETWORK
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/141509
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png", BIG TEN NETWORK
+https://6oclock.xyz:8443/Tyrone43147/My3boys/15978
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/R.027a5b9158c559146dc4201717c18a93?rik=p9MggWH0yBiT0A&riu=http%3a%2f%2fi.imgur.com%2fMHKPZN1.jpg&ehk=IyJEozV9i0Jh%2b7MX5BZkr%2fqMQF1x39D5%2bUOrx3Kfvcs%3d&risl=&pid=ImgRaw&r=0",WWE (US)
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\15877
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/R.334b814eef61b262ded02f6d065a6f06?rik=mZKHXFXnbA5brA&pid=ImgRaw&r=0",CBS WNBA
+https:\\6oclock.xyz:8443\Tyrone43147\My3boys\42012
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",TSN 1
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142475
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png",TSN 2
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142476
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png",TSN 3
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142477
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png",TSN 4
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142478
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png",TSN 5
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\2233
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/15976
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435", ESPN2 US
+https://6oclock.xyz:8443/Tyrone43147/My3boys/15974
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL2_ZWF0QtoGSaeLgreQmlM5N1lf7KLBB5A&usqp=CAU",Fox Sports 1
+http://hardcoremedia.xyz:80/ymxiontq/4136602003/141466
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",Fox Sports 2
+http://hardcoremedia.xyz:80/ymxiontq/4136602003/141467
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg",CBS SPORTS NETWORK
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/141455
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus 
+http://hardcoremedia.xyz:80/ymxiontq/4136602003/141465
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA NETWORK
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/129973
+
+#EXTINF:-1,USA Network West
+http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\129974
+
+#EXTINF:-1 group-title="France Sport" tvg-logo="https://worldcuppass.com/wp-content/uploads/bein-Sports-France.png",Bein Sport 1 FR
+http:\\mol-2.com:8080\play\live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+
+#EXTINF:-1 group-title="France Sport" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",Bein Sport 2 FR
+http:\\mol-2.com:8080\play\live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+
+#EXTINF:-1 group-title="France Sport" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",Bein Sport 3 FR
+http:\\mol-2.com:8080\play\live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+
+#EXTINF:-1 group-title="France Sport" tvg-logo="https://th.bing.com/th/id/OIP.4UJDDk3feGNaO5DeE_3IIgHaE8?rs=1&pid=ImgDetMain",Canal+ Foot
+http:\\mol-2.com:8080\play\live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+
+#EXTINF:-1 group-title="France Sport" tvg-logo="https://th.bing.com/th/id/OIP.MBP7iglX1G7_iHAiVQS_sQHaEz?w=745&h=483&rs=1&pid=ImgDetMain",Canal+ Sport
+http:\\mol-2.com:8080\play\live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+
+#EXTINF:-1,ITV 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771174&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,BBC ONE
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771188&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,ITV 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=771095&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png", ASTRO ARENA HD
+http://160262301811832674.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/832674.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="",BBC ONE LONDON 
+http://160262301811829953.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/829953.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="",ESPN U HD" tvg-logo="https://asiagrandiptv.us/logo/espnu.png" group-title="USA",US: VIP ESPN U HD
+http://160262301811861682.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/861682.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="",ESPN 2 HD" tvg-logo="" group-title="USA",US: VIP ESPN 2 HD
+http://160262301811862373.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/862373.ts
+
+#EXTINF:-1 group-title="Sport" tvg-logo="",ESPN US
+http:\\160262301811751037.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\751037.ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png",NICK JUNIOR HD
+http:\\160262301811843237.otjb0606.xyz:80\live\he48794\Qy84xfgE9PM\843237.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypeJDph0rQYJAws2Wq5GCkavwy1fLMssvMI05ooCsAO-A.png",C MORE FOTBOLL HD
+http://160262301811828316.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/828316.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://th.bing.com/th/id/OIP.q9uDdQ8xnRmH1zlJ135HxgHaEK?rs=1&pid=ImgDetMain",V SPORT 1 FHD
+http://160262301811855949.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/855949.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",V SPORT+ HD
+http://160262301811848996.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/848996.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",V SPORT 3 HD
+http://160262301811848994.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/848994.ts
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="USA FOX",US038:FOX-Sports1
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3130
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="USA FOX",US039:FOX-Sports2
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3129
+
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="US136:TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="USA Sports",US136:TyC Sports
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/30054
+
+#EXTINF:-1 tvg-id="4music.gb" tvg-name="UK001:4Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK001" group-title="UK Ent",UK001:4Music
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/2956
+
+#EXTINF:-1 tvg-id="mutv.gb" tvg-name="UK062:MUTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK062MUTV.png" group-title="UK Sports",UK062:MUTV HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/2895
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="USA Sports",US031:ESPN-2
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3137
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="USA Sports",US032:ESPN-HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3136
+
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="USA Sports",US034:ESPN-U
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3134
+
+#EXTINF:-1,BeinS Español HD (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158817
+
+#EXTINF:-1,BeIN Sports US (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158818
+
+#EXTINF:-1,AstroSuperSport 3
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630205&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,LLLLLLL
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630207&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Now Sport Premier League 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
+
+
+#EXTINF:-1,Now Sports Prime
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630222&extension=ts&play_token=wlsL7RB290
+
+
+
+
+
+
+
+
+
+
+
+
+
+
