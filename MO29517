@@ -1,4 +1,19 @@
-DE
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Supersports 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", Astro Supersports 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", Astro Supersports 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersports 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORT DIGITAL FUSSBALL HD" tvg-logo="http://stream.geoiptv.live/channels_icon/6143353842.png" group-title="Germany",DE: SPORT DIGITAL FUSSBALL HD
 http://269416496687827329.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/827329.ts
@@ -35,9 +50,6 @@ http:\\269416496687860465.ofd0628.xyz:80\live\ja614734\7qhU3NNCqpmW\860465.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: XITE HD" tvg-logo="" group-title="Germany",DE: XITE HD
 http://269416496687856717.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/856717.ts
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 1 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: MAGENTA SPORT 1 FHD
 http://269416496687875002.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/875002.ts
@@ -100,12 +112,6 @@ http://269416496687834975.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/834975.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 6 [VDF SCRITP] HD" tvg-logo="" group-title="SVIP SPORTS",PL: SPORT TV 6 [VDF SCRITP] HD
 http://269416496687834976.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/834976.ts
 
-
-
-
-
-UK
-
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 FHD 50FPS HEVC" tvg-logo="" group-title="UK Sport",UK: BT SPORT 1 FHD 50FPS HEVC
 http://269416496687341209.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/341209.ts
 
@@ -114,11 +120,6 @@ http://269416496687828091.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/828091.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT SPORT ESPN FHD 50FPS FHD" tvg-logo="" group-title="SVIP SPORTS",UK : BT SPORT ESPN FHD 50FPS FHD
 http://269416496687868964.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/868964.ts
-
-
-
-
-US
 
 #EXTINF:-1 tvg-id="" tvg-name="US: VIP FOX SOCCER PLUS HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/united-states/fox-us.png" group-title="USA",US: VIP FOX SOCCER PLUS HD
 http://269416496687860340.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/860340.ts
@@ -153,23 +154,5 @@ http://269416496687803263.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/803263.ts
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5 FHD" tvg-logo="" group-title="Canada",CA: TSN 5 FHD
 http://269416496687873472.ofd0628.xyz:80/live/ja614734/7qhU3NNCqpmW/873472.ts
 
-
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Supersports 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", Astro Supersports 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", Astro Supersports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersports 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
 
 
