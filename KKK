@@ -40,83 +40,54 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/743847
 #EXTINF:-1 tvg-id="US: FS2" tvg-name="SPORTS: FOX SPORTS 2" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_2.png" group-title="SPORTS",SPORTS: FOX SPORTS 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/743848
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="PORTUGAL",PT: SPORT TV 1
 http://likea8bitboss.xyz:80/Oscar/9562340178/780328
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="PORTUGAL",PT: SPORT TV 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/780331
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="PORTUGAL",PT: SPORT TV 3
 http://likea8bitboss.xyz:80/Oscar/9562340178/780333
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="PORTUGAL",PT: SPORT TV 4
 http://likea8bitboss.xyz:80/Oscar/9562340178/780334
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" group-title="PORTUGAL",PT: SPORT TV 5
 http://likea8bitboss.xyz:80/Oscar/9562340178/780335
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="" group-title="PORTUGAL",PT: Sport TV 6
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="PORTUGAL",PT: Sport TV 6
 http://likea8bitboss.xyz:80/Oscar/9562340178/780336
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport+TV.png" group-title="PORTUGAL",PT: SPORT TV+
 http://likea8bitboss.xyz:80/Oscar/9562340178/780337
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="" group-title="MEXICO",MEX: ESPN 2
-http://likea8bitboss.xyz:80/Oscar/9562340178/775800
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="" group-title="MEXICO",MEX: ESPN 3
-http://likea8bitboss.xyz:80/Oscar/9562340178/775801
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="" group-title="MEXICO",MEX: ESPN EXTRA
-http://likea8bitboss.xyz:80/Oscar/9562340178/775802
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="" group-title="MEXICO",MEX: ESPN
-http://likea8bitboss.xyz:80/Oscar/9562340178/775803
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS" tvg-logo="" group-title="MEXICO",MEX: FOX SPORTS
-http://likea8bitboss.xyz:80/Oscar/9562340178/775817
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 2" tvg-logo="" group-title="MEXICO",MEX: FOX SPORTS 2
-http://likea8bitboss.xyz:80/Oscar/9562340178/775818
-#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 3" tvg-logo="" group-title="MEXICO",MEX: FOX SPORTS 3
-http://likea8bitboss.xyz:80/Oscar/9562340178/775819
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BBC ONE
-http://likea8bitboss.xyz:80/Oscar/9562340178/761231
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BBC TWO
-http://likea8bitboss.xyz:80/Oscar/9562340178/761234
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV
-http://likea8bitboss.xyz:80/Oscar/9562340178/761261
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV 2
-http://likea8bitboss.xyz:80/Oscar/9562340178/761262
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV 3
-http://likea8bitboss.xyz:80/Oscar/9562340178/761263
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV 4
-http://likea8bitboss.xyz:80/Oscar/9562340178/761264
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: LFC TV
-http://likea8bitboss.xyz:80/Oscar/9562340178/761331
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: EUROSPORT 2
-http://likea8bitboss.xyz:80/Oscar/9562340178/761334
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: EUROSPORT 1
 http://likea8bitboss.xyz:80/Oscar/9562340178/761335
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT ESPN
-http://likea8bitboss.xyz:80/Oscar/9562340178/761336
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: EUROSPORT 2
+http://likea8bitboss.xyz:80/Oscar/9562340178/761334
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT 3
-http://likea8bitboss.xyz:80/Oscar/9562340178/761337
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT 1
+http://likea8bitboss.xyz:80/Oscar/9562340178/761339
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/761338
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT 1
-http://likea8bitboss.xyz:80/Oscar/9562340178/761339
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT 3
+http://likea8bitboss.xyz:80/Oscar/9562340178/761337
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: BT SPORT ESPN
+http://likea8bitboss.xyz:80/Oscar/9562340178/761336
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/761332
@@ -126,22 +97,6 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY SPORTS NEWS
 http://likea8bitboss.xyz:80/Oscar/9562340178/761350
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY SPORTS GOLF
-http://likea8bitboss.xyz:80/Oscar/9562340178/761347
-
-http://likea8bitboss.xyz:80/Oscar/9562340178/743844
-#EXTINF:-1 tvg-id="45TV MINNEAPOLIS MN KSTC" tvg-name="SPORTS: FOX DEPORTES" tvg-logo="https://p.kindpng.com/picc/s/349-3495935_fox-deportes-png-logo-fox-deportes-logo-png.png" group-title="SPORTS",SPORTS: FOX DEPORTES
-http://likea8bitboss.xyz:80/Oscar/9562340178/743845
-
-#EXTINF:-1 tvg-id="US: FOX SOCCER PLUS" tvg-name="SPORTS: FOX SOCCER PLUS" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="SPORTS",SPORTS: FOX SOCCER PLUS
-http://likea8bitboss.xyz:80/Oscar/9562340178/743846
-
-#EXTINF:-1 tvg-id="US: FS1" tvg-name="SPORTS: FOX SPORTS 1" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_1.png" group-title="SPORTS",SPORTS: FOX SPORTS 1
-http://likea8bitboss.xyz:80/Oscar/9562340178/743847
-
-#EXTINF:-1 tvg-id="US: FS2" tvg-name="SPORTS: FOX SPORTS 2" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_2.png" group-title="SPORTS",SPORTS: FOX SPORTS 2
-http://likea8bitboss.xyz:80/Oscar/9562340178/743848
 
 #EXTINF:-1 tvg-id="CA: TSN 1" tvg-name="SPORTS: TSN 1" tvg-logo="http://puddintap.click/ico/IPTVLogo/tsn1.png" group-title="SPORTS",SPORTS: TSN 1
 http://likea8bitboss.xyz:80/Oscar/9562340178/743913
@@ -195,61 +150,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/779801
 http://likea8bitboss.xyz:80/Oscar/9562340178/779802
 
 
-#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="Sport TV+ (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/35
 
-#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="Sport TV 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/49
-
-#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="Sport TV 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/50
-
-#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="Sport TV 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/51
-
-#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="Sport TV 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/14143
-
-#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="Sport TV 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/283
-
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="Sport TV 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/73259
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="Eleven Sports 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/54
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="Eleven Sports 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/57
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="Eleven Sports 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/60
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="Eleven Sports 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/61
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="Eleven Sports 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/62
-
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="Eleven Sports 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
-http://rafadnsvip.live:8080/Marco@Pereira/aPnrjAzNqJ5V/63
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",TSN 1
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142475
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png",TSN 2
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142476
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png",TSN 3
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142477
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png",TSN 4
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\142478
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png",TSN 5
-http:\\hardcoremedia.xyz:80\fadkjokz\4950078150\2233
-
-#EXTINF:-1 group-title="NO",
 
 #EXTINF:-1,Now Sport Premier League 1
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
@@ -257,14 +158,10 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&ex
 #EXTINF:-1,Now Sports Prime
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630222&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NPO 1 4K UHD
-http://main.light-ott.net:80/NY74GTR/RuJTxm6227/816205
 
-#EXTINF:-1,FS 1
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874205&extension=ts&play_token=vxMY7LZM1P
 
-#EXTINF:-1,TUDN 
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874197&extension=ts&play_token=ocn8cwRzzZ
+
+
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9j2KY9ukMJQiovpAyWCVFm4NBxnJoQ9AKQ&usqp=CAU",Peacock  
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/15344
@@ -304,8 +201,7 @@ http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874206&extensi
 #EXTINF:-1,fs1 60 fps
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874205&extension=ts&play_token=vxMY7LZM1P
 
-#EXTINF:-1,TUDN 60 fps
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874197&extension=ts&play_token=ocn8cwRzzZ
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Supersports 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -322,6 +218,10 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersports 4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK (1)" tvg-logo="" group-title="NFL",USA: NFL NETWORK
 http://panelguys.top:8080/95549031/69361122/159091
@@ -346,45 +246,5 @@ http://panelguys.top:8080/95549031/69361122/53649
 
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
 http://panelguys.top:8080/95549031/69361122/53650
-
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
-http://panelguys.top:8080/95549031/69361122/35256
-
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 1
-http://panelguys.top:8080/95549031/69361122/57292
-
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="CANADA",CA TSN 2 HD 
-http://panelguys.top:8080/95549031/69361122/47442
-
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 3 HD 
-http://panelguys.top:8080/95549031/69361122/10389
-
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 4 HD 
-http:\\panelguys.top:8080\95549031\69361122\66783
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 5 HD 
-http:\\panelguys.top:8080\95549031\69361122\57467
-
-#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV 
-http:\\panelguys.top:8080\95549031\69361122\47237
-
-#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV Totonto
-http:\\panelguys.top:8080\95549031\69361122\47296
-
-#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA CTV 2 London HD " tvg-logo="" group-title="CANADA",CA CTV 2 London HD 
-http://panelguys.top:8080/95549031/69361122/58546
-
-
-
-
-
-
-
-
-
-
-
-
 
 
