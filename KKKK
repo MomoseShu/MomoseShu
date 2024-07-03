@@ -87,6 +87,59 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK (1)" tvg-logo="" group-title="NFL",USA: NFL NETWORK
+http://panelguys.top:8080/95549031/69361122/159091
+
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png" group-title="Sports Fanatic's ",US Tennis Channel
+http://panelguys.top:8080/95549031/69361122/20184
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel " tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="Sports Fanatic's ",US Golf Channel 
+http://panelguys.top:8080/95549031/69361122/9806
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US FOX Sports 1 " tvg-logo="" group-title="USA ",US FOX Sports 1 
+http://panelguys.top:8080/95549031/69361122/46792
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="Sports Fanatic's ",US Fox Sports 2
+http://panelguys.top:8080/95549031/69361122/1847
+
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="US Bally Sports Sun " tvg-logo="" group-title="Sports Fanatic's ",US Bally Sports Sun 
+http://panelguys.top:8080/95549031/69361122/104917
+
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One
+http://panelguys.top:8080/95549031/69361122/53649
+
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+http://panelguys.top:8080/95549031/69361122/53650
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://panelguys.top:8080/95549031/69361122/35256
+
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 1
+http://panelguys.top:8080/95549031/69361122/57292
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="CANADA",CA TSN 2 HD 
+http://panelguys.top:8080/95549031/69361122/47442
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 3 HD 
+http://panelguys.top:8080/95549031/69361122/10389
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 4 HD 
+http:\\panelguys.top:8080\95549031\69361122\66783
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports Fanatic's ",CA TSN 5 HD 
+http:\\panelguys.top:8080\95549031\69361122\57467
+
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV 
+http:\\panelguys.top:8080\95549031\69361122\47237
+
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" tvg-logo="" group-title="CANADA",CA CTV Totonto
+http:\\panelguys.top:8080\95549031\69361122\47296
+
+#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA CTV 2 London HD " tvg-logo="" group-title="CANADA",CA CTV 2 London HD 
+http://panelguys.top:8080/95549031/69361122/58546
+
+
 
 
 
