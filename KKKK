@@ -1,8 +1,27 @@
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Supersports 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", Astro Supersports 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", Astro Supersports 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersports 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="US: ESPN" tvg-name="ESPN: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="ESPN",ESPN: ESPN
 http://likea8bitboss.xyz:80/Oscar/9562340178/5930
 
 #EXTINF:-1 tvg-id="US: ESPN2" tvg-name="ESPN: ESPN 2" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-1024x576.png" group-title="ESPN",ESPN: ESPN 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/5931
+
+#EXTINF:-1 tvg-id="MX: ESPN 3" tvg-name="ESPN: ESPN 3" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn3.png" group-title="ESPN",ESPN: ESPN 3
+http://likea8bitboss.xyz:80/Oscar/9562340178/742621
 
 #EXTINF:-1 tvg-id="US: ESPNU" tvg-name="ESPN: ESPN U" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn_U.png" group-title="ESPN",ESPN: ESPN U
 http://likea8bitboss.xyz:80/Oscar/9562340178/5934
@@ -12,9 +31,6 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/5935
 
 #EXTINF:-1 tvg-id="US: ESPNEWS" tvg-name="ESPN: ESPN NEWS" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn_news.png" group-title="ESPN",ESPN: ESPN NEWS
 http://likea8bitboss.xyz:80/Oscar/9562340178/5937
-
-#EXTINF:-1 tvg-id="MX: ESPN 3" tvg-name="ESPN: ESPN 3" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn3.png" group-title="ESPN",ESPN: ESPN 3
-http://likea8bitboss.xyz:80/Oscar/9562340178/742621
 
 #EXTINF:-1 tvg-id="US: ESPN SEC NETWORK" tvg-name="ESPN: SEC NETWORK" tvg-logo="http://puddintap.click/ico/IPTVLogo/sec_network.png" group-title="ESPN",ESPN: SEC NETWORK
 http://likea8bitboss.xyz:80/Oscar/9562340178/743074
@@ -201,28 +217,6 @@ http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874206&extensi
 #EXTINF:-1,fs1 60 fps
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874205&extension=ts&play_token=vxMY7LZM1P
 
-
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", Astro Supersports 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", Astro Supersports 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", Astro Supersports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersports 4
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK (1)" tvg-logo="" group-title="NFL",USA: NFL NETWORK
 http://panelguys.top:8080/95549031/69361122/159091
 
@@ -246,5 +240,3 @@ http://panelguys.top:8080/95549031/69361122/53649
 
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
 http://panelguys.top:8080/95549031/69361122/53650
-
-
