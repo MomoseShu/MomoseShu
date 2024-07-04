@@ -1,20 +1,20 @@
-#EXTINF:-1,1
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874204&extension=ts&play_token=LryJQBwnfO
-#EXTINF:-1,2
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874206&extension=ts&play_token=QMAm5fkTfm
-#EXTINF:-1,3
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874205&extension=ts&play_token=vxMY7LZM1P
-#EXTINF:-1,4
-http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874203&extension=ts&play_token=ug86N6tklG
 #EXTINF:-1,5
+http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874204&extension=ts&play_token=LryJQBwnfO
+#EXTINF:-1,Premiersports1 25
+http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874206&extension=ts&play_token=QMAm5fkTfm
+#EXTINF:-1,FS1
+http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874205&extension=ts&play_token=vxMY7LZM1P
+#EXTINF:-1,sout
+http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874203&extension=ts&play_token=ug86N6tklG
+#EXTINF:-1,tsn1
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874202&extension=ts&play_token=lX7u9KWRhe
-#EXTINF:-1,6
+#EXTINF:-1,ctv
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874201&extension=ts&play_token=bOtAb1VO1q
-#EXTINF:-1,7
+#EXTINF:-1,ctv2
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874200&extension=ts&play_token=J2WvLqwVge
-#EXTINF:-1,8
+#EXTINF:-1,rds2
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874199&extension=ts&play_token=V7mjMPt6Qs
-#EXTINF:-1,9
+#EXTINF:-1,premiersport 2 25
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874198&extension=ts&play_token=1zHT6qQ2q4
-#EXTINF:-1,10
+#EXTINF:-1,tudn
 http://familytv.top:80/play/live.php?mac=00:1A:79:41:7f:bd&stream=874197&extension=ts&play_token=ocn8cwRzzZ
