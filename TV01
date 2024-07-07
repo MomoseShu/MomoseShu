@@ -14,7 +14,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
 
-
+#EXTINF:-1 group-title="NO", 
 
 uk
 
@@ -66,7 +66,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761350
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK | ENTERTAINMENT",SKY SPORTS ACTION
 http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 
-
+#EXTINF:-1 group-title="NO", 
 
 
 
@@ -150,6 +150,8 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/743917
 #EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/30178
 
+#EXTINF:-1 group-title="NO", 
+
 
 
 PT
@@ -176,18 +178,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/780336
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport+TV.png" group-title="PORTUGAL",SPORT TV+
 http://likea8bitboss.xyz:80/Oscar/9562340178/780337
 
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT157:Eleven Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT157:Eleven Sports 1 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/49966
-
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT159:Eleven Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT159:Eleven Sports 2 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/49032
-
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT119:Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT119:Eleven Sports 3 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29371
-
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT120:Eleven Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT120:Eleven Sports 4 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29370
-
+#EXTINF:-1 group-title="NO", 
 
 DE
 
@@ -213,6 +204,8 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29062
 #EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221GOLDSTARTV.png" group-title="DE Ent",DE221:SPORT1+
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29061
 
+#EXTINF:-1 group-title="NO", 
+
 
 NL
 
@@ -222,74 +215,12 @@ http://542496181233877847.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877847.ts
 #EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="" group-title="SVIP SPORTS",NL: ESPN 2
 http://542496181233872542.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/872542.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-3-nl.png?raw=true" group-title="Netherlands",NL: ESPN 3 http://542496181233877848.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877848.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-3-nl.png?raw=true" group-title="Netherlands", NL: ESPN 3 http://542496181233877848.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877848.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-4-nl.png?raw=true" group-title="Netherlands",NL: ESPN 4 
 http://542496181233877849.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877849.ts
 
-
-
-
-
-
-
-PL
-
-
-#EXTINF:-1 tvg-id="canal.plus.sport.pl" tvg-name="PL010:CANAL+ SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL010CANAL+SPORTFHD.png" group-title="Poland",PL010:CANAL+ SPORT FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33522
-
-#EXTINF:-1 tvg-id="canal.plus.sport.2.pl" tvg-name="PL011:CANAL+ SPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL011CANAL+SPORT2FHD.png" group-title="Poland",PL011:CANAL+ SPORT 2 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33521
-
-#EXTINF:-1 tvg-id="canal.plus.sport.3.pl" tvg-name="PL012:CANAL+ SPORT 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL012CANAL+SPORT3FHD.png" group-title="Poland",PL012:CANAL+ SPORT 3 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33520
-
-#EXTINF:-1 tvg-id="canal.plus.sport.4.pl" tvg-name="PL013:CANAL+ SPORT 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL013CANAL+SPORT4FHD.png" group-title="Poland",PL013:CANAL+ SPORT 4 FHD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33519
-
-#EXTINF:-1 tvg-id="polsat.sport.premium.1.pl" tvg-name="PL044:Polsat Sport Premium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL044PolsatSportPremium1.png" group-title="Poland",PL044:Polsat Sport Premium 1 HD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33488
-
-#EXTINF:-1 tvg-id="polsat.sport.premium.2.pl" tvg-name="PL045:Polsat Sport Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL045PolsatSportPremium2.png" group-title="Poland",PL045:Polsat Sport Premium 2 HD
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33487
-
-#EXTINF:-1 tvg-id="polsat.sport.premium.3.pl" tvg-name="PL046:Polsat Sport Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL046PolsatSportPremium3.png" group-title="Poland",PL046:Polsat Sport Premium 3
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/33486
-
-
-
-GR
-
-
-
-#EXTINF:-1 tvg-id="disney.gr" tvg-name="GR014:COSMOTE SPORT 1" tvg-logo="" group-title="Greece",GR014:COSMOTE SPORT 1
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31223
-
-#EXTINF:-1 tvg-id="novaSports.1.gr" tvg-name="GR015:COSMOTE SPORT 2" tvg-logo="" group-title="Greece",GR015:COSMOTE SPORT 2
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31222
-
-#EXTINF:-1 tvg-id="novaSports.2.gr" tvg-name="GR016:COSMOTE SPORT 3" tvg-logo="" group-title="Greece",GR016:COSMOTE SPORT 3
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31221
-
-#EXTINF:-1 tvg-id="novasports3.gr" tvg-name="GR017:COSMOTE SPORT 4" tvg-logo="" group-title="Greece",GR017:COSMOTE SPORT 4
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31220
-
-#EXTINF:-1 tvg-id="novasports4.gr" tvg-name="GR018:COSMOTE SPORT 5" tvg-logo="" group-title="Greece",GR018:COSMOTE SPORT 5
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31219
-
-#EXTINF:-1 tvg-id="novasports1.gr" tvg-name="GR077:NOVA SPORT 1" tvg-logo="" group-title="Greece",GR077:NOVA SPORT 1
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31160
-
-#EXTINF:-1 tvg-id="" tvg-name="GR078:NOVA SPORT 2" tvg-logo="" group-title="Greece",GR078:NOVA SPORT 2
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31159
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="GR079:NOVA SPORT 3" tvg-logo="" group-title="Greece",GR079:NOVA SPORT 3
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31158
-
-#EXTINF:-1 tvg-id="" tvg-name="GR080:NOVA SPORT 4" tvg-logo="" group-title="Greece",GR080:NOVA SPORT 4
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/31157
-
+#EXTINF:-1 group-title="NO", 
 
 NO
 
@@ -302,6 +233,7 @@ http://542496181233870685.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/870685.ts
 #EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 3 HD" tvg-logo="" group-title="SVIP SPORTS",NO: V SPORT 3 HD
 http://542496181233876133.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/876133.ts
 
+#EXTINF:-1 group-title="NO", 
 
 
 Club
@@ -315,7 +247,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761331
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxAMtI.png" group-title="CLUB",REAL MADRID
 https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 
-
+#EXTINF:-1 group-title="NO", 
 
 
 HK
@@ -347,6 +279,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 8" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 8
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69861
 
+#EXTINF:-1 group-title="NO", 
 
 
 Peacock
@@ -385,6 +318,8 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/779801
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK 11:" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lcjipqaLNRF5s2EkIPFxowHaEK&pid=Api&P=0&h=180" group-title="Peacock",PEACOCK 11:
 http://likea8bitboss.xyz:80/Oscar/9562340178/779802
 
+#EXTINF:-1 group-title="NO", 
+
 DE
 
 #EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sports",DE024:DAZN 1
@@ -392,7 +327,6 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
 
 #EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports",DE025:DAZN 2
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
-
 
 #EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
@@ -412,6 +346,7 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29082
 #EXTINF:-1 tvg-id="" tvg-name="DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="DE Sports",DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29081
 
+#EXTINF:-1 group-title="NO", 
 
 #EXTINF:-1 tvg-id="magenta.sport.de" tvg-name="DE062:MAGENTA SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="DE Sports",DE062:MAGENTA SPORT 1
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2621
@@ -443,6 +378,8 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2613
 #EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Sports",DE071:MAGENTA SPORT 10
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
 
+#EXTINF:-1 group-title="NO", 
+
 
 FR
 
@@ -461,7 +398,7 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2842
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FR025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="FR Sports",FR025:AMAZON PRIME 7 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2841
 
-
+#EXTINF:-1 group-title="NO", 
 
 
 
