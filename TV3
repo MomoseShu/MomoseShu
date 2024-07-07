@@ -16,52 +16,25 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8
 
 
 
-HK
-
-#EXTINF:-1,Now Sports Prime
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630222&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Now Sport Premier League 1
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 2
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69855
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 3" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 3
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69856
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 4" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 4
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 5" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 5
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69858
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 6" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 6
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 7" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 7
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
-
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 8" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 8
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69861
-
-
-
-
 uk
 
 #EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",BBC One
-http://panelguys.top:8080/95549031/69361122/53649
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761231
 
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",BBC TWO HD
-http://panelguys.top:8080/95549031/69361122/53650
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761234
 
 #EXTINF:-1 tvg-id="" tvg-name="itv 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/935fdda054ce9ef41b51d60808644826.svg" group-title="UK ➾ LifeStyle",itv 1
-http://iptvmedia.live:8080/F20019/b203ac33/296931
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761261
 
 #EXTINF:-1 tvg-id="" tvg-name="itv 2 [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ LifeStyle",itv 2 
-http://iptvmedia.live:8080/F20019/b203ac33/303904
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761262
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV 3
+http://likea8bitboss.xyz:80/Oscar/9562340178/761263
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: ITV 4
+http://likea8bitboss.xyz:80/Oscar/9562340178/761264
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="" group-title="UK | ENTERTAINMENT",EUROSPORT 1 UK
 http://likea8bitboss.xyz:80/Oscar/9562340178/761335
@@ -70,7 +43,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761335
 http://likea8bitboss.xyz:80/Oscar/9562340178/761334
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="" group-title="UK | ENTERTAINMENT", PREMIER SPORTS 1 
-
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761329
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="" group-title="UK | ENTERTAINMENT", PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/761332
@@ -97,9 +70,10 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 
 
 
-
 USA
 
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="US079:USA Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" group-title="USA General",US079:USA Network HD
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\404
 
 #EXTINF:-1 tvg-id="US: FS1" tvg-name="SPORTS: FOX SPORTS 1" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_1.png" group-title="SPORTS",FOX SPORTS 1
 http://likea8bitboss.xyz:80/Oscar/9562340178/743847
@@ -137,6 +111,9 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/743074
 #EXTINF:-1 tvg-id="US: CBS SPORTS NETWORK" tvg-name="SPORTS: CBS SPORTS NETWORK" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/02/cbs_sports_network.png" group-title="SPORTS",CBS SPORTS NETWORK
 http://likea8bitboss.xyz:80/Oscar/9562340178/316982
 
+#EXTINF:-1 tvg-id="EL: GOLTV" tvg-name="SPORTS: GOLTV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/10/GOLTV-696x392.png" group-title="SPORTS",SPORTS: GOLTV
+http://likea8bitboss.xyz:80/Oscar/9562340178/743852
+
 #EXTINF:-1 tvg-id="SP: NFL NETWORK" tvg-name="USA: NFL NETWORK" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="NFL",NFL NETWORK
 http://likea8bitboss.xyz:80/Oscar/9562340178/737314
 
@@ -170,6 +147,8 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/743916
 #EXTINF:-1 tvg-id="CA: TSN 5" tvg-name="SPORTS: TSN 5" tvg-logo="http://puddintap.click/ico/IPTVLogo/tsn5.png" group-title="SPORTS",TSN 5
 http://likea8bitboss.xyz:80/Oscar/9562340178/743917
 
+#EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/30178
 
 
 
@@ -325,41 +304,48 @@ http://542496181233876133.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/876133.ts
 
 
 
-
 Club
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: MUTV
-http://likea8bitboss.xyz:80/Oscar/9562340178/761328
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE" group-title="CLUB",UK: MUTV
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761328
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV" tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="CLUB",UK: LFC TV
+http://likea8bitboss.xyz:80/Oscar/9562340178/761331
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxAMtI.png",REAL MADRID
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxAMtI.png" group-title="CLUB",REAL MADRID
 https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 
 
 
 
+HK
 
+#EXTINF:-1,Now Sports Prime
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630222&extension=ts&play_token=wlsL7RB290
 
+#EXTINF:-1,Now Sport Premier League 1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630215&extension=ts&play_token=wlsL7RB290
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 2" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69855
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 3" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69856
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 4" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 5" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69858
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 6" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 7" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 8" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="NOW SPORT",Now Premier Sports 8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69861
 
 
 
@@ -407,6 +393,26 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
 #EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports",DE025:DAZN 2
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
 
+
+#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
+
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE197NTVHD.png" group-title="DE Sports",DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29085
+
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE198OKDESSAUHD.png" group-title="DE Sports",DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29084
+
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE199" group-title="DE Sports",DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29083
+
+#EXTINF:-1 tvg-id="" tvg-name="DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE200OKMERSEBURGHD.png" group-title="DE Sports",DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29082
+
+#EXTINF:-1 tvg-id="" tvg-name="DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="DE Sports",DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29081
+
+
 #EXTINF:-1 tvg-id="magenta.sport.de" tvg-name="DE062:MAGENTA SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="DE Sports",DE062:MAGENTA SPORT 1
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2621
 
@@ -437,23 +443,26 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2613
 #EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Sports",DE071:MAGENTA SPORT 10
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
 
-#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
+#EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE197NTVHD.png" group-title="DE Sports",DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29085
+FR
 
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.2.de" tvg-name="DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE198OKDESSAUHD.png" group-title="DE Sports",DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29084
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:AMAZON PRIME 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="FR Sports",FR019:AMAZON PRIME 1 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2847
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:AMAZON PRIME 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="FR Sports",FR020:AMAZON PRIME 2 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="FR Sports",FR021:AMAZON PRIME 3 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2845
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="FR Sports",FR022:AMAZON PRIME 4 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2844
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="FR Sports",FR023:AMAZON PRIME 5 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2843
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR024:AMAZON PRIME 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="FR Sports",FR024:AMAZON PRIME 6 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2842
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="FR Sports",FR025:AMAZON PRIME 7 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2841
 
-#EXTINF:-1 tvg-id="sky.sport.bundesliga.3.de" tvg-name="DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE199" group-title="DE Sports",DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29083
-
-#EXTINF:-1 tvg-id="" tvg-name="DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE200OKMERSEBURGHD.png" group-title="DE Sports",DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29082
-
-#EXTINF:-1 tvg-id="" tvg-name="DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="DE Sports",DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29081
+#EXTINF:-1 group-title="NO",
 
 
 
