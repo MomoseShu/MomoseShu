@@ -674,6 +674,37 @@ http://yesimes.oknirvana.club:8880/6mmk050047/21615945/61085
 http://yesimes.oknirvana.club:8880/6mmk050047/21615945/61086
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 1 HD⁺ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-nl.png?raw=true" group-title="Netherlands",NL: ESPN 1
+http://542496181233877847.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877847.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="" group-title="SVIP SPORTS",NL: ESPN 2
+http://542496181233872542.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/872542.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-3-nl.png?raw=true" group-title="Netherlands",NL: ESPN 3 http://542496181233877848.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877848.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-4-nl.png?raw=true" group-title="Netherlands",NL: ESPN 4 
+http://542496181233877849.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877849.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT+ HD" tvg-logo="" group-title="SVIP SPORTS",NO: V SPORT+ HD
+http://542496181233875317.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/875317.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 1 FHD" tvg-logo="" group-title="Norway",NO: V SPORT 1 FHD
+http://542496181233855949.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/855949.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 2 HD" tvg-logo="" group-title="Norway",NO: V SPORT 2 HD
+http://542496181233870685.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/870685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 3 HD" tvg-logo="" group-title="SVIP SPORTS",NO: V SPORT 3 HD
+http://542496181233876133.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/876133.ts
+
+
+
+#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="SE: C MORE FOTBOLL HD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypeJDph0rQYJAws2Wq5GCkavwy1fLMssvMI05ooCsAO-A.png" group-title="Sweden",SE: C MORE FOTBOLL HD
+http://542496181233828316.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/828316.ts
+
+
 
 
 
