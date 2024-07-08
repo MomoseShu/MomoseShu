@@ -66,6 +66,9 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761350
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK | ENTERTAINMENT",SKY SPORTS ACTION
 http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK | ENTERTAINMENT",SKY SPORTS GOLF
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761347
+
 #EXTINF:-1 group-title="NO", 
 
 
@@ -203,35 +206,6 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29062
 
 #EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221GOLDSTARTV.png" group-title="DE Ent",DE221:SPORT1+
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29061
-
-#EXTINF:-1 group-title="NO", 
-
-
-NL
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 1 HD⁺ HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-nl.png?raw=true" group-title="Netherlands",NL: ESPN 1
-http://542496181233877847.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877847.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="" group-title="SVIP SPORTS",NL: ESPN 2
-http://542496181233872542.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/872542.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-3-nl.png?raw=true" group-title="Netherlands", NL: ESPN 3 http://542496181233877848.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877848.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/espn-4-nl.png?raw=true" group-title="Netherlands",NL: ESPN 4 
-http://542496181233877849.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/877849.ts
-
-#EXTINF:-1 group-title="NO", 
-
-NO
-
-#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 1 FHD" tvg-logo="" group-title="Norway",NO: V SPORT 1 FHD
-http://542496181233855949.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/855949.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 2 HD" tvg-logo="" group-title="Norway",NO: V SPORT 2 HD
-http://542496181233870685.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/870685.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NO: V SPORT 3 HD" tvg-logo="" group-title="SVIP SPORTS",NO: V SPORT 3 HD
-http://542496181233876133.ofd0628.xyz:80/live/vi1213409/@6rbVw7Trejs/876133.ts
 
 #EXTINF:-1 group-title="NO", 
 
@@ -377,26 +351,6 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2613
 
 #EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:MAGENTA SPORT 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Sports",DE071:MAGENTA SPORT 10
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
-
-#EXTINF:-1 group-title="NO", 
-
-
-FR
-
-#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:AMAZON PRIME 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="FR Sports",FR019:AMAZON PRIME 1 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2847
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:AMAZON PRIME 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="FR Sports",FR020:AMAZON PRIME 2 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2846
-#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="FR Sports",FR021:AMAZON PRIME 3 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2845
-#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="FR Sports",FR022:AMAZON PRIME 4 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2844
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="FR Sports",FR023:AMAZON PRIME 5 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2843
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR024:AMAZON PRIME 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="FR Sports",FR024:AMAZON PRIME 6 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2842
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="FR Sports",FR025:AMAZON PRIME 7 (MATCH TIME)
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2841
 
 #EXTINF:-1 group-title="NO", 
 
