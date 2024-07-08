@@ -221,6 +221,19 @@ https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png", Cinemax
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="UK",SKY CINEMA HITS
+http://likea8bitboss.xyz:80/Oscar/9562340178/761295
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie",SKY CINEMA PREMIERE
+http://likea8bitboss.xyz:80/Oscar/9562340178/761296
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie",SYFY
+http://likea8bitboss.xyz:80/Oscar/9562340178/761310
+
+#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie",IN150:SONY PAL
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
+
+
 
 *************************************************
 
@@ -340,22 +353,10 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png", Qmusic 
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAjJnzUQvyE7SHjnx-RQrDtHsA07pnsa89g&usqp=CAU",JP Music On TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="NO", 
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png",MTV LIVE
-https://6oclock.xyz:8443/Tyrone43147/My3boys/28270
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://img5.pic.in.th/file/secure-sv1/bitmap.png",V2 BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png" group-title="USA ➾ Music",MTV Live
 http://iptvmedia.live:8080/F20019/b203ac33/9047
@@ -365,15 +366,6 @@ http://iptvmedia.live:8080/F20019/b203ac33/57018
 
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA ➾ Music",Vevo Pop
 http://iptvmedia.live:8080/F20019/b203ac33/304717
-
-#EXTINF:-1 tvg-id="" tvg-name="NickMusic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e457f2d013cddfe5d2a4952cc6f444ea.png" group-title="USA ➾ Kids",NickMusic
-http://iptvmedia.live:8080/F20019/b203ac33/12982
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Music",MTV Classic
-http://iptvmedia.live:8080/F20019/b203ac33/300914
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Club" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Music",MTV Club
-http://iptvmedia.live:8080/F20019/b203ac33/300936
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Music",MTV Hits
 http://iptvmedia.live:8080/F20019/b203ac33/302302
@@ -398,8 +390,8 @@ https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport3/playlist.m
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport4/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/th-sport/truesport1/chunks.m3u8?nimblesessionid=195775335
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
@@ -410,7 +402,8 @@ https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8
 https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", TrueSports 4
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+https://cdn1.aws-live-streaming.com/ais/tsp4/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 5
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
@@ -429,8 +422,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
 https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/th-sport/bein3/chunks.m3u8?nimblesessionid=195779318
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
 #EXTVLCOPT:http-referrer=https://livescorethai.net
@@ -441,12 +434,11 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+https://cdn1.aws-live-streaming.com/ais/bein1/playlist.m3u8
 
 #EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761330
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
