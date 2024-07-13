@@ -1,26 +1,30 @@
 
-#EXTINF:-1,ABC7
+
+
+NEWS
+
+#EXTINF:-1 tvg-logo="" group-title="News",ABC7
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,ABC News Live
+#EXTINF:-1 tvg-logo="" group-title="News",ABC News Live
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630795&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NewsMax
+#EXTINF:-1 tvg-logo="" group-title="News",NewsMax
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630828&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,CBS News 24/7
+#EXTINF:-1 tvg-logo="" group-title="News",CBS News 24/7
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630860&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,The Whether Channel
+#EXTINF:-1 tvg-logo="" group-title="News",The Whether Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631103&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,News Channel
+#EXTINF:-1 tvg-logo="" group-title="News",News Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631107&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,News Live
+#EXTINF:-1 tvg-logo="" group-title="News",News Live
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631115&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,CNN 
+#EXTINF:-1 tvg-logo="" group-title="News",CNN 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
 
 
@@ -30,25 +34,25 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&ex
 Kids
 
 
-#EXTINF:-1,Discovery Family
+#EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Family
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Disney JR.
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR.
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,nickelodeon
+#EXTINF:-1 tvg-logo="" group-title="Kids",nickelodeon
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631133&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631152&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Disney JR
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631154&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NickToons
+#EXTINF:-1 tvg-logo="" group-title="Kids",NickToons
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
 
 
@@ -59,19 +63,19 @@ Entertainment
 
 
 
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TLC
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631276&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TNT
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631277&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,E 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",E 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630903&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Food Network
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Food Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630918&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,FXX
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FXX
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&extension=ts&play_token=wlsL7RB290
 
 
@@ -80,16 +84,25 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&ex
 Movie
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="UK",SKY CINEMA HITS
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="Movie", SKY CINEMA HITS
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761295
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ACTION" tvg-logo="" group-title="Movie",UK: SKY CINEMA ACTION
+http://likea8bitboss.xyz:80/Oscar/9562340178/761290
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie",SKY CINEMA PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie", SKY CINEMA PREMIERE
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761296
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA FAMILY" tvg-logo="" group-title="Movie", SKY CINEMA FAMILY
+http://likea8bitboss.xyz:80/Oscar/9562340178/761293
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie",SYFY
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SELECT" tvg-logo="" group-title="Movie", SKY CINEMA SELECT
+http://likea8bitboss.xyz:80/Oscar/9562340178/761298
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie", SYFY
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\388
 
-#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie",IN150:SONY PAL
+#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie", SONY PAL
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
 
 
@@ -98,16 +111,17 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
 
 Music
 
-#EXTINF:-1,XITE NL
+
+#EXTINF:-1 tvg-logo="" group-title="Music", XITE NL
 http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1571
 
-#EXTINF:-1,MTV LIVE NL
+#EXTINF:-1 tvg-logo="" group-title="Music", MTV LIVE NL
 http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1570
 
-#EXTINF:-1,BETO Jams
+#EXTINF:-1 tvg-logo="" group-title="Music", BETO Jams
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630850&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,BETO SOUL
+#EXTINF:-1 tvg-logo="" group-title="Music", BETO SOUL
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630851&extension=ts&play_token=wlsL7RB290
 
 
