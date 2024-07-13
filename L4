@@ -1,5 +1,169 @@
 
-#EXTINF:-1, Sprtsnet
+
+
+NEWS
+
+#EXTINF:-1,ABC7
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,ABC News Live
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630795&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NewsMax
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630828&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,CBS News 24/7
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630860&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,The Whether Channel
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631103&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,News Channel
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631107&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,News Live
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631115&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,CNN 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
+
+
+
+
+
+Kids
+
+
+#EXTINF:-1,Discovery Family
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Disney JR.
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,nickelodeon
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Cartoon Network
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631133&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Disney Channel
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631152&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Disney JR
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631154&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NickToons
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
+
+
+
+
+
+Entertainment
+
+
+
+#EXTINF:-1,TLC
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631276&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,TNT
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631277&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,E 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630903&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,Food Network
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630918&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FXX
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&extension=ts&play_token=wlsL7RB290
+
+
+
+
+Movie
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="UK",SKY CINEMA HITS
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie",SKY CINEMA PREMIERE
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie",SYFY
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie",IN150:SONY PAL
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
+
+
+
+
+
+Music
+
+#EXTINF:-1,XITE NL
+http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1571
+
+#EXTINF:-1,MTV LIVE NL
+http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1570
+
+#EXTINF:-1,BETO Jams
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630850&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,BETO SOUL
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630851&extension=ts&play_token=wlsL7RB290
+
+
+
+
+
+
+Discovery
+
+
+#EXTINF:-1,SCI
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631151&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
+https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
+
+#EXTINF:-1,NASA TV
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631004&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NAT GEO WILD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631006&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NAT GEO
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&extension=ts&play_token=wlsL7RB290
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USA Sport
+
+
+#EXTINF:-1,CBS Sports Network
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631135&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1, Sprotsnet
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630602&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1,nbc sprot boston
@@ -20,44 +184,8 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630624&ex
 #EXTINF:-1,Fight Box
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630788&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,ABC
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,ABC News Live
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630795&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,NewsMax
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630828&extension=ts&play_token=wlsL7RB290
-
 #EXTINF:-1,ACCN
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630832&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,CBS News 24/7
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630860&extension=ts&play_token=wlsL7RB290
-
-
-#EXTINF:-1,COMET
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630878&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,79
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630879&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Discovery Family
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Disney JR.
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
-
-
-#EXTINF:-1,E 
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630903&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Food Network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630918&extension=ts&play_token=wlsL7RB290
-
-
-#EXTINF:-1,FXX
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1,NBC Golf 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630935&extension=ts&play_token=wlsL7RB290
@@ -65,77 +193,14 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630935&ex
 #EXTINF:-1,GOL TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630936&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,GameShpw
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630939&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Mystery
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630945&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,INFO WARS
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630961&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,ION
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630964&extension=ts&play_token=wlsL7RB290
-
-
-
-
-#EXTINF:-1,NESN MLB
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631009&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Red Zone
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631013&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Teen Nick
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&extension=ts&play_token=wlsL7RB290
-
 #EXTINF:-1,SEC Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631039&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1,Tennis Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631083&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,VH1
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631100&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,The Whether Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631103&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,News Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631107&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,News Live
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631115&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Cartoon Network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631133&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,CBS Sports Network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631135&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,CNN 
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,SCI
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631151&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Disney Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631152&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,Disney JR
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631154&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,NickToons
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
-
 #EXTINF:-1,Red Bull
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631245&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,TLC
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631276&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,TNT
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631277&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1,Yes Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631292&extension=ts&play_token=wlsL7RB290
@@ -143,8 +208,8 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631292&ex
 
 
 
-DE
 
+DE
 
 #EXTINF:-1,DE:SPORT DIGITAL FUSSBALL UHD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/88761
@@ -161,37 +226,8 @@ http://germanydns1.de:8080/engindalarde/dvvpaiu99/88764
 
 
 
-#EXTINF:-1,FR:AMAZON PRIME 1 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88296
-#EXTINF:-1,FR:AMAZON PRIME 2 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88297
-#EXTINF:-1,FR:AMAZON PRIME 3 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88298
-#EXTINF:-1,FR:AMAZON PRIME 4 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88299
-#EXTINF:-1,FR:AMAZON PRIME 5 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88300
-#EXTINF:-1,FR:AMAZON PRIME 6 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88301
-#EXTINF:-1,FR:AMAZON PRIME 7 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88302
-#EXTINF:-1,FR:AMAZON PRIME 8 HD (MATCH-TIME)
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88303
 
-#EXTINF:-1,FR:BEIN SPORTS 1 UHD
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88281
-
-#EXTINF:-1,FR:BEIN SPORTS 2 UHD
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88283
-
-#EXTINF:-1,FR:BEIN SPORTS 3 UHD
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88285
-
-
-
-
-
-
+PL
 
 #EXTINF:-1,PL:CANAL + SPORT UHD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/86043
@@ -204,96 +240,10 @@ http://germanydns1.de:8080/engindalarde/dvvpaiu99/86046
 
 
 
-UK
-
-#EXTINF:-1,BBC ONE
-http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100579
-
-#EXTINF:-1,BBC TWO
-http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100587
 
 
 
-#EXTINF:-1,TVR SPORT FHD
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/130114.ts
-
-
-
-
-#EXTINF:-1,PRIMA SPORT 1 FHD ⚽
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/22492.ts
-
-#EXTINF:-1,PRIMA SPORT 2 FHD 
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/22395.ts
-
-#EXTINF:-1,PRIMA SPORT  3 FHD 
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/3572.ts
-
-#EXTINF:-1,PRIMA SPORT 4  FHD 
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/3571.ts
-
-#EXTINF:-1,PRIMA SPORT 5 FHD 
-http://luctv.life:8080/live/MangalagiuRomaniaRo/vNAaAWnqQlOsQid7JDTRC3vZooh5xM/101168.ts
-
-
-
-#EXTINF:-1,SKY SPORT AUSTRIA 1 HD+ | AT
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20858
-
-#EXTINF:-1,SKY BUNDESLIGA 1 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2748
-#EXTINF:-1,SKY BUNDESLIGA 2 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2749
-#EXTINF:-1,SKY BUNDESLIGA 3 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2750
-#EXTINF:-1,SKY BUNDESLIGA 4 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2751
-#EXTINF:-1,SKY BUNDESLIGA 5 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2752
-#EXTINF:-1,SKY BUNDESLIGA 6 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2753
-#EXTINF:-1,SKY BUNDESLIGA 7 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2754
-#EXTINF:-1,SKY BUNDESLIGA 8 | DE
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2755
-
-
-
-
-
-#EXTINF:-1,NOVA SPORTS PRIME | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/31038
-#EXTINF:-1,NOVA SPORTS 1 | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20863
-#EXTINF:-1,NOVA SPORTS 2 | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20864
-#EXTINF:-1,NOVA SPORTS 3 | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20865
-#EXTINF:-1,NOVA SPORTS 4 | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20866
-#EXTINF:-1,NOVA SPORTS 5 | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20867
-#EXTINF:-1,COSMOTE SPORT 1 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20874
-#EXTINF:-1,COSMOTE SPORT 2 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20875
-#EXTINF:-1,COSMOTE SPORT 3 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20876
-#EXTINF:-1,COSMOTE SPORT 4 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20877
-#EXTINF:-1,COSMOTE SPORT 5 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20878
-#EXTINF:-1,COSMOTE SPORT 6 HD | GR
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20879
-
-
-
-
-#EXTINF:-1,Bein Sport 2 UK
-http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2777
-
-
-
+Norwey
 
 
 #EXTINF:-1,NO:V Sport+
@@ -308,41 +258,28 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/59014
 http://gugtv.net:2086/erenckmz1/08032024cs55/59013
 #EXTINF:-1,NO:V Ultra HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/59012
-#EXTINF:-1,NO:V Sport Premier League
-http://gugtv.net:2086/erenckmz1/08032024cs55/59011
-#EXTINF:-1,NO:V Sport Premier League 1
-http://gugtv.net:2086/erenckmz1/08032024cs55/59010
-#EXTINF:-1,NO:V Sport Premier League 2
-http://gugtv.net:2086/erenckmz1/08032024cs55/59009
-#EXTINF:-1,NO:V Sport Premier League 3
-http://gugtv.net:2086/erenckmz1/08032024cs55/59008
-#EXTINF:-1,NO:V Sport Premier League 4
-http://gugtv.net:2086/erenckmz1/08032024cs55/59007
-#EXTINF:-1,NO:V Sport Live 1
-http://gugtv.net:2086/erenckmz1/08032024cs55/59006
-#EXTINF:-1,NO:V Sport Live 2
-http://gugtv.net:2086/erenckmz1/08032024cs55/59005
-#EXTINF:-1,NO:V Sport Live 3
-http://gugtv.net:2086/erenckmz1/08032024cs55/59004
-#EXTINF:-1,NO:V Sport Live 4
-http://gugtv.net:2086/erenckmz1/08032024cs55/59003
-#EXTINF:-1,NO:V Sport Live 5
-http://gugtv.net:2086/erenckmz1/08032024cs55/59002
 
 
+
+Sweden
 
 #EXTINF:-1,SW: C More Fotboll HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/13608
 
 
+
+Denmark
+
 #EXTINF:-1,DK: 6`EREN
 http://gugtv.net:2086/erenckmz1/08032024cs55/10544
-
 
 #EXTINF:-1,DK: TV2 SPORT
 http://gugtv.net:2086/erenckmz1/08032024cs55/10554
 
 
+
+
+Holland
 
 #EXTINF:-1,NL: ESPN
 http://gugtv.net:2086/erenckmz1/08032024cs55/52643
@@ -352,6 +289,9 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/52642
 http://gugtv.net:2086/erenckmz1/08032024cs55/52641
 #EXTINF:-1,NL: ESPN 4
 http://gugtv.net:2086/erenckmz1/08032024cs55/52640
+
+
+
 
 
 #EXTINF:-1,RU: Match Futbol 1 HD
@@ -418,6 +358,14 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 http:\\likea8bitboss.xyz:80\Oscar\9562340178\761347
 
 #EXTINF:-1 group-title="NO", 
+
+
+
+
+
+
+
+
 
 
 
@@ -505,6 +453,9 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/30178
 
 
 
+
+
+
 NZ
 
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_news.png" group-title="Newzealand", SKY Sport SELECT NZ
@@ -538,6 +489,11 @@ http://hdtt3.online:3050/blowerjoseph444@gmail.com/p8qy2kvNnN/560114
 http://hdtt3.online:3050/blowerjoseph444@gmail.com/p8qy2kvNnN/560113
 
 
+
+
+
+
+
 PT
 
 
@@ -563,6 +519,11 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/780336
 http://likea8bitboss.xyz:80/Oscar/9562340178/780337
 
 #EXTINF:-1 group-title="NO", 
+
+
+
+
+
 
 DE
 
@@ -590,6 +551,22 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29061
 
 #EXTINF:-1 group-title="NO", 
 
+#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sports", DE DAZN 1
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
+
+#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports", DE DAZN 2
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
+
+#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports", DE SKY SPORT AUSTRIA 
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
+
+
+
+
+
+
+
+
 
 Club
 
@@ -613,19 +590,8 @@ http://torplanbien.online:2082/RubenPadel/8npVCMsZ3zJg/205230
 
 
 
-DE
 
-#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sports", DE DAZN 1
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
 
-#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports", DE DAZN 2
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
-
-#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports", DE SKY SPORT AUSTRIA 
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
-
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORT DIGITAL FUSSBALL HD" tvg-logo="http://stream.geoiptv.live/channels_icon/6143353842.png" group-title="DE Sports", DE SPORT DIGITAL FUSSBALL HD
-http://674486096624827329.ofd0628.xyz:80/play/ja614734/7qhU3NNCqpmW/827329.ts
 
 
 
@@ -747,78 +713,20 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
 
 
 
-Movie
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="UK",SKY CINEMA HITS
-http://likea8bitboss.xyz:80/Oscar/9562340178/761295
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie",SKY CINEMA PREMIERE
-http://likea8bitboss.xyz:80/Oscar/9562340178/761296
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie",SYFY
-http://likea8bitboss.xyz:80/Oscar/9562340178/761310
-
-#EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie",IN150:SONY PAL
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
 
 
 
 
-Music
-
-#EXTINF:-1,XITE NL
-http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1571
-
-#EXTINF:-1,MTV LIVE NL
-http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1570
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnAjJnzUQvyE7SHjnx-RQrDtHsA07pnsa89g&usqp=CAU",JP Music On TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="NO", 
-
-#EXTINF:-1,MTV LIVE
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630978&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,BETO Jams
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630850&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,BETO SOUL
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630851&extension=ts&play_token=wlsL7RB290
 
 
 
 
-Discovery
 
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://www.all-channels.com/images/clients/KUWQY2PC6N1T.png", Discovery ENG
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
-https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png", NAT GEO US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12724
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxw0g8XsX3Dx9GG5nnwcB7gSTXAO73KUz-g57cG7_CN8nIdyXS0WtnG8P&s=10", NAT GEO WILD US
-https://6oclock.xyz:8443/Tyrone43147/My3boys/12723
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="",NASA TV
-http:\\2hubs.ddns.net:25461\crAig1s\myG32Vd21@\58591
-
-#EXTINF:-1,NASA TV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631004&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,NAT GEO WILD
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631006&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,NAT GEO
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&extension=ts&play_token=wlsL7RB290
 
 
 
@@ -841,6 +749,16 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&ex
 
 
 Reserv
+
+
+#EXTINF:-1,BBC ONE
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100579
+
+#EXTINF:-1,BBC TWO
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100587
+
+
+
 
 #EXTINF:-1,espn
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630497&extension=ts&play_token=wlsL7RB290
