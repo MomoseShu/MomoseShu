@@ -1,4 +1,8 @@
 
+
+
+NEWS
+
 #EXTINF:-1 tvg-logo="" group-title="News",ABC7
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
 
@@ -29,9 +33,6 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&ex
 
 Kids
 
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Family
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR.
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
@@ -74,7 +75,8 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630918&ex
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FXX
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&extension=ts&play_token=wlsL7RB290
 
-
+#EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Family
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
 
 
 Movie
@@ -128,7 +130,7 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630851&ex
 Discovery
 
 
-#EXTINF:-1,SCI
+#EXTINF:-1 tvg-logo="" group-title="Discovery",SCI
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631151&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
@@ -137,14 +139,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
 https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
 
-#EXTINF:-1,NASA TV
+#EXTINF:-1 tvg-logo="" group-title="Discovery",NASA TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631004&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1 tvg-logo="" group-title="Discovery",NAT GEO WILD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631006&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NAT GEO
+#EXTINF:-1 tvg-logo="" group-title="Discovery",NAT GEO
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&extension=ts&play_token=wlsL7RB290
+
 
 
 
@@ -166,49 +169,49 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&ex
 USA Sport
 
 
-#EXTINF:-1,CBS Sports Network
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",CBS Sports Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631135&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1, Sprotsnet
+#EXTINF:-1 tvg-logo="" group-title="USA Sport", Sprotsnet
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630602&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,nbc sprot boston
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",nbc sprot boston
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630615&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NESN
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",NESN
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630621&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NFL Network
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",NFL Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630622&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NFL Red Zone
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",NFL Red Zone
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630623&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NHL Network
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",NHL Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630624&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Fight Box
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",Fight Box
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630788&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,ACCN
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",ACCN
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630832&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,NBC Golf 
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",NBC Golf 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630935&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,GOL TV
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",GOL TV
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630936&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,SEC Network
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",SEC Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631039&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Tennis Channel
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",Tennis Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631083&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Red Bull
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",Red Bull
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631245&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1,Yes Network
+#EXTINF:-1 tvg-logo="" group-title="USA Sport",Yes Network
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631292&extension=ts&play_token=wlsL7RB290
 
 
@@ -217,69 +220,105 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631292&ex
 
 DE
 
-#EXTINF:-1,DE:SPORT DIGITAL FUSSBALL UHD
+#EXTINF:-1 tvg-logo="" group-title="DE Sport", SPORT DIGITAL FUSSBALL UHD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/88761
 
-#EXTINF:-1,DE:Fußball 1 HD
+#EXTINF:-1 tvg-logo="" group-title="DE Sport", Fußball 1 HD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/98764
 
-#EXTINF:-1,DE:Fußball 2 HD
+#EXTINF:-1 tvg-logo="" group-title="DE Sport", Fußball 2 HD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/98765
 
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
+#EXTINF:-1 tvg-logo="" group-title="DE Sport", SKY BUNDESLIGA 1 HD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/88764
 
+#EXTINF:-1 tvg-id="" tvg-name="DE208:SKY SPORT GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE208POPCORNSELECT2FHD.png" group-title="DE Sport",DE SKY SPORT GOLF
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29074
+
+#EXTINF:-1 tvg-id="" tvg-name="DE209:SKY SPORT MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE209POPCORNSELECT3FHD.png" group-title="DE Sport",DE SKY SPORT MIX
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29073
+
+#EXTINF:-1 tvg-id="" tvg-name="DE211:SKY SPORT PREMIER LEAGUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE211POPCORNSELECT5HD.png" group-title="DE Sport",DE SKY SPORT PREMIER LEAGUE
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29071
+
+#EXTINF:-1 tvg-id="" tvg-name="DE212:SKY SPORT TENNIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE212POPCORNSELECT6HD.png" group-title="DE Sport",DE SKY SPORT TENNIS
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29070
+
+#EXTINF:-1 tvg-id="" tvg-name="DE213:SKY SPORT TOP EVENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE213POPCORNSELECT7HD.png" group-title="DE Sport",DE SKY SPORT TOP EVENT
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29069
+
+#EXTINF:-1 tvg-id="" tvg-name="DE220:SPORT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE220RFHHD.png" group-title="DE Sport", DE SPORT1
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29062
+
+#EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221GOLDSTARTV.png" group-title="DE Sport",DE SPORT1+
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29061
+
+#EXTINF:-1 group-title="NO", 
+
+#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sport", DE DAZN 1
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
+
+#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sport", DE DAZN 2
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
+
+#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sport", DE SKY SPORT AUSTRIA 
+http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
 
 
 
 
-PL
 
-#EXTINF:-1,PL:CANAL + SPORT UHD
+
+#EXTINF:-1 tvg-logo="" group-title="Poland Sport", CANAL + SPORT PL
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/86043
-#EXTINF:-1,PL:CANAL + SPORT 2 UHD
+
+#EXTINF:-1 tvg-logo="" group-title="Poland Sport", CANAL + SPORT 2 PL
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/86044
-#EXTINF:-1,PL:CANAL + SPORT 3 UHD
+
+#EXTINF:-1 tvg-logo="" group-title="Poland Sport", CANAL + SPORT 3 PL
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/86045
-#EXTINF:-1,PL:CANAL + SPORT 4 UHD
+
+#EXTINF:-1 tvg-logo="" group-title="Poland Sport", CANAL + SPORT 4 PL
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/86046
 
 
 
 
 
-
-Norwey
-
-
-#EXTINF:-1,NO:V Sport+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport+
 http://gugtv.net:2086/erenckmz1/08032024cs55/59017
-#EXTINF:-1,NO:V Sport 1
+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport 1
 http://gugtv.net:2086/erenckmz1/08032024cs55/59016
-#EXTINF:-1,NO:V Sport 2
+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport 2
 http://gugtv.net:2086/erenckmz1/08032024cs55/59015
-#EXTINF:-1,NO:V Sport 3
+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport 3
 http://gugtv.net:2086/erenckmz1/08032024cs55/59014
-#EXTINF:-1,NO:V Sport Golf
+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport Golf
 http://gugtv.net:2086/erenckmz1/08032024cs55/59013
-#EXTINF:-1,NO:V Ultra HD
+
+#EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Ultra HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/59012
 
 
 
 Sweden
 
-#EXTINF:-1,SW: C More Fotboll HD
+#EXTINF:-1 tvg-logo="" group-title="Sweden Sport", C More Fotboll HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/13608
+
 
 
 
 Denmark
 
-#EXTINF:-1,DK: 6`EREN
+#EXTINF:-1 tvg-logo="" group-title="Denmark Sport", 6`EREN
 http://gugtv.net:2086/erenckmz1/08032024cs55/10544
 
-#EXTINF:-1,DK: TV2 SPORT
+#EXTINF:-1 tvg-logo="" group-title="Denmark Sport", TV2 SPORT
 http://gugtv.net:2086/erenckmz1/08032024cs55/10554
 
 
@@ -287,20 +326,23 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/10554
 
 Holland
 
-#EXTINF:-1,NL: ESPN
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", ESPN1 NL
 http://gugtv.net:2086/erenckmz1/08032024cs55/52643
-#EXTINF:-1,NL: ESPN 2
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", ESPN2 NL
 http://gugtv.net:2086/erenckmz1/08032024cs55/52642
-#EXTINF:-1,NL: ESPN 3
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", ESPN3 NL
 http://gugtv.net:2086/erenckmz1/08032024cs55/52641
-#EXTINF:-1,NL: ESPN 4
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", ESPN4 NL
 http://gugtv.net:2086/erenckmz1/08032024cs55/52640
 
 
 
 
 
-#EXTINF:-1,RU: Match Futbol 1 HD
+#EXTINF:-1 tvg-logo="" group-title="RU Sport", Match Futbol 1 HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/52902
 
 
@@ -530,50 +572,6 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/780337
 
 
 
-
-DE
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DE208:SKY SPORT GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE208POPCORNSELECT2FHD.png" group-title="DE Sports",DE SKY SPORT GOLF
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29074
-
-#EXTINF:-1 tvg-id="" tvg-name="DE209:SKY SPORT MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE209POPCORNSELECT3FHD.png" group-title="DE Sports",DE SKY SPORT MIX
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29073
-
-#EXTINF:-1 tvg-id="" tvg-name="DE211:SKY SPORT PREMIER LEAGUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE211POPCORNSELECT5HD.png" group-title="DE Sports",DE SKY SPORT PREMIER LEAGUE
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29071
-
-#EXTINF:-1 tvg-id="" tvg-name="DE212:SKY SPORT TENNIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE212POPCORNSELECT6HD.png" group-title="DE Sports",DE SKY SPORT TENNIS
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29070
-
-#EXTINF:-1 tvg-id="" tvg-name="DE213:SKY SPORT TOP EVENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE213POPCORNSELECT7HD.png" group-title="DE Sports",DE SKY SPORT TOP EVENT
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29069
-
-#EXTINF:-1 tvg-id="" tvg-name="DE220:SPORT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE220RFHHD.png" group-title="DE Sports", DE SPORT1
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29062
-
-#EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:SPORT1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221GOLDSTARTV.png" group-title="DE Sports",DE SPORT1+
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29061
-
-#EXTINF:-1 group-title="NO", 
-
-#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sports", DE DAZN 1
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2659
-
-#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sports", DE DAZN 2
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
-
-#EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sports", DE SKY SPORT AUSTRIA 
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
-
-
-
-
-
-
-
-
-
 Club
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE" group-title="CLUB", MUTV
@@ -587,7 +585,7 @@ https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 group-title="NO", 
 
-#EXTINF:-1,CANAL BETIS TV
+#EXTINF:-1 tvg-logo="" group-title="CLUB", BETIS TV
 http://torplanbien.online:2082/RubenPadel/8npVCMsZ3zJg/205230
 
 
