@@ -1,29 +1,13 @@
 
-
 #EXTINF:-1 tvg-logo="" group-title="News",ABC7
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",ABC News Live
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630795&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",NewsMax
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630828&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",CBS News 24/7
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630860&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",The Whether Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631103&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",News Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631107&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="News",News Live
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631115&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNN 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", t2
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://edge-s2c.onlineprostream.com:9094/v5/xhOQmfh9c5guz1yP3VUeYA/1720935245/4d630cd0558e0b90ef3011bf163ab8b0/URHc3XbbkSkQOxKgbjqNrA/1720945925/live/dx-origin/hd-tfilm2_720/chunks.m3u8
 
 
 
@@ -31,8 +15,6 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&ex
 Kids
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR.
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",nickelodeon
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&extension=ts&play_token=wlsL7RB290
@@ -43,8 +25,8 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631133&ex
 #EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631152&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631154&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR.
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",NickToons
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
