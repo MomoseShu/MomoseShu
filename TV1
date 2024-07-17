@@ -147,10 +147,6 @@ Movie
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://images.hdpri.me/images/tv/png/sd-celestial.png", CCM
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
@@ -225,40 +221,39 @@ https://wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2Vydm
 #EXTVLCOPT:http-referrer=https://wacth.tv 
 https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
 
+
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png", hbo family
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png", Cinemax
-#EXTVLCOPT:http-referrer=https://wacth.tv 
-https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+#EXTVLCOPT:http-referrer=
 
 
 #EXTINF:-1 group-title="NO",
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg" group-title="Movie", SKY CINEMA HITS
-http:\\likea8bitboss.xyz:80\Oscar\9562340178\761295
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ACTION" tvg-logo="" group-title="Movie",UK: SKY CINEMA ACTION
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ACTION" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SKY CINEMA ACTION
 http://likea8bitboss.xyz:80/Oscar/9562340178/761290
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Sky_Cinema_Premiere_%282020-.n.v.%29.png/revision/latest?cb=20200918051725" group-title="Movie", SKY CINEMA PREMIERE
 http:\\likea8bitboss.xyz:80\Oscar\9562340178\761296
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA FAMILY" tvg-logo="" group-title="Movie", SKY CINEMA FAMILY
-http://likea8bitboss.xyz:80/Oscar/9562340178/761293
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SELECT" tvg-logo="" group-title="Movie", SKY CINEMA SELECT
-http://likea8bitboss.xyz:80/Oscar/9562340178/761298
-
 #EXTINF:-1 tvg-id="" tvg-name="UK: SYFY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRm-ntmQ5FaqTgvKrgovlj1sEGBqA3_CpA2s5Xy2fRVE6jiMOfHXT5RGCGqCl9oWzSLg&usqp=CAU" group-title="Movie", SYFY
 http:\\likea8bitboss.xyz:80\Oscar\9562340178\388
 
 #EXTINF:-1 tvg-id="" tvg-name="IN150:SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="Movie", SONY PAL
-http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/55262
+
 
 #EXTINF:-1 group-title="NO",
+
+
+
+
+
+
+
 
 
 *************************************************
@@ -302,31 +297,6 @@ https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
 #EXTINF:-1 group-title="NO",
 
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",TLC
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631276&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",TNT
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631277&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",E 
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630903&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Food Network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630918&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",FXX
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630929&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Discovery Family
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630891&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 group-title="NO",
-
-
-
-
-
-
 ****************************************************************
 
 
@@ -365,16 +335,18 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&ex
 #EXTINF:-1 tvg-logo="" group-title="Kids",NickToons
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631133&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="Kids", Disney Channel 
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/3142
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631152&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="US027:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="Kids", Disney JR 
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/3141
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney JR.
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630896&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="Kids", Disney XD 
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/3140
 
 #EXTINF:-1 group-title="NO",
+
+
 
 
 
@@ -404,29 +376,31 @@ https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.svg",BBC EARTH
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+
 
 #EXTINF:-0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://th.bing.com/th/id/R.a69442671b25ee6d719f20a9a3fdff2d?rik=CiwImRXwnBB4dw&pid=ImgRaw&r=0" group-title="Discovery",BBC Lifestyle
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+
 
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.mnOBQnqTtsPCLXPatViLkQAAAA?rs=1&pid=ImgDetMain" group-title="Discovery",Animal Planet
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-animalplaneteng.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0" group-title="Discovery",Discovery Asia
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8
-
-#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="Discovery", TRUE HISTORY
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Discovery",SCI
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631151&extension=ts&play_token=wlsL7RB290
+#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="Discovery", TRUE 
+
+
+
+
+
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.imgur.com/ZzrTCDv.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -434,17 +408,16 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsrnCQZY0VyV-mMkGOh0tkycJAmUWlF__sThCN0fv8vIvdaAHJQxVBqU&s=10", BBC EARTH CA
 https://6oclock.xyz:8443/Tyrone43147/My3boys/930647
 
-#EXTINF:-1 tvg-logo="" group-title="Discovery",NASA TV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631004&extension=ts&play_token=wlsL7RB290
-
 #EXTINF:-1 tvg-logo="" group-title="Discovery",NAT GEO WILD
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631006&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="Discovery",NAT GEO
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631007&extension=ts&play_token=wlsL7RB290
 
-#EXTINF:-1 group-title="NO",
+#EXTINF:-1 tvg-id="US: NASA" tvg-name="BASICS: NASA TV" tvg-logo="https://i.ibb.co/vDQWWDC/nasa-tv.png" group-title="Discovery", NASA TV
+http://likea8bitboss.xyz:80/Oscar/9562340178/649299
 
+#EXTINF:-1 group-title="NO",
 
 
 
@@ -462,16 +435,24 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", XITE NL
 http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1571
 
-#EXTINF:-1 tvg-logo="" group-title="Music", MTV LIVE NL
-http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\1570
+#EXTINF:-1 tvg-logo="" group-title="Music", MTV LIVE 
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\359
 
-#EXTINF:-1 tvg-logo="" group-title="Music", BETO Jams
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630850&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-id="mtv.hits.gb" tvg-name="UK061:MTV Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK061MTVClass.png" group-title="Music",MTV Hits
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2896
 
-#EXTINF:-1 tvg-logo="" group-title="Music", BETO SOUL
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630851&extension=ts&play_token=wlsL7RB290
+#EXTINF:-1 tvg-id="" tvg-name="MC: SOFT ROCK (Music Videos)" tvg-logo="" group-title="Music",MC: SOFT ROCK 
+http://likea8bitboss.xyz:80/Oscar/9562340178/761102
+
+#EXTINF:-1 tvg-logo="" group-title="Music",
+DELUXE MUSIC HD | DE
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2824
+
+#EXTINF:-1 tvg-id="" tvg-name="V2BEAT TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/muzik/muzikk.png" group-title="Music",V2BEAT TV ʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/31815
 
 
+#EXTINF:-1 group-title="NO",
 
 *******************************************************************
 
@@ -511,8 +492,10 @@ https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8
 https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", TrueSports 4
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com
-https://cdn1.aws-live-streaming.com/ais/tsp4/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", TrueSports 5
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
@@ -526,24 +509,20 @@ https://cdn1.aws-live-streaming.com/ais/tsp7/playlist.m3u8
 
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
 
 
 
@@ -553,7 +532,7 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
 https://cdn1.aws-live-streaming.com/ais/bein1/playlist.m3u8
 
 #EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-http:\\likea8bitboss.xyz:80\Oscar\9562340178\761330
+
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
 #EXTVLCOPT:http-referrer=https://aisplay24hd.com
@@ -571,13 +550,16 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-spotv-1/playlis
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/?r=tv_view&id=26
-https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=
+
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8
+#EXTVLCOPT:http-referrer=
 
 #EXTINF:-1 group-title="NO",
 
@@ -595,10 +577,21 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&ex
 #EXTINF:-1 tvg-logo="" group-title="News",CNN 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
 
+#EXTINF:-1 tvg-id="US: FOX NEWS EAST" tvg-name="USA |  FOX NEWS" tvg-logo="https://www.noisejournal.com/wp-content/uploads/2014/04/Fox-News-Logo.png" group-title="News", FOX NEWS
+http://likea8bitboss.xyz:80/Oscar/9562340178/76778
+
+#EXTINF:-1 tvg-id="bbc.news.gb" tvg-name="UK011:BBC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK011BBCNews.png" group-title="News", BBC News
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2946
+
+#EXTINF:-1 tvg-id="sky.news.gb" tvg-name="UK071:Sky News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK071SkyNews.png" group-title="News", Sky News HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2886
+
+#EXTINF:-1 tvg-id="drama.gb" tvg-name="UK174:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK174" group-title="News", EURONEWS
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/28885
+
 
 
 ****************************************************************
-
 
 
 #EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK",BBC One
@@ -626,7 +619,7 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761335
 http://likea8bitboss.xyz:80/Oscar/9562340178/761334
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="" group-title="UK", PREMIER SPORTS 1 
-http:\\likea8bitboss.xyz:80\Oscar\9562340178\761329
+httphttp:\\hdtt3.online:3050\blowerjoseph444@gmail.com\p8qy2kvNnN\508229:\\yesimes.oknirvana.club:8880\Maarten\4MartenOn\2868
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="" group-title="UK", PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Oscar/9562340178/761332
@@ -649,6 +642,18 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/761350
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK",SKY SPORTS ACTION
 http://likea8bitboss.xyz:80/Oscar/9562340178/761342
 
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK",UK055:Sky Sports Arena HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2902
+
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK",UK075:Sky Sports Mix FHD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2882
+
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK",UK087:Sky Sports Football HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2870
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK",UK080:Sky Sports PremierLeague HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2877
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="" group-title="UK",SKY SPORTS GOLF
 http:\\likea8bitboss.xyz:80\Oscar\9562340178\761347
 
@@ -659,7 +664,7 @@ http:\\likea8bitboss.xyz:80\Oscar\9562340178\761347
 USA Sport
 
 
-#EXTINF:-1 tvg-logo="" group-title="USA Sport", Sprotsnet
+#EXTINF:-1 tvg-logo="" group-title="USA Sport", SNY
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630602&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-id="US: FS1" tvg-name="SPORTS: FOX SPORTS 1" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_1.png" group-title="USA Sport",FOX SPORTS 1
@@ -676,6 +681,9 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631135&ex
 
 #EXTINF:-1 tvg-id="45TV MINNEAPOLIS MN KSTC" tvg-name="SPORTS: FOX DEPORTES" tvg-logo="https://p.kindpng.com/picc/s/349-3495935_fox-deportes-png-logo-fox-deportes-logo-png.png" group-title="USA Sport",FOX DEPORTES
 http://likea8bitboss.xyz:80/Oscar/9562340178/743845
+
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="US136:TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="USA Sport",TyC Sports
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/30054
 
 #EXTINF:-1 tvg-id="US: ESPN" tvg-name="ESPN: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="USA Sport", ESPN
 http://likea8bitboss.xyz:80/Oscar/9562340178/5930
@@ -814,11 +822,11 @@ DE
 #EXTINF:-1 tvg-logo="" group-title="DE Sport", SPORT DIGITAL FUSSBALL UHD
 http://germanydns1.de:8080/engindalarde/dvvpaiu99/88761
 
-#EXTINF:-1 tvg-logo="" group-title="DE Sport", SKY BUNDESLIGA 1 HD
-http://germanydns1.de:8080/engindalarde/dvvpaiu99/88764
+#EXTINF:-1 tvg-logo="" group-title="DE Sport", SKY BUNDESLIGA 
+http:\\gugtv.net:2086\erenckmz1\08032024cs55\7325
 
 #EXTINF:-1 tvg-id="sky.sport.austria.1.de" tvg-name="DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE Sport", DE SKY SPORT AUSTRIA 
-http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29090
+http:\\gugtv.net:2086\erenckmz1\08032024cs55\30574
 
 #EXTINF:-1 tvg-id="" tvg-name="DE208:SKY SPORT GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE208POPCORNSELECT2FHD.png" group-title="DE Sport",DE SKY SPORT GOLF
 http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/29074
@@ -852,6 +860,7 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2658
 #EXTINF:-1 group-title="NO", 
 
 
+
 Holland
 
 #EXTINF:-1 tvg-logo="" group-title="Holland Sport", ESPN1 NL
@@ -868,6 +877,23 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/52640
 
 #EXTINF:-1 group-title="NO", 
 
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", NPO 1 HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52724
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", NPO 2 HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52723
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", NPO 3 HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52722
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", Ziggo Sport HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52711
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", Ziggo Sport Select HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52650
+
+#EXTINF:-1 tvg-logo="" group-title="Holland Sport", Ziggo Sport Voetbal HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52649
+
+#EXTINF:-1 group-title="NO", 
 
 
 
@@ -917,6 +943,11 @@ http://germanydns1.de:8080/engindalarde/dvvpaiu99/86046
 
 #EXTINF:-1 group-title="NO", 
 
+
+
+Norway
+
+
 #EXTINF:-1 tvg-logo="" group-title="Norwey Sport", V Sport+
 http://gugtv.net:2086/erenckmz1/08032024cs55/59017
 
@@ -956,10 +987,139 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/10554
 #EXTINF:-1 group-title="NO", 
 
 
+
+Swiss
+
+
+#EXTINF:-1 group-title="Swiss Sport", BLUE SPORT D 1 
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/100802
+
+#EXTINF:-1 group-title="Swiss Sport", BLUE SPORT D 2
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/100805
+
+#EXTINF:-1 group-title="Swiss Sport",BLUE ZOOM D 
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/100808
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+
+EX
+
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORTKLUB 1 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk1rs.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 1 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37372
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="SPORTKLUB 2 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk2sr.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 2 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37409
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="SPORTKLUB 3 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk3sr.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 3 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37410
+#EXTINF:-1 tvg-id="sport-klub-4" tvg-name="SPORTKLUB 4 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/sk4.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 4 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37411
+#EXTINF:-1 tvg-id="sport-klub-5" tvg-name="SPORTKLUB 5 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk5hr.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 5 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37412
+#EXTINF:-1 tvg-id="sport-klub-6" tvg-name="SPORTKLUB 6 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skk6.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 6 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37413
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="SPORTKLUB 7 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/sk7.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 7 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37414
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="SPORTKLUB 8 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/sk8.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 8 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37415
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="SPORTKLUB 9 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/sk9.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 9 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37416
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="SPORTKLUB 10 ʜᴅ/ғʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/sk10.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB 10 ʜᴅ/ғʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37417
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="SPORTKLUB ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/sport/skhd.png" group-title="⚽⚽ Sport ⚽⚽",SPORTKLUB ʜᴅ
+http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/13452
+
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+
+
+
+
+RU
+
+
 #EXTINF:-1 tvg-logo="" group-title="RU Sport", Match Futbol 1 HD
 http://gugtv.net:2086/erenckmz1/08032024cs55/52902
 
+#EXTINF:-1 tvg-logo="" group-title="RU Sport", MATCH ARENA HD
+http://gugtv.net:2086/erenckmz1/08032024cs55/52903
+
 #EXTINF:-1 group-title="NO", 
+
+
+
+BE
+
+
+#EXTINF:-1 tvg-logo="" group-title="BE Sport", DAZN Eleven Pro League
+http:\\gugtv.net:2086\erenckmz1\08032024cs55\45210
+
+#EXTINF:-1 tvg-logo="" group-title="BE Sport", DAZN Eleven Pro League 2
+http:\\gugtv.net:2086\erenckmz1\08032024cs55\45211
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+Cecz
+
+#EXTINF:-1 tvg-logo="" group-title="Cecz Sport", CT SPORT HD
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/98510
+
+#EXTINF:-1 tvg-logo="" group-title="Cecz Sport", CZ SPORT 1 HD
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/98514
+
+#EXTINF:-1 tvg-logo="" group-title="Cecz Sport", CZ SPORT 2 HD
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/98515
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+GR
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport", NOVA SPORTS PRIME 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/31038
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",NOVA SPORTS 1 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20863
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",NOVA SPORTS 2 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20864
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",NOVA SPORTS 3 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20865
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",NOVA SPORTS 4 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20866
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",NOVA SPORTS 5 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20867
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 1 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20874
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 2 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20875
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 3 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20876
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 4 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20877
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 5 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20878
+
+#EXTINF:-1 tvg-logo="" group-title="Greece Sport",COSMOTE SPORT 6 HD 
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/20879
+
+#EXTINF:-1 group-title="NO", 
+
 
 
 
@@ -995,6 +1155,7 @@ http://hdtt3.online:3050/blowerjoseph444@gmail.com/p8qy2kvNnN/560114
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="Newzealand", SKY Sport 9 NZ
 http://hdtt3.online:3050/blowerjoseph444@gmail.com/p8qy2kvNnN/560113
 
+#EXTINF:-1 group-title="NO", 
 
 
 HK
@@ -1077,6 +1238,99 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
 #EXTINF:-1 group-title="NO", 
 
 
+Bundesliga
+
+
+#EXTINF:-1,DE:SKY BUNDESLIGA 1 HQ
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88763
+#EXTINF:-1,DE:SKY BUNDESLIGA 2 HD
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88765
+#EXTINF:-1,DE:SKY BUNDESLIGA 3 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88766
+#EXTINF:-1,DE:SKY BUNDESLIGA 4 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88767
+#EXTINF:-1,DE:SKY BUNDESLIGA 5 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88768
+#EXTINF:-1,DE:SKY BUNDESLIGA 6 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88769
+#EXTINF:-1,DE:SKY BUNDESLIGA 7 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88770
+#EXTINF:-1,DE:SKY BUNDESLIGA 8 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88771
+#EXTINF:-1,DE:SKY BUNDESLIGA 9 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88772
+#EXTINF:-1,DE:SKY BUNDESLIGA 10 HD (LIVE EVENT)
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/88773
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+ES
+
+
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:M+ LALIGA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES", M+ LALIGA TV
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/29268
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:M+ LALIGA SMARTBANK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES", M+ LALIGA SMARTBANK TV
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/29270
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES123:M+ LALIGA SMARTBANK TV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES", M+ LALIGA SMARTBANK TV 2
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/29269
+
+#EXTINF:-1 group-title="NO", 
+
+
+ITALY
+
+#EXTINF:-1 group-title="ITALY Sport", SKY SPORT CALCIO 
+http://germanydns1.de:8080/engindalarde/dvvpaiu99/95846
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RAI SPORT HD" tvg-logo="no_change" group-title="ITALY Sport",RAI SPORT HD
+http://servizio1.dyndns.org:9099/live/St3fsaChiA/iw4erMXTdt/09905f14-d896-4190-8c78-a55d8384a9fb.ts
+
+
+
+
+
+Turk
+
+#EXTINF:-1 group-title="Turkie Sport",BEIN SPORTS HABER HD | TR
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/1837
+
+
+
+
+
+
+
+
+Ligue 1
+
+
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:AMAZON PRIME 1 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="FR Sports",FR019:AMAZON PRIME 1 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2847
+
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:AMAZON PRIME 2 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="FR Sports",FR020:AMAZON PRIME 2 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2846
+
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="FR Sports",FR021:AMAZON PRIME 3 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2845
+
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="FR Sports",FR022:AMAZON PRIME 4 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2844
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="FR Sports",FR023:AMAZON PRIME 5 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2843
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR024:AMAZON PRIME 6 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="FR Sports",FR024:AMAZON PRIME 6 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2842
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FR025:AMAZON PRIME 7 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="FR Sports",FR025:AMAZON PRIME 7 (MATCH TIME)
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2841
+
+#EXTINF:-1 group-title="NO",
+
 
 
 Club
@@ -1095,11 +1349,23 @@ https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CLUB", BETIS TV
 http://torplanbien.online:2082/RubenPadel/8npVCMsZ3zJg/205230
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="CLUB", BENFICA TV
+http://likea8bitboss.xyz:80/Oscar/9562340178/780260
 
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="CLUB", Sporting TV
+http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/181
 
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN CHANNEL FHD" tvg-logo="no_change" group-title="CLUB",MILAN CHANNEL FHD
+http://servizio1.dyndns.org:9099/live/St3fsaChiA/iw4erMXTdt/b76b4160-6f83-446d-9d7e-daeee36c3a48.ts
 
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="INTER CHANNEL FHD" tvg-logo="no_change" group-title="CLUB",INTER CHANNEL FHD
+http://servizio1.dyndns.org:9099/live/St3fsaChiA/iw4erMXTdt/deb16b77-0b40-4b47-9dfc-427c58b845dc.ts
 
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="[SAT] LAZIO CHANNEL FHD" tvg-logo="no_change" group-title="CLUB",[SAT] LAZIO CHANNEL FHD
+http://servizio1.dyndns.org:9099/live/St3fsaChiA/iw4erMXTdt/da9fc26a-caa5-4ed6-aade-3313af27e301.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Juventus TV" tvg-logo="no_change" group-title="CLUB",Juventus TV
+http://servizio1.dyndns.org:9099/live/St3fsaChiA/iw4erMXTdt/dbc7b588-5c94-49d9-8462-22c744301d02.ts
 
 
 
@@ -1109,92 +1375,17 @@ http://torplanbien.online:2082/RubenPadel/8npVCMsZ3zJg/205230
 
 
 
+#EXTINF:-1 group-title="NO",
 
 
 
+***************************************************************
 
 
+Latin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Reserv
-
-
-#EXTINF:-1,BBC ONE
-http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100579
-
-#EXTINF:-1,BBC TWO
-http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100587
-
-
-#EXTINF:-1 tvg-id="EL: GOLTV" tvg-name="SPORTS: GOLTV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/10/GOLTV-696x392.png" group-title="USA Sport", GOLTV
-http://likea8bitboss.xyz:80/Oscar/9562340178/743852
-
-#EXTINF:-1,espn
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630497&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,ESPN2
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630461&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,espnnews
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630496&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,NBA TV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630460&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,cbs sport network
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630480&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,FS1
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630503&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,FS2
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630505&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,FOX Soccer Plus
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630502&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1,FOXDEPORTES
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630509&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-id="SP: NFL NETWORK" tvg-name="USA: NFL NETWORK" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="USA Sport",NFL NETWORK
-http://likea8bitboss.xyz:80/Oscar/9562340178/737314
-
-#EXTINF:-1 tvg-id="SP: NHL NETWORK" tvg-name="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="USA Sport",NHL NETWORK
-http://likea8bitboss.xyz:80/Oscar/9562340178/316481
-
-#EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="USA Sport",GOLF CHANNEL
-http://likea8bitboss.xyz:80/Oscar/9562340178/336
-
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png" group-title="USA Sport",Tennis Channel
-http://panelguys.top:8080/95549031/69361122/20184
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS+" tvg-logo="" group-title="COLUMBIA",CO: WIN SPORTS+
+http://likea8bitboss.xyz:80/Oscar/9562340178/775740
 
 
 
