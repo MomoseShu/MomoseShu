@@ -328,13 +328,6 @@ https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2Vy
 
 #EXTINF:-1 group-title="NO",
 
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",nickelodeon
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631015&extension=ts&play_token=wlsL7RB290
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",NickToons
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631227&extension=ts&play_token=wlsL7RB290
-
 #EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="Kids", Disney Channel 
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/3142
 
@@ -444,8 +437,7 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2896
 #EXTINF:-1 tvg-id="" tvg-name="MC: SOFT ROCK (Music Videos)" tvg-logo="" group-title="Music",MC: SOFT ROCK 
 http://likea8bitboss.xyz:80/Oscar/9562340178/761102
 
-#EXTINF:-1 tvg-logo="" group-title="Music",
-DELUXE MUSIC HD | DE
+#EXTINF:-1 tvg-logo="" group-title="Music", DELUXE MUSIC HD 
 http://suberocape.com:80/pjeter.murana/fTNbU6SAEfk3kqWPe3yU/2824
 
 #EXTINF:-1 tvg-id="" tvg-name="V2BEAT TV ʜᴅ" tvg-logo="http://smartntv.pro/logokanali/muzik/muzikk.png" group-title="Music",V2BEAT TV ʜᴅ
@@ -570,9 +562,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 
 News
 
-
-#EXTINF:-1 tvg-logo="" group-title="News",ABC7
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630791&extension=ts&play_token=wlsL7RB290
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNN 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631141&extension=ts&play_token=wlsL7RB290
@@ -1031,7 +1020,7 @@ http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/37417
 http://smartntv.pro:25461/LeoNjemacka/YUdpkusTBzne/13452
 
 
-#EXTINF:-1 group-title="NO", 
+
 
 
 
@@ -1389,6 +1378,95 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/775740
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserv
+
+
+#EXTINF:-1,BBC ONE
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100579
+
+#EXTINF:-1,BBC TWO
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100587
+
+
+#EXTINF:-1 tvg-id="EL: GOLTV" tvg-name="SPORTS: GOLTV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/10/GOLTV-696x392.png" group-title="USA Sport", GOLTV
+http://likea8bitboss.xyz:80/Oscar/9562340178/743852
+
+#EXTINF:-1,espn
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630497&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,ESPN2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630461&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,espnnews
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630496&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NBA TV
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630460&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,cbs sport network
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630480&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FS1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630503&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FS2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630505&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FOX Soccer Plus
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630502&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FOXDEPORTES
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630509&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1 tvg-id="SP: NFL NETWORK" tvg-name="USA: NFL NETWORK" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="USA Sport",NFL NETWORK
+http://likea8bitboss.xyz:80/Oscar/9562340178/737314
+
+#EXTINF:-1 tvg-id="SP: NHL NETWORK" tvg-name="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="USA Sport",NHL NETWORK
+http://likea8bitboss.xyz:80/Oscar/9562340178/316481
+
+#EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="USA Sport",GOLF CHANNEL
+http://likea8bitboss.xyz:80/Oscar/9562340178/336
+
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png" group-title="USA Sport",Tennis Channel
+http://panelguys.top:8080/95549031/69361122/20184
+
+
+
+DE
+
+#EXTINF:-1 group-title="", Sky Sport Austria
+http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\20858
 
 
 
