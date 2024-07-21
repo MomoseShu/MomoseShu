@@ -130,10 +130,11 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-http:\\61.19.242.134\feed\eI5rczhSQpWBcgOtqRLNWw\chpptvhd\index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
+
+#EXTINF:-1 group-title="NO",
 
 ***************************************************************************
 
@@ -230,23 +231,20 @@ https://wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c
 #EXTVLCOPT:http-referrer=
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="", SYFY 
-http://vcxy.me:80/BesnikKrasniqi1/eh6FZgFzUce5QKX6Rzr3/3662
-
-#EXTINF:-1, group-title="Movie", Sky Atlantic HD
-http://cdnb.smartvpluseu.com/3143539732708565/4389352946/341438
-
-#EXTINF:-1, group-title="Movie", Sky Cinema Hits Full HD
-http://cdnb.smartvpluseu.com/3143539732708565/4389352946/341447
-
-#EXTINF:-1, group-title="Movie", Sky Cinema Premiere Full HD
-http://cdnb.smartvpluseu.com/3143539732708565/4389352946/341448
-
 #EXTINF:-1 tvg-id="" tvg-name="IN: SONY PIX" tvg-logo="https://docdog.top/logo/countries/india//sonypix.png" group-title="Movie", SONY PIX
 http://altern.top:8080/521710155065003/9d295d0bf64f/53625
 
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK| SKY CINEMA ACTION HD" tvg-logo="https://img.logo-cdn.cc/skycinemapremiere.png" group-title="Movie", SKY CINEMA ACTION 
+http://line.hostnm11.com:80/1DAA5858/8124C572/657989
 
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK| SKY CINEMA PREMIER HD" tvg-logo="https://img.logo-cdn.cc/skycinemapremiere.png" group-title="Movie, SKY CINEMA PREMIER 
+http://line.hostnm11.com:80/1DAA5858/8124C572/657992
 
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK| SKY CINEMA HITS HD" tvg-logo="https://img.logo-cdn.cc/skycinemahits.png" group-title="Movie, SKY CINEMA HITS 
+http://line.hostnm11.com:80/1DAA5858/8124C572/657997
+
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK| SYFY FHD" tvg-logo="https://img.logo-cdn.cc/syfy.png" group-title="Movie", SYFY 
+http://line.hostnm11.com:80/1DAA5858/8124C572/100771
 
 
 
