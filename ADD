@@ -1358,3 +1358,111 @@ http://line.hostnm11.com:80/1DAA5858/8124C572/1062808
 
 
 
+
+REserv
+
+
+Reserv
+
+
+#EXTINF:-1,BBC ONE
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100579
+
+#EXTINF:-1,BBC TWO
+http:\\germanydns1.de:8080\engindalarde\dvvpaiu99\100587
+
+
+#EXTINF:-1 tvg-id="EL: GOLTV" tvg-name="SPORTS: GOLTV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/10/GOLTV-696x392.png" group-title="USA Sport", GOLTV
+http://likea8bitboss.xyz:80/Oscar/9562340178/743852
+
+#EXTINF:-1,espn
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630497&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,ESPN2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630461&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,espnnews
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630496&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,NBA TV
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630460&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,cbs sport network
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630480&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FS1
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630503&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FS2
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630505&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FOX Soccer Plus
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630502&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1,FOXDEPORTES
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=630509&extension=ts&play_token=wlsL7RB290
+
+#EXTINF:-1 tvg-id="SP: NFL NETWORK" tvg-name="USA: NFL NETWORK" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="USA Sport",NFL NETWORK
+http://likea8bitboss.xyz:80/Oscar/9562340178/737314
+
+#EXTINF:-1 tvg-id="SP: NHL NETWORK" tvg-name="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg" group-title="USA Sport",NHL NETWORK
+http://likea8bitboss.xyz:80/Oscar/9562340178/316481
+
+#EXTINF:-1 tvg-id="CA: GOLF CHANNEL" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="USA Sport",GOLF CHANNEL
+http://likea8bitboss.xyz:80/Oscar/9562340178/336
+
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png" group-title="USA Sport",Tennis Channel
+http://panelguys.top:8080/95549031/69361122/20184
+
+
+
+DE
+
+#EXTINF:-1 group-title="", Sky Sport Austria
+http:\\suberocape.com:80\pjeter.murana\fTNbU6SAEfk3kqWPe3yU\20858
+
+
+#EXTINF:-1 tvg-id="US: CBS SPORTS NETWORK" tvg-name="SPORTS: CBS SPORTS NETWORK" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/02/cbs_sports_network.png" group-title="USA Sport",CBS SPORTS NETWORK
+http://likea8bitboss.xyz:80/Oscar/9562340178/316982
+
+
+
+Thai
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", BALLTHAI 2 
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png", BALLTHAI 4
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png", BALLTHAI 5
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png", BALLTHAI 6
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png", BALLTHAI 7
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png", BALLTHAI 8
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
+
+
+
+
+
