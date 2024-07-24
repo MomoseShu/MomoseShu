@@ -93,7 +93,7 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2846
 #EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:AMAZON PRIME 3 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="Football",FR021:AMAZON PRIME 3 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2845
 
-#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="FR Sports",FR022:AMAZON PRIME 4 (MATCH TIME)
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:AMAZON PRIME 4 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="Football",FR022:AMAZON PRIME 4 (MATCH TIME)
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2844
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="FR023:AMAZON PRIME 5 (MATCH TIME)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="Football",FR023:AMAZON PRIME 5 (MATCH TIME)
@@ -106,6 +106,8 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2842
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2841
 
 #EXTINF:-1 group-title="NO",
+
+
 
 🇦🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇪🇸🇯🇵🇰🇷
 #EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 1 " tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="Football",OPTUS SPORT 1
@@ -153,7 +155,7 @@ http://client.newsborntvs.info:80/meritonx/islamaj/86584
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Sports 6 
 http://client.newsborntvs.info:80/meritonx/islamaj/86585
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 7 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Sports 7 
 http://client.newsborntvs.info:80/meritonx/islamaj/86586
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Sports Plus 
@@ -247,25 +249,7 @@ http://yesimes.oknirvana.club:8880/3ca8313n04/asd23r32/2612
 
 **************************************
 
-🇸🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿EPL Reserv
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 1 ⁴ᵏ" tvg-logo="" group-title=Football",Hub Premier 1 
-http://client.newsborntvs.info:80/meritonx/islamaj/86271
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ" tvg-logo="" group-title="Football",Hub Premier 2 
-http://client.newsborntvs.info:80/meritonx/islamaj/86272
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 3 ⁴ᵏ" tvg-logo="" group-title="Football",Hub Premier 3 
-http://client.newsborntvs.info:80/meritonx/islamaj/86273
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 4 ⁴ᵏ" tvg-logo="" group-title="Football",Hub Premier 
-http://client.newsborntvs.info:80/meritonx/islamaj/86274
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 5 ⁴ᵏ" tvg-logo="" group-title="Football",Hub Premier 5 
-http://client.newsborntvs.info:80/meritonx/islamaj/86275
-
-#EXTINF:-1 group-title="NO",
-
+ Reserv
 
 EPL🇭🇰🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
@@ -290,8 +274,26 @@ http://client.newsborntvs.info:80/meritonx/islamaj/86381
 #EXTINF:-1 group-title="NO", 
 
 
+🇩🇪Bundesliga Resrev
+
+#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="DE024:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Sport", DE DAZN 1
+http:\\line.hostnm11.com:80\1DAA5858\8124C572\107089
+
+#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="DE025:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Sport", DE DAZN 2
+http:\\line.hostnm11.com:80\1DAA5858\8124C572\107090
+
+#EXTINF:-1 group-title="NO", 
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="BE| DAZN WOMENS FOOTBALL FHD" tvg-logo="https://img.logo-cdn.cc/dazn.png" group-title="Football", DAZN WOMENS FOOTBALL FHD
 http://line.hostnm11.com:80/1DAA5858/8124C572/1062808
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+
 
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿EFL
