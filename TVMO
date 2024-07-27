@@ -516,6 +516,57 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:38:34:35&stream=631245&ex
 
 #EXTINF:-1 group-title="NO", 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/sweden/eurosport1.png" group-title="UK",EUROSPORT 1 UK
+http://likea8bitboss.xyz:80/Oscar/9562340178/761335
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/sweden/eurosport2.png" group-title="UK",EUROSPORT 2 UK
+http://likea8bitboss.xyz:80/Oscar/9562340178/761334
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK", PREMIER SPORTS 1 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://docdog.top/logo/countries/uk/premiersports.png" group-title="UK", PREMIER SPORTS 2
+http://likea8bitboss.xyz:80/Oscar/9562340178/761332
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 1" tvg-logo="https://docdog.top/logo/countries/uk/btsport1.png" group-title="UK", TNT SPORT 1
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761339
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 2" tvg-logo="https://docdog.top/logo/countries/uk/btsports2vip.png" group-title="UK", TNT SPORT 2
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761338
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 3" tvg-logo="https://docdog.top/logo/countries/uk/btsport3.png" group-title="UK", TNT SPORT 3
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761337
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT ESPN" tvg-logo="https://docdog.top/logo/countries/uk/btsportespn.png" group-title="UK",TNT SPORT 4
+http:\\likea8bitboss.xyz:80\Oscar\9562340178\761336
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="UK", SKY SPORTS F1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="UK", SKY SPORTS GOLF
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://docdog.top/logo/countries/uk/skysportsaction.png" group-title="UK", SKY SPORTS ACTION
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/uk/skysportsnews.png" group-title="UK",SKY SPORTS NEWS
+
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK", Sky Sports Arena HD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS MAIN EVENT" tvg-logo="https://docdog.top/logo/countries/uk/skysportsmainevent.png" group-title="UK", SKY SPORTS MAIN EVENT
+
+
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK", Sports Mix FHD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2882
+
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK", Sky Sports Football HD
+http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2870
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK", Sky Sports PremierLeague HD
+
+
+#EXTINF:-1 group-title="NO", 
 
 
 
