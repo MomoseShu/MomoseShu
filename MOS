@@ -3,7 +3,7 @@
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0001.png",NBT 2 HD
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://storage.googleapis.com/bucket-pdpa-static-prod/dev/upload/000/061/782/b6282747-dfc4-4ad2-949f-b5f6045d18b7/original/TPBS_Logo.png" group-title="Digital TV",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -113,14 +113,14 @@ https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
 https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
-https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1723889277&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=0Y7eOVBuUer5gMiHRCrE4g
+https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CH7 HD" tvg-name="CH7 HD" tvg-logo="http://tvsmagazine.com/images/channels/sm_7HD.jpg" group-title="Digital TV", CH 7HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
-https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1723837801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=XtRnC1G50CKSfY9IwwoL5g
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="NO",
 
@@ -374,7 +374,6 @@ http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2946
 *****************************
 
 
-
 #EXTINF:-1 group-title="THSport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://baadooball.com
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport1/playlist.m3u8
@@ -393,22 +392,13 @@ https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport4/playlist.m
 
 #EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="THSport", TrueBALLTHAI 1
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="NO",
-
-
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", TrueSports 1
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sport 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", TrueSports 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com
@@ -432,23 +422,21 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/th-sport/true
 
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?|Referer=https://freetvdd.com
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
 https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8?|Referer=https://freetvdd.com
 
 #EXTINF:-1 group-title="NO",
 
@@ -487,9 +475,10 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="",3BB Sports 1
-
+http://clientsportals.com:2095/q2nU2y14/gXCFChOy/813029
 
 #EXTINF:-1 group-title="NO",
 
 **********************************
+
 
