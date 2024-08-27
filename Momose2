@@ -1,12 +1,12 @@
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="" group-title="Movie", 3BB ASIAN 
-
+https://streamamg-fa.akamaiz.com/dookeela/3bbasian/chunks.m3u8?nimblesessionid=675454&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDM6MTU6NDEgQU0maGFzaF92YWx1ZT1IS0plUXNmdWZLUnpPaU1kMzEwaXdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9M2QzZDA2NzE0YTZkMTY1NTc0YWI4Mjc2NjRhZDM5NzEmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/Ws3XiHo.png", True Series
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png", True Asian More
-
+https://streamamg-fa.akamaiz.com/dookeela/trueasianmore/chunks.m3u8?nimblesessionid=675402&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDM6MTM6NDcgQU0maGFzaF92YWx1ZT0xVnNHVGpWbmpzellPaHpDZW5pMitnPT0mdmFsaWRtaW51dGVzPTEmaWQ9M2QzZDA2NzE0YTZkMTY1NTc0YWI4Mjc2NjRhZDM5NzEmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
 #EXTVLCOPT:http-referrer=https://freetvdd.com
@@ -21,7 +21,7 @@ https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD 2
-
+https://streamamg-fa.akamaiz.com/dookeela/truefilm2/chunks.m3u8?nimblesessionid=675438&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI0IDM6MTU6MTQgQU0maGFzaF92YWx1ZT00UmZiSS9vQXVzYzl4cVhJcm1CMC9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9M2QzZDA2NzE0YTZkMTY1NTc0YWI4Mjc2NjRhZDM5NzEmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4
 
 #EXTINF:-1 group-title="Movie" tvg-logo="",True Movie Hits 
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
@@ -265,10 +265,6 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/76778
 #EXTINF:-1 tvg-id="bbc.news.gb" tvg-name="UK011:BBC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK011BBCNews.png" group-title="News", BBC News
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2946
 
-#EXTINF:-0 tvg-id="CNBCAsia.sg" group-title="News" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png",CNBC
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-cnbc.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://img.inwiptv.net/postor/20200314132647Bloomberg.jpg" group-title="News",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
@@ -367,7 +363,7 @@ https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2
 https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMDnjzF2DZmAiEaOrY9Jo6Ps/.m3u8
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8?|Referer=https://freetvdd.com
 
 #EXTINF:-1 group-title="NO",
 
