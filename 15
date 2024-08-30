@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="rcti",01.RCTI
+http://103.226.232.196:8000/play/a00a/index.m3u8
+#EXTINF:-1,02.SCTV
+http://103.226.232.196:8000/play/a013/index.m3u8
+#EXTINF:-1,03.GTV
+http://103.226.232.196:8000/play/a00d/index.m3u8
+#EXTINF:-1,04.INDOSIAR
+http://103.226.232.196:8000/play/a00l/index.m3u8
+#EXTINF:-1,05.MNC TV
+http://103.226.232.196:8000/play/a008/index.m3u8
+#EXTINF:-1,06.INEWS
+http://103.226.232.196:8000/play/a01i/index.m3u8
+#EXTINF:-1,07.METROTV
+http://103.226.232.196:8000/play/a018/index.m3u8
+#EXTINF:-1,08.TRANSTV
+http://103.226.232.196:8000/play/a016/index.m3u8
