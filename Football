@@ -79,11 +79,39 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 
 **********************************
 
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png",Paralimpic 1
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T0wwMDE/HLS/T0wwMDE.m3u8
 
-#EXTINF:-1,3bb
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 2
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2x5bXBpYzIwMjRfMDI/HLS/T2x5bXBpYzIwMjRfMDI.m3u8
 
-#EXTINF:-1 group-title=Football" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 3
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/MjAyNF9wbGF5MDNfb2x5bXBpYw/HLS/MjAyNF9wbGF5MDNfb2x5bXBpYw.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 4
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/QmFkUGF0aDBT/HLS/QmFkUGF0aDBT.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 5
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U3RyZWFtU2VjcmV0/HLS/U3RyZWFtU2VjcmV0.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 6
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U2VjdXJlUGF0aA/HLS/U2VjdXJlUGF0aA.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png
+",Paralimpic 7
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2JmdXNjYXRlZA/HLS/T2JmdXNjYXRlZA.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+
+J League🇯🇵
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://baadooball.com
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport1/playlist.m3u8
 
@@ -100,6 +128,7 @@ https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport3/playlist.m
 https://xn--l3carvuj9aw1f6a.googlecdnforstreaming.live/baa/siamsport4/playlist.m3u8
 
 #EXTINF:-1 group-title="NO",
+
 
 🇹🇭BallThai
 
@@ -120,6 +149,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/th-sport/ballthai
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay4/th-sport/ballthai4/chunks.m3u8
 
 #EXTINF:-1 group-title="NO",
+
+*********************************
+
 
 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿EPL
 
@@ -156,30 +188,96 @@ http://likea8bitboss.xyz:80/Oscar/9562340178/779800
 #EXTINF:-1 tvg-id="" tvg-name="PEACOCK 10:" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lcjipqaLNRF5s2EkIPFxowHaEK&pid=Api&P=0&h=180" group-title="Football",PEACOCK 10:
 http://likea8bitboss.xyz:80/Oscar/9562340178/779801
 
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 11:" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lcjipqaLNRF5s2EkIPFxowHaEK&pid=Api&P=0&h=180" group-title="Football",PEACOCK 11:
-http://likea8bitboss.xyz:80/Oscar/9562340178/779802
 
 #EXTINF:-1 group-title="NO", 
 
 
+
 Epl🏴󠁧󠁢󠁥󠁮󠁧󠁿🇸🇬
 
-#EXTINF:-1 group-title="Football",HUB SPORT PREMIER LEAGUE 1
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Football",HUB SPORT PREMIER LEAGUE 1
 http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112231.m3u8
 
-#EXTINF:-1 group-title="Football",HUB SPORT PREMIER LEAGUE 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="Football",HUB SPORT PREMIER LEAGUE 2
 http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112229.m3u8
 
-#EXTINF:-1 group-title="Football",HUB SPORT PREMIER LEAGUE 3
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="Football",HUB SPORT PREMIER LEAGUE 3
 http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112228.m3u8
 
-#EXTINF:-1 group-title="Football",HUB SPORT PREMIER LEAGUE 4
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="Football",HUB SPORT PREMIER LEAGUE 4
 http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112227.m3u8
 
-#EXTINF:-1 group-title="Football",HUB SPORT PREMIER LEAGUE 5
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="Football",HUB SPORT PREMIER LEAGUE 5
 http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112226.m3u8
 
 #EXTINF:-1 group-title="NO",
+
+
+
+Sky+🏴󠁧󠁢󠁥󠁮󠁧󠁿 (PL + EFL)
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 1
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612600
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 2
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612599
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 3
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612598
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 4
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612597
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 5
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612596
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 6
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612595
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 7
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612594
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 8
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612593
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 9
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612592
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 10
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612591
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 11
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612590
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 12
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612589
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 13
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612588
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 14
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612587
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png",Sky Sport+ 15
+http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1612586
+
+
+#EXTINF:-1 group-title="NO",
+
+
+***********************************
+
+
+🇭🇰🇪🇸Laliga
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="Football",SPORT: NowHK Sports 2 
+http://client.newsborntvs.info:80/meritonx/islamaj/86581
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="Football",SPORT: NowHK Sports 3 
+http://client.newsborntvs.info:80/meritonx/islamaj/86582
+
+#EXTINF:-1 group-title="NO",
+
 
 ***********************************
 
@@ -187,7 +285,7 @@ http://fastopen.live:8080/live/AzemDEforine/a71P8JR4fL/112226.m3u8
 
 🇩🇪Bundesliga 1,2
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqokBUzFnTP4tE7UchyedkwcMuMjWieymdajEiop07CMS9eXvktEUswQ&s=10" group-title="Football",SKY SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqokBUzFnTP4tE7UchyedkwcMuMjWieymdajEiop07CMS9eXvktEUswQ&s=10" group-title="Football",Sky Sport Bundesliga
 http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/76098.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqokBUzFnTP4tE7UchyedkwcMuMjWieymdajEiop07CMS9eXvktEUswQ&s=10" group-title="Football",Sky Sport Bundesliga 1
@@ -261,6 +359,7 @@ http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/4217.ts
 #EXTINF:-1 group-title="NO", 
 
 
+**************************************
 
 🇫🇷Ligue 1
 
@@ -272,7 +371,7 @@ http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/4217.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png" group-title="Football",group-title="Football", League1 FR 3
-http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/698073
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png" group-title="Football",group-title="Football", League1 FR 4
 
@@ -323,18 +422,15 @@ http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/698073
 
 
 
-
-
-
 🇧🇪Belgium Pro League 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="" group-title="Football",SPORTS: Eleven Pro Sports League 1 BE
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0bqxzm1601804043.png" group-title="Football",SPORTS: Eleven Pro Sports League 1 BE
 http://client.newsborntvs.info:80/meritonx/islamaj/86286
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="" group-title="Football",SPORTS: Eleven Pro Sports League 2 BE
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ai2fuu1601804172.png" group-title="Football",SPORTS: Eleven Pro Sports League 2 BE
 http://client.newsborntvs.info:80/meritonx/islamaj/86287
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="" group-title="Football",SPORTS: Eleven Pro Sports League 3  BE
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f9b97c1601804343.png" group-title="Football",SPORTS: Eleven Pro Sports League 3  BE
 http://client.newsborntvs.info:80/meritonx/islamaj/86288
 
 #EXTINF:-1 group-title="NO", 
@@ -370,7 +466,7 @@ http://gugtv.net:2086/erenckmz1/08032024cs55/52640
 🇦🇹 Austria 
 
 
-#EXTINF:-1 group-title="Football",Sky Sports Austria 
+#EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports Austria 
 
 #EXTINF:-1 group-title="NO", 
 
@@ -411,33 +507,23 @@ http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1535715
 
 #EXTINF:-1 group-title="NO", 
 
-#EXTINF:-1 tvg-logo="" group-title="Football",DAZN WOMENS FOOTBALL 
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yh7b9wx9c7r81adj6jl9stfno_image-header_pRow_1690455103000&quality=70" group-title="Football",DAZN WOMENS FOOTBALL 
 http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1535738
 
-#EXTINF:-1 tvg-logo="" group-title="Football",DAZN 1 DE
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/s2jn2n1657045536.png" group-title="Football",DAZN 1 DE
 http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1535707
 
-#EXTINF:-1 tvg-logo="" group-title="Football",DAZN 2 DE
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/s2jn2n1657045536.png" group-title="Football",DAZN 2 DE
 http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/1535708
 
 #EXTINF:-1 group-title="NO",
 
-#EXTINF:-1 group-title="Football", One Soccer 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/OneSoccer_logo.svg/1200px-OneSoccer_logo.svg.png" group-title="Football", One Soccer 
 http://line.premiumpowers.net:80/31ce715ecd/f26450817ea9/950327
 
 #EXTINF:-1 group-title="NO",
 
 **************************************
-
-
-🏴󠁧󠁢󠁥󠁮󠁧󠁿EFL
-
-
-
-
-
-#EXTINF:-1 group-title="NO",
-
 
 
 
