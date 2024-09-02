@@ -1,416 +1,142 @@
 {
-"name": " ʘ‿ʘ  i3RAVO Movies TV",
+"name": " ʘ‿ʘ  i3RAVO IPTV",
 "author": "(Update realtime) By I3uckhumhyi",
-"image": "https://mhl.org/sites/default/files/images/misc/movie-and-popcorn-sm.png",
-"url": "https://drive.google.com/uc?id=1DSGV_7EwBbIO4bErNWZN5sKlhqiQnCZX",
-"info": "",
-"stations": [
+"image": "https://drive.google.com/uc?id=13YUjTUB3V6sJ2jynC-tW00pITZ-aGmJC",
+"url": "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq",
+"info": "ทำใว้ดูเองไม่เกรงใจใคร",
 
-{"name": " Ballnaja", "image": "https://www.ballnaja.com/icons/ballnaja.webp", "url":"https://www.ballnaja.com/television/3BB%20Asian", "embed": true},
+"groups": [
 
-{
-"name": "          HBO HD TH",
-"image": "https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png",
-"url":"https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=",  "referer": "https://wacth.tv/", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "userAgent": "vlc","playInNatPlayer": "true"},
-{
-"name": "          HBO HD",
-"image": "https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png",
-"url":"http://119.59.125.18:8081/live/hbo1/playlist.m3u8", "info": "pnSAT", "userAgent": "vlc","playInNatPlayer": "true"},
-{
-"name": "          HBO HD",
-"image": "https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png",
-"url":"http://150.95.25.221:8000/HBO%20Asia%20HD?u=IIllOo0OWsdgQqc:p=Po0OoEwxghSAj2", "info": "infoSAT", "userAgent": "vlc","playInNatPlayer": "true"},
-{
-"name": "          HBO HD",
-"image": "https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8",  "referer": "https://freetvdd.com/", "info": "livescorethai",  "userAgent": "vlc","playInNatPlayer": "true"},
-{
-"name": "          HBO HD",
-"image": "https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png",
-"url":"https://www.ballnaja.com/television/HBO%20HD", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
+     {"name": "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง","image": "https://drive.google.com/uc?id=1Cn99ReIbkyo-w8_JdX_9lIpZuguXMiFK","imageScale": "center","url": "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq","import": false},
 
-{
-"name": "          HBO signature HD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
-"url":"https://www.ballnaja.com/television/HBO%20SIG", "embed": "true"},
+	 { "name": "     ช่องทีวีดิจิตอล", "image": "https://drive.google.com/uc?id=173eKfTttJ0x0nBvweCaph8ekFfTfkC90", 
+     "url": "https://drive.google.com/uc?id=1Rgt_ki6HphefAPm43spWO2FK8caXlUi0", "import": false },
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1cJdNb6RLZdITVN2XdTvrFsdfkK51GI0D", 
+     "url": "https://drive.google.com/uc?id=1zBwipmOfvHbo1nO5OLMuyA2DfFqFJpJH", "import": false }, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1OgutjW47vWzi0gfb6kCHs2iFXLyBe32a", 
+     "url": "https://drive.google.com/uc?id=1DSGV_7EwBbIO4bErNWZN5sKlhqiQnCZX", "import": false }, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1_7C9vQhA1rp5laCPOonO9IPZwOkUjSa6", 
+     "url": "https://drive.google.com/uc?id=123NKz-fuyDmzmmKcjFFjS0kcFrxmb29L", "import": false }, 
 
-{
-"name": "          HBO FAMILY HD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
-"url":"https://www.ballnaja.com/television/HBO%20FAMILY", "embed": "true"},
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1-RRk9ZT9HVsxT2iNUGLcVAuX0CJCsgj3", 
+     "url": "https://drive.google.com/uc?id=1uQ8zR3ZzReq6kjknxBNyzGITFQ3Iluzq", "import": false }, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1Nm0s-mfmOJc_oFhmDQKUi7EqhchZEU35", 
+     "url": "https://drive.google.com/uc?id=1D1tiajtdwZbYeyKB71t58aTR-mCeWdm7", "import": false }, 
+     
+     { "name": "      ", "image": "https://drive.google.com/uc?id=1pRIzN3P-cqlWcuXdDaIzgQlZeW6d9F0Z", 
+     "url": "https://drive.google.com/uc?id=1rPKIgnLNh332zNgSv4N5LFD0sooDz0LK", "import": false },	 	 
+     
+     { "name": "      ", "image":"https://drive.google.com/uc?id=16SbifybsHCfLhtqmxcvmkN9voR9GcKHB", 
+     "url":"https://drive.google.com/uc?id=1iTRoCXK9lTmwU6CT71m_lMeTzZy38PEg", "import":false }, 
+     
+     { "name": "       ", "image": "https://drive.google.com/uc?id=1OO3lS7MwUxtdO_BsapXq-ruQNjTlP0ZH", 
+     "url": "https://drive.google.com/uc?id=1xkz5y9Kpel7zNBehvT4yrA87rI0CZGw4", "import": false }, 
 
-{
-"name": "          HBO HITS HD",
-"image": "https://static.wikia.nocookie.net/logopedia/images/a/a9/2022-06-14_16-26-52.png/revision/latest?cb=20220614084215",
-"url":"https://www.ballnaja.com/television/HBO%20HITS", "embed": "true"},
+    
+     { "name": " ALL Series ",
+        "author": "Update By RealTV",
+        "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv",
+         "groups": [ 
+     { "name": "     Series ดูเอง", "image": "https://drive.google.com/uc?id=1UZuGjASKyjy3cYhOwl1xAOhRxZVnKtmv", 
+     "url": "https://drive.google.com/uc?id=1h7N4kWLSbV938bWj8JIJy84KI-7b5qtl", "import": false },
+     { "name": "     InterSeries ", "image": "https://image.bestreview.asia/wp-content/uploads/2022/07/western-series.jpg", 
+     "url": "https://drive.google.com/uc?id=1XEbTW6TArZPEMeTRo-XupeorK4fZ2Hhm", "import": false },
+     { "name": "     AnimeSeries", "image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/02/Top-50-anime-movies-and-tv-series-on-netflix-in-March-2021.jpg",
+     "url": "https://drive.google.com/uc?id=1RjqOuB3L2R0lVNIJ4V3oVuoMXLwXRcl3", "import": false },
+     { "name": "     KoreaSeries ", "image": "https://i.ytimg.com/vi/WfD9UzyPmoU/maxresdefault.jpg", 
+     "url": "https://drive.google.com/uc?id=17xLtmyxaRjYC9ShJYr5pZlhb-hzPUMH6", "import": false },
+     { "name": "   chineseSeries ", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKuKrq24o7uiHfaBSQs6XdGA8Kc2h3gl9bg&usqp=CAU", 
+     "url": "https://drive.google.com/uc?id=1AsaXo-YeMB2-i49hOwulJZnCYB_IA3ph", "import": false },
+     { "name": "     ลิงก์จากเพื่อนๆ", "image": "https://static.javatpoint.com/top10-technologies/images/top-10-web-series.png", "url": "https://bit.ly/3KvwpKT", "import": false },
+     { "name": "     Series by web I", "image": "https://www.businessapac.com/wp-content/uploads/2021/11/Web-Series-Featured-Image.jpg", "url": "https://pastebin.com/raw/iL7qYui1", "import": false },
+     { "name": "     Series by web II", "image": "https://www.businessapac.com/wp-content/uploads/2021/11/Web-Series-Featured-Image.jpg", "url": "https://drive.google.com/uc?id=1Fz0q-f6-dy-53a4_5TgQsya6opufMRn8", "import": false },
 
- {
-"name": "       Cinemax HD",
-"image":"http://www.ass-media.de/pic/_data/i/upload/2016/04/01/20160401224718-db74c3a1-me.png",
-"url":"https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=",  "referer": "https://wacth.tv/", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "userAgent": "vlc","playInNatPlayer": "true"},
- {
-"name": "       Cinemax HD",
-"image":"http://www.ass-media.de/pic/_data/i/upload/2016/04/01/20160401224718-db74c3a1-me.png",
-"url":"http://119.59.125.18:8081/live/cinemax1/playlist.m3u8", "userAgent": "vlc","playInNatPlayer": "true"},
+]},	
+     
 
-{"name": "          FOX ",
-"image": "https://seeklogo.com/images/F/Fox-logo-F6A19BA40C-seeklogo.com.png",
-"url": "http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=348064&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
-{"name": "          FOX ",
-"image": "https://seeklogo.com/images/F/Fox-logo-F6A19BA40C-seeklogo.com.png",
-"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=69061&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},	
+     { "name": "       หนังสารคดี", "image": "https://drive.google.com/uc?id=16gzmdHvJ-E4JwH53LkW-iuKnAnpWVdUB", 
+     "url": "https://drive.google.com/uc?id=1yJlGoibluRwglDxSJspLiLUNtAB7tazq", "import": false },      
+     { "name": "หนังออนไลน์ By I3uckhumhyi", "image": "https://static.bangkokpost.com/media/content/20211008/4109515.jpg", 
+     "url": "https://drive.google.com/uc?id=1UefFgdYNh05WNsYD_xEZl_ScW9OdeYa5", "import": false },      
+  
+     { "name": " Movies 4K Daily ", "image": "https://drive.google.com/uc?id=1_4RBbo8Xuu11moQ0aFD0YRL57YsXd2Uu", "url": "https://drive.google.com/uc?id=1yzyeKrhpar8CrpxsRtFd-H9nkUg6x_Y7", "import": false },    
+     
+     {
+      "name":  " IPTV แบ่งปัน ",
+      "author": "(Update realtime) By I3uckhumhyi",
+      "image": "https://sv1.picz.in.th/images/2021/06/29/soFchl.jpg",
+      "groups":
+            [                           
+			{"name":"   TV Online",
+"author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
+"image":"https://lh3.googleusercontent.com/vtO1GOAYW_3MMOgeSImh382QuhXVx4uMRd7nqXoXkAy5Mchy5aWePspuPhztyY8qAtV_",
+"url":"https://script.google.com/macros/s/AKfycbycMvinGvioalpz6z4c2j9uYtLYGZPPRFnMmfqstZRQjo7Yv52YjpkLSLASXhgwZflm/exec",
+"import": "true"},
 
-{
-"name": "    KBS WORLD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",
-"referer":"https://kbsworld-ott.akamaized.net", "url":"https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1"},
-{
-"name": "    KBS WORLD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "    KBS WORLD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",
-"url":"https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-{
-"name": "            KMTV",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",
-"url":"https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-{
-"name": "            KMTV",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=th-kmtv&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "            KMTV",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",
-"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115414&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
-
-{
-"name": "              AXN HD",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "              AXN HD",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8", "referer": "https://freetvdd.com", "info": "Server livescorethai", "desktop": "true"},
-{
-"name": "              AXN HD",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",
-"url":"http://50.7.137.106:8080/AXN/index.m3u8", "info": "Server pnSAT", "desktop": "true"},
-{
-"name":"              AXN HD ",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",
-"url":"https://wacthstream.com/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", "playInNatPlayer":"true"},
-{
-"name": "            Warner TV",
-"image":"http://www.ass-media.de/pic/upload/2016/04/01/20160401230902-552c4db5.png",
-"url":"https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
-"referer": "https://freetvdd.com", "info": "Server livescorethai", "desktop": "true"},
-{
-"name": "            Warner TV",
-"image":"http://www.ass-media.de/pic/upload/2016/04/01/20160401230902-552c4db5.png",
-"url":"https://wacthstream.com/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", "playInNatPlayer":"true"},
-{
-"name": "            Warner TV",
-"image":"http://www.ass-media.de/pic/upload/2016/04/01/20160401230902-552c4db5.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "Paramount CHANNEL",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed.co/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "Paramount CHANNEL",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png",
-"url":"https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-	
-{ 
-name:"HITS",
-image:"https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",
-"url":"http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941578",  "playInNatPlayer":"true" },
-{ 
-name:"HITS",
-image:"https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",
-"url":"https://www.ballnaja.com/television/HITS", "embed": "true"},
-
-{
-name:"HITS MOVIE",
-image:"https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",
-"url":"https://www.ballnaja.com/television/HITS%20Movies", "embed": "true"},
-
-{
-"name": "Hero CHANNEL",
-"image":"https://drive.google.com/uc?id=14mqFU1Rxwmc60U7AwyOH8cuNrbkbIN1Y",
-"url":"https://wacthstream.com/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": "GEM",
-"image":"https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",
-"url":"https://wacthstream.com/stream_live/244_GEM/playlist.m3u8wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-{
-"name": "True CCM",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115636&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
-{
-"name": "True CCM",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115635&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
-{
-"name": "True CCM",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"https://wacthstream.com/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": "CHINESE MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-chinesemore.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "CHINESE MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-chinesemore.png",
-"url":"https://wacthstream.com/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-{
-"name": "CHINESE MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-chinesemore.png",
-"url":"https://www.livedoomovies.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8", "referer": "https://www.i-moviehd.com", "info": "Server wopep", "playInNatPlayer": "true"},
- {
- "name": "ASIAN MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-asianmore.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
- {
- "name": "ASIAN MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-asianmore.png",
-"url":"https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-{
-"name": "KOREAN MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-koreanmore.png",
-url:"http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115675&extension=ts&play_token", "referer": "",  "info": "kungtv", "desktop": "true"},
-{
-"name": "KOREAN MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-koreanmore.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "KOREAN MORE",
-"image": "https://overseer.blackboxsys.net/images/png/hd-koreanmore.png",
-"url":"https://wacthstream.com/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": "True Movie Hits",
-"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "True Movie Hits",
-"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=120",
-"url":"https://wacthstream.com/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": "True Film Asian HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-url:"https://www.ballnaja.com/television/True%20Film%20Asia%20HD", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-{
-"name": "True Film Asian HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-url:"https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "True Film Asian HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://wacthstream.com/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": "True Film 1 HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url": "https://www.ballnaja.com/television/True%20Film%20HD", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-{
-"name": "True Film 1 HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8", 
-"referer": "https://freetvdd.com/", "info": "livescorethai", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",  "playInNatPlayer": "true" },
-{
-"name": "True Film 1 HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-
-{
-"name": "True Film 2 HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://www.ballnaja.com/television/True%20Film%20HD2", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-{
-"name": "True Film 2 HD",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "True Thai Film",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",   
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-{
-"name": "True Thai Film",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
-"url":"https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8", "referer": "https://freetvdd.com", "info": "livescorethai", "playInNatPlayer": "true"},
-{
-"name": "True Thai Film",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png", 
-"url":"https://wacthstream.com/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
-
-{
-"name": " True Series ",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url": "https://www.ballnaja.com/television/True%20Series", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-{
-"name": " True Series ",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
-"info": "Server livescorethai","referer": "https://freetvdd.com", "userAgent": "ExoPlayerLib/2.8.4","playInNatPlayer": "true"},
-{
-"name": " True Series ",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5","isHost": "true", "referer": "https://www.ufazeed2.com/", "info": "ufa", "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktops": "true"},
-
-{
-name:"3BB Asian",
-image:"https://drive.google.com/uc?id=1jsOlylOiyr-SL3vi1Gc5GHtlwbAURzmR",
-url:"https://www.ballnaja.com/television/3BB%20Asian", "info": "ballnaja", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-{
-name:"MONO PLUS",
-image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
-url:"https://www.ballnaja.com/television/MONO29%20Plus", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "embed": "true"},
-
-{  
-name:"CINEMA WROLD",
-image:"https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2-650x209.png",
-url:"https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8?_=1"},
-
-{
-"name": "Movies&sat Asia",
-"image":"https://www.lyngsat.com/logo/tv/mm/movie_sat_asia.png",              
-"url":"http://150.95.25.221:8000/MovieHD%20C%2Dsat?u=IIllOo0OWsdgQqc:p=Po0OoEwxghSAj2",
-"playInNatPlayer": "true"},
-{
-"name": "LiveSky1",
-"image":"https://i.imgur.com/A588Vwm.png",              
-"url":"http://150.95.25.221:8000/LiveSky1?u=IIllOo0OWsdgQqc:p=Po0OoEwxghSAj2",
-"playInNatPlayer": "true"},
-{
-"name": "FWMovie",
-"image":"https://drive.google.com/uc?id=1FDFhof5odRtrAT8Kz5uzUxiOjb6tCYUy",              
-"url":"https://www.inwiptv.com/player_demo.php?channel=95262",
-"playInNatPlayer": "true", referer:"https://www.inwiptv.com/"},
-{
-"name": "FWSeries",
-"image":"https://drive.google.com/uc?id=1CA1NTne6I4_kh0tX50aJQoS-PsgFIdbd",              
-"url":"https://www.inwiptv.com/player_demo.php?channel=94898",
-"playInNatPlayer": "true", referer:"https://www.inwiptv.com/"},
-{
-"name": "FWMOV",
-"image":"https://drive.google.com/uc?id=1uHsj3IHPYSrHBwrWPD8sLqs8t44hQibc",              
-"url":"https://www.inwiptv.com/player_demo.php?channel=89782",
-"playInNatPlayer": "true", referer:"https://www.inwiptv.com/"},
-{   
-"name": "FWSOV",
-"image":"https://drive.google.com/uc?id=18cuLQpoVZEzZzLP8BPLhgQgwdH7TObvI",              
-"url":"https://www.inwiptv.com/player_demo.php?channel=89781",
-"playInNatPlayer": "true" ,referer:"https://www.inwiptv.com/"},
-{
-"name": "Siamnewstv",
-"image": "https://www.muanchononlinenews.com/wp-content/uploads/2022/09/521978-400x400.jpg",
-"url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8", "referer": "","userAgent": "exoplayer","playInNatPlayer": "true","info": ""},
-{
-name:"จอมยุทธ์ HD",
-image:"https://drive.google.com/uc?id=1baZSqNJwMF5F4DpA41M-tB_MEV4zR9cx",
-url:"https://edge6a.v2h-cdn.com/dochannel/dochannel.stream/playlist.m3u8"},
-{
-name:"จอมยุทธ์ HD",
-image:"https://drive.google.com/uc?id=1baZSqNJwMF5F4DpA41M-tB_MEV4zR9cx",
-url:"http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"},
-{  
-name:"มังกร",
-image:"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
-url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"},
-{  
-name:"@TV",
-image:"https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png",
-url:"http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8"},
-{
-"name": "NongkhaiTV HD",
-"image":"https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg",
-"url":"http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8", "referer": "", "info": "ไทยเคเบิล", "desktop": "true"},
-{
-"name": "BOX FILM",
-"image":"https://tv.sritown.com/images/chlogo/box-film.png",
-"url":"https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8",  "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "BOX FILM",
-"image":"https://tv.sritown.com/images/chlogo/box-film.png",
-"url":"http://61.19.242.134/feed/202306140918/LC52/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "SAMURAI",  
-"image": "https://drive.google.com/uc?id=1sWiRSQUbD3wwqYRwc8saoYhhrEPsb30R",  
-"url": "https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "SAMURAI",  
-"image": "https://drive.google.com/uc?id=1sWiRSQUbD3wwqYRwc8saoYhhrEPsb30R",   
-"url": "http://61.19.242.134/feed/202306140918/LC2/index.m3u8",  "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "SUN",  
-"image": "https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo",  
-"url": "https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "SUN",  
-"image": "https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo", 
-"url": "http://61.19.242.134/feed/202306140918/LC1/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "7Flix",  
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",  
-"url": "https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "7Flix",  
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png", 
-"url": "https://cdn6.goprimetime.info/feed/202306140918/LC5/playlist.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-name:"MOVIES WORLD 1 ",
-image:"https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png",
-url:"http://61.19.242.134/feed/202306140918/LC11/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "Server CableTV", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "playInNatPlayer": "true"},
-{
-"name": "CTB",
-"image":"http://www.ass-media.de/pic/_data/i/upload/2016/04/23/20160423003210-fa81358b-2s.png",
-"url":"https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8",
-"playInNatPlayer": "true"},
-{
-"name": "M channel",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9fkMKQv1wlFyxaxcJoWFMdl1-AxvKskx4SA&usqp=CAU",
-"url": "https://www.inwiptv.com/player_demo.php?channel=437", "referer": "https://www.inwiptv.com/", "userAgent": ""},
-{
-"name": "COOL Channal",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png",
-"url":"https://aisplay.ais.co.th/portal/live?vid=5a0bb1e4bf6aee66466d178b","isHost": "true",
-"referer":	"https://ais-vidnt.com", "userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "playInNatPlayer":"true"},
-{
-"name": "Channel 8",
-"image":"http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",
-"url": "https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w2045689098.m3u8",
-"referer": "","playInNatPlayer": "true"},
-{
-"name":"TVB ไทย",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",
-"url":"https://n-edge-1-th.v2h-cdn.com/tvb/tvb_thai/playlist.m3u8", "playInNatPlayer":"true"},
-{
-"name":"TVB ไทย",
-"image":"https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",
-"url":"https://edge6a.v2h-cdn.com/tvb_26/tvb_26.stream/playlist.m3u8", "playInNatPlayer":"true"},
-{
-"name":"Lakorn Thai",
-"image":"https://drive.google.com/uc?id=1q4b5yySIuoEySim4uUu7Z5UP-lpV80ev",
-"url":"https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video","playInNatPlayer": "true"},
-{
-"name":"MEDIA TV",
-"image":"https://mediaplex.co.th/images/logo/mediatv.png",
-"url":"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes","isHost": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+			{"name": "IPTV 1","image": "https://shorturl.asia/zJN2b","url": "https://2nud.short.gy/all.php", "import": "true"},
+			{ "name": "IPTV 2", "image": "https://shorturl.asia/zJN2b",  "url": "https://pastebin.com/raw/Sz2bL85r", "import": false },
+ 			{ "name": "IPTV 3", "image": "https://shorturl.asia/zJN2b",  "url": "https://2nud.short.gy/aisplay.m3u", "import": false },
+ 			{ "name": "Test IPTV", "image": "https://shorturl.asia/zJN2b", "url": "https://pastebin.com/raw/pDJM2xZ2", "import": false },
+ 			{ "name": "Test IPTV", "image": "https://shorturl.asia/zJN2b", "url": "https://mypaste.fun/raw/ij6bi2xaif", "import": false },     
+ 			{ "name": "Test IPTV", "image": "https://shorturl.asia/zJN2b", "url": "https://bit.ly/3GjZs3m", "import": false },     
+  			{ "name": "Test IPTV", "image": "https://shorturl.asia/zJN2b", "url": " ", "import": false },               
+         
+			{ "name":"movie87hd.com", "image": "https://sv1.picz.in.th/images/2022/02/06/nMzU0t.png",
+ "url": "https://drive.google.com/uc?id=1tU4QLG508NqR_1LM1_H4SeNgVqH4gf-9","import": "true"},
+			{"name": "รายการดูทีวีออนไลน์หนัง", "image": "https://dl.dropbox.com/s/offruwv2k2tor63/20220805_064038.jpg?dl=0",
+"url": "http://tiny.cc/freetv2238", "import": "true"},
+			{"name":"     =[XTEMUS TV]=","image":"https://tv.xtemus.com/images/x-logo.gif",
+"url":"https://playlist.xtemus.com/?playlist=t256y454t41554","import": "true"},  
+			{"name": "Bow𝒾𝒾 Fairy Playlist","image":"https://c.tenor.com/7F6k3m2xxZAAAAAj/happy-december1st-angel.gif",
+"url":"http://tiny.cc/v1tsuz","import": "true"},
+			{"name": "สถานีความบันเทิงส่วนตัว","image": "https://lh3.googleusercontent.com/a-/AOh14Gjl1wthNuhqoEbdBiDGUe5t_ll0biVFfCy3EjIupg=s96-c-rg-br100",
+"url": "https://docs.google.com/uc?export=download&id=1kGceVoPwVsBKZhCDsrdNVDf665q-pmby","import": "true"},
+			{"name": "      WIN TV","image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://pastebin.com/raw/YpDkAZPg","import": "true"},
+            { "name": "sodaza IPTV", "image": "https://shorturl.asia/zJN2b", "url": "http://sodaza.link/playlist/m3u/iptv.m3u", "import": false },   
+			{"name": "  📺 AIS PLAY📺","image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+"url": "https://rebrand.ly/aisplaytvlive","import": "true"},
+			{"name": "   FREEDOM TV","image": "https://sv1.picz.in.th/images/2021/12/26/6M7lte.jpg",
+"url": "https://www.dropbox.com/s/vh7ox9gidmjpn4s/รวมช่องwiseplay.txt","import": "true"},
+			{"name": "SUNBUCK COFFEE TV","image": "https://i.gifer.com/QEq.gif",
+"url": "https://drive.google.com/uc?id=12hfnpNPyPzffFo5sYbMEAHgHk6aY7faD","import": "true"},
+			{"name": "IPTV Society","image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+"url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V","import": "true"},
+            {"name": "freetvdd","image": "https://freetvdd.com/wp-content/uploads/2020/02/logo-freetvdd.com_.png",
+"url": "https://drive.google.com/uc?id=1ngWW-K5c3zsuPyE5StUQGmaL9EdVwBjf", "import": "false"},
+            { "name": "นวานเอ็นเตอร์ไพรส์ ", "image": "https://lh3.googleusercontent.com/a-/AOh14Gjl1wthNuhqoEbdBiDGUe5t_ll0biVFfCy3EjIupg=s96-c-rg-br100", 
+"url": "https://bit.ly/3ocSxPJ", "import": false },
+            {"name":  "LIVERPOOL WISPLAY 2","image":  "https://www.dropbox.com/s/24yoic5445pskbo/entertains.gif?dl=1",
+ "url": "https://drive.google.com/uc?id=1uFvQGdFHk7vhQl7dXwq_Q7fLB1Lr9t-p", "import": "false"},              
+            {"name": "       แบทแมน ทีวี", "image":  "https://e7.pngegg.com/pngimages/590/250/png-clipart-batman-joker-cartoon-batman-superhero-logo.png",
+"url":"https://www.dropbox.com/s/z0sajuvht6nhlts/แบทแมน ทีวี (1).txt", "import": "false"},
+            {"name":"Crayon Shin Chan(ชินจัง จอมแก่น)","image":"https://drive.google.com/uc?id=1GrsyYWsYS7BAYaV5uJbSqGh7RPEr64ar", 
+"url":"http://tiny.cc/bqamuz", "import": "false"},
+            {"name": "MY ZONE","image": "https://i.gifer.com/g2Gn.gif",
+"url": "https://docs.google.com/uc?export=download&id=1OI-WsMRHFuiQTj0xVNcL1TCAqWr7qBRH", "import": "false"},
+            { "name": "info IPTV", "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/24160179/1499535100.jpg", 
+"url": "https://drive.google.com/uc?id=1TKNEFDxE-ViFgJDe8WnD4TSc4FEv5KOU", "import": false },
+            { "name": "Test IPTV", "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/24160179/1499535100.jpg", 
+"url": "https://drive.google.com/uc?id=1gx-a0XybcAPh9xVFtpMfFRihZidLy0xp", "import": false },
+            { "name": "Test XXX", "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/24160179/1499535100.jpg", 
+"url": "https://pastebin.com/raw/M6FnR3MR", "import": false },
+            { "name": "", "image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW", 
+"url": "https://drive.google.com/uc?id=1f_mk4qdN23OTpTmM0f_co6N_a4_I-cYB", "import": false },]},  
 
 
-]
-}
-https://m2.ballnaja.com/live/HBOHD/chunks.m3u8
-{
-"name": "    KBS WORLD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png",
-"referer":"https://freetvdd.com/", "info"		: "livescorethai", "url":"https://streaming.livescorethai.net/iptv/hd-kbsworld.stream/playlist.m3u8"},
+]},]},
+https://www.dropbox.com/s/87vifo3yfif9vg6/Radio8.txt?dl=1
+https://dl.dropbox.com/s/h5m8j7i3eyq742q/Radio.w3u?dl=0
+
+https://bit.ly/3mN5zTr 
+http://w3ubin.com/nXA6uUm4R.w3u
+
+     { "name": "หนังออนไลน์ By RealTV ", "image": "https://static.bangkokpost.com/media/content/20211008/4109515.jpg", "url": "https://dl.dropbox.com/s/pshmu9i21sdstlk/Movie%20Station2.txt?", "import": false }, 
+ 
+     { "name": " Movies 4K Daily ", "image": "https://drive.google.com/uc?id=1_4RBbo8Xuu11moQ0aFD0YRL57YsXd2Uu", "url": "https://drive.google.com/uc?id=1yzyeKrhpar8CrpxsRtFd-H9nkUg6x_Y7", "import": false },    
+
+     { "name": "หนังออนไลน์ By guflix ", "image": "https://drive.google.com/uc?id=1_4RBbo8Xuu11moQ0aFD0YRL57YsXd2Uu", "url": "http://guflix.streaming-fast.com/vip_wiseplay/apk/siamtv/gudoofree.php", "import": false },  
