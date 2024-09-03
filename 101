@@ -1,3 +1,108 @@
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Sports 4
+https://media.wacthstream.com/stream_live/669_Ts_HD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=?|Referer=https://wacth.tv
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sports 5
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/th-sport/truesport7/chunks.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
+https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://media.wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+
+
+#EXTINF:-1 group-title="NO",
+
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+
+#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+
+#EXTINF:-1 group-title="NO",
+
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+**********************************
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 1
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T0wwMDE/HLS/T0wwMDE.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 2
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2x5bXBpYzIwMjRfMDI/HLS/T2x5bXBpYzIwMjRfMDI.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 3
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/MjAyNF9wbGF5MDNfb2x5bXBpYw/HLS/MjAyNF9wbGF5MDNfb2x5bXBpYw.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 4
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/QmFkUGF0aDBT/HLS/QmFkUGF0aDBT.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 5
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U3RyZWFtU2VjcmV0/HLS/U3RyZWFtU2VjcmV0.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 6
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U2VjdXJlUGF0aA/HLS/U2VjdXJlUGF0aA.m3u8
+
+#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 7
+https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2JmdXNjYXRlZA/HLS/T2JmdXNjYXRlZA.m3u8
+
+#EXTINF:-1 group-title="NO",
+
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k5f2ezykuf7bu0lo89n6m/3bb-asian.png?rlkey=46jhafjb478nhlq6rgitqsyiv&dl=0" group-title="Movie", 3BB ASIAN 
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 
@@ -57,23 +162,23 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 group-title="NO",
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjQgNDo0MDozOSBBTSZoYXNoX3ZhbHVlPW0vVzhwMGRIYkFjZGRHbDAva2ZYTFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",HBO Hits
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20231222084329hbo-signature.png",HBO Signature
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="", HBO Family
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s", HBO Family
+#EXTVLCOPT:http-referrer=
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="",CINEMAX
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+#EXTVLCOPT:http-referrer=
 
 
 #EXTINF:-1 group-title="NO",
@@ -146,7 +251,7 @@ https://media.wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSi
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp", True Spark Play
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
 
 #EXTINF:-1 group-title="NO",
@@ -162,12 +267,12 @@ https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSig
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_explore_wild.png", TRUE EXPLORE WILD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=
 
 
 
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uids4e5wv031u8jj4xr2l/True-Explore-LIFE.png?rlkey=u0rg072ubg2jj341cbfk549xj&st=qcrxt0yr&dl=0" group-title="Discovery",True Explore LIFE
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
@@ -195,11 +300,11 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="",BBC EARTH 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10",BBC EARTH 
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 
 
-#EXTINF:-1 group-title="Discovery" tvg-logo="",BBC LIFESTYLE 
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaYaPdmg8SR7MfcEtQ3Rz0HLQFjWa8U2nihueUYPfB9SGVvd7urjctm21&s=10",BBC LIFESTYLE 
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 
 
@@ -231,7 +336,11 @@ http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/3764.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png" group-title="Music",Deluxe Music 
 http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/3760.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music",XITE
+http://raos101.com:80/live/tuncayefe/neKD62nrcC/262861
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZPQKyJXtDp0hRUQPqfHvQ5bAnC9TfvcuImSs_B-LQLU3Ju0AI2_rLoVp&s=10" group-title="Music",nickmusic
+http://raos101.com:80/live/tuncayefe/neKD62nrcC/262863
 
 #EXTINF:-1 group-title="NO",
 
@@ -242,12 +351,12 @@ http://vip.x4406x.xyz:2095/live/Serdarkesecek/a2b89b28614afb17/3760.ts
 🗞NEWS
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTC_on99VkhiKHxMJG1d6q9OuzKjsmagH-o4r60NTm6blZ-vGheip8mA&s=10" group-title="News",CNN 
-
+http://raos101.com:80/live/tuncayefe/neKD62nrcC/268953
 
 #EXTINF:-1 tvg-id="US: FOX NEWS EAST" tvg-name="USA |  FOX NEWS" tvg-logo="https://www.noisejournal.com/wp-content/uploads/2014/04/Fox-News-Logo.png" group-title="News", FOX NEWS
 http://likea8bitboss.xyz:80/Oscar/9562340178/76778
 
-#EXTINF:-1 tvg-id="bbc.news.gb" tvg-name="UK011:BBC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK011BBCNews.png" group-title="News", BBC News
+#EXTINF:-1 tvg-id="bbc.news.gb" tvg-name="UK011:BBC News" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj" group-title="News", BBC News
 http://yesimes.oknirvana.club:8880/Maarten/4MartenOn/2946
 
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://img.inwiptv.net/postor/20200314132647Bloomberg.jpg" group-title="News",Bloomberg
@@ -274,111 +383,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 
 *****************************
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Sports 4
-https://media.wacthstream.com/stream_live/669_Ts_HD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=?|Referer=https://wacth.tv
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sports 5
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/th-sport/truesport7/chunks.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/a7njvpY.png", True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/UQxhKDj.png", True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/JTgYIDr.png", True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/RDxXVO5.png", True Premier Football HD 4
-https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://www.siammovie-hd.com/
-https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
-
-#EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
-
-#EXTINF:-1 group-title="NO",
-
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
-#EXTINF:-1 group-title="NO",
-
-**********************************
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 1
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T0wwMDE/HLS/T0wwMDE.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 2
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2x5bXBpYzIwMjRfMDI/HLS/T2x5bXBpYzIwMjRfMDI.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 3
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/MjAyNF9wbGF5MDNfb2x5bXBpYw/HLS/MjAyNF9wbGF5MDNfb2x5bXBpYw.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 4
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/QmFkUGF0aDBT/HLS/QmFkUGF0aDBT.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 5
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U3RyZWFtU2VjcmV0/HLS/U3RyZWFtU2VjcmV0.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 6
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/U2VjdXJlUGF0aA/HLS/U2VjdXJlUGF0aA.m3u8
-
-#EXTINF:-1 group-title="THSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/2024_Summer_Paralympics_logo.svg/330px-2024_Summer_Paralympics_logo.svg.png", Paralimpic 7
-https://d2caa6z1j4gcpt.cloudfront.net/live/eds/T2JmdXNjYXRlZA/HLS/T2JmdXNjYXRlZA.m3u8
-
-#EXTINF:-1 group-title="NO",
-
 
 
 
