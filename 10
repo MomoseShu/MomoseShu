@@ -58,7 +58,7 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 #EXTVLCOPT:http-referrer=https://dookeela.live/
-
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjQgNDo0MDozOSBBTSZoYXNoX3ZhbHVlPW0vVzhwMGRIYkFjZGRHbDAva2ZYTFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-hits.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela.live/
@@ -314,8 +314,8 @@ https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2
 https://iptv-th.com:443/play/cgi3Vu4KHTlfKImhvoBfMOzHg9Y6IRIB6DGajUQFybk/.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.siammovie-hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="NO",
 
