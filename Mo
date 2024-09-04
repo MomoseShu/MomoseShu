@@ -1,0 +1,32 @@
+#EXTINF:-1 group-title="Movie" tvg-logo="",
+
+
+#EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uids4e5wv031u8jj4xr2l/True-Explore-LIFE.png?rlkey=u0rg072ubg2jj341cbfk549xj&st=qcrxt0yr&dl=0" group-title="Discovery",True Explore LIFE
+#EXTVLCOPT:http-referrer=https://wacth.tv/ 
+https://media.wacthstream.com/stream_live/560_EXPLORE_LIFE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+https://2nud.short.gy/truelife.mpd
+
+#EXTINF:-1,life
+http://playtv.my.id/play/sparkplay.m3u8
+
+#EXTINF:-1,bein3
+http://playtv.my.id/play/bein3.m3u8
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp", True Spark Play
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", sparkplay
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+https://2nud.short.gy/truesparkplay.mpd
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", sparkplay2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+https://2nud.short.gy/sparkplay.mpd
