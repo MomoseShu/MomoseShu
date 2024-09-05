@@ -8,3 +8,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0035/DASH/V0035.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0311/DASH/V0311.mpd
+
+#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="http://tvsmagazine.com/images/channels/sm_212.jpg" group-title="Documentary",TH GEM-wacth
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://media.wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
