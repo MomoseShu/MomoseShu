@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-logo="" group-title="",expwild1
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",film2
+#EXTVLCOPT:http-referrer=https://cdn3099.google-streams.com
+https://cdn3099.google-streams.com:9092/v5/vawglaehRHIPq99t9y4M5w/1725939013/c6957a4f1b87569b873ed3f93b537a4a/m3HNSpWmJ5LI4hGAseYobA/1725949693/live/dx-origin/hd-tfilm2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",film22
+#EXTVLCOPT:http-referrer=https://dooball66x.com/
+https://cdn3099.google-streams.com:9092/v5/vawglaehRHIPq99t9y4M5w/1725939013/c6957a4f1b87569b873ed3f93b537a4a/m3HNSpWmJ5LI4hGAseYobA/1725949693/live/dx-origin/hd-tfilm2_720/chunks.m3u8
