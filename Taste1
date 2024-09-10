@@ -1,0 +1,21 @@
+
+#EXTINF:-1 group-title="" tvg-logo="",33
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cco-streamer1.cdn.Aistv.com:8443/AIS/live/33/33.mpd
+
+
+#EXTINF:-1 group-title="" tvg-logo="",34
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cco-streamer1.cdn.aistv.com:8443/ais/live/34/34.mpd
+
+#EXTINF:-1 group-title="" tvg-logo="",35
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cco-streamer1.cdn.aisplay.com:8443/AIS/live/35/35.mpd
+
+
+
+
+
