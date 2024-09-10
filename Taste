@@ -1,0 +1,33 @@
+#EXTINF:-1 tvg-logo="" group-title="",film2
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/truefilm2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",life
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/trueexplorelife/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",elife
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/explorelife/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",dreamwork
+#EXTVLCOPT:http-referrer=https:/dreamwork/dooballx.com/
+https://cdn1.googlecdn.live/dooballx//chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="",Warner TV 
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/warnertv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="",epl1
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/truepremierfootball1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",ep1
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/epl1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",f2
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/film2/chunks.m3u8
