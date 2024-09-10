@@ -287,9 +287,8 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhPlBfK.png" group-title="Kids", Cartoon Network 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://sv2.wacthstream.com/wacth_tv/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIzIDI6MDg6MTUgUE0maGFzaF92YWx1ZT1VUGo1aVdwYjkwOGlRTXhZWjMySFlRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTI4MTg=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5W9ualK0skl8dQD0FjQDCTK1ruAsm6RwRA&s" group-title="Kids",Cartoonito
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
