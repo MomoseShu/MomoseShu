@@ -180,14 +180,12 @@ https://media.wacthstream.com/stream_live/237_TrueFilmAsia./playlist.m3u8?wmsAut
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD 2
-#EXTVLCOPT:http-referrer=https://dooball66x.com/ 
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD 2 
+https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/drlu5bv4w0ob3guixu9nh/MOVIEHITM.png?rlkey=rqeir3hkbbb8j8y6x00e5xhl6&dl=0",True Movie Hits 
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNR3aqPxvCkdRp5mEfLKhGVmW9QRp0RovcQ&usqp=CAU", Rock Entertainment 
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -201,11 +199,9 @@ https://media.wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuth
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie",Warnner tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/110/110.mpd
-
+#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie",Warnner TV
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="Movie", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,25 +280,20 @@ https://media.wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png" group-title="Kids", Cartoon Club 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/305/305.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png" group-title="Kids", Cartoon Club 
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png" group-title="Kids",Boomerang 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/306/306.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png" group-title="Kids",Boomerang 
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://i.imgur.com/UhPlBfK.png" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UhPlBfK.png" group-title="Kids", Cartoon Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5W9ualK0skl8dQD0FjQDCTK1ruAsm6RwRA&s" group-title="Kids",Cartoonito
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5W9ualK0skl8dQD0FjQDCTK1ruAsm6RwRA&s" group-title="Kids",Cartoonito
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_320.webp", Dreamworks 
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -327,7 +318,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 
 **************************************
-
 
 
 🦣Discovery 
@@ -362,8 +352,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/222/222.mpd
 https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
 
 #EXTINF:-0 tvg-id="Discovery" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uids4e5wv031u8jj4xr2l/True-Explore-LIFE.png?rlkey=u0rg072ubg2jj341cbfk549xj&st=qcrxt0yr&dl=0" group-title="Discovery",True Explore LIFE
-#EXTVLCOPT:http-referrer=https://dooball66x.com/ 
-
+#EXTVLCOPT:http-referrer=https://dookeela.live/ 
+https://dookeela.live/live-tv/trueexplorelife
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp", TRUE EXPLORE SCI
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -451,11 +441,42 @@ http://nett-tv.vip:80/1jqv55tnya/1dxd2x9474/628947
 ***********************************
 
 
+🗞NEWS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTC_on99VkhiKHxMJG1d6q9OuzKjsmagH-o4r60NTm6blZ-vGheip8mA&s=10" group-title="News",CNN 
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/BBCWorldNews.jpg" group-title="News",BBC NEWS 
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://media.wacthstream.com/stream_live/780_BBC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+
+#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Bloombergtv.png" group-title="News",Bloomberg 
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="News", CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI0IDExOjE5OjM1IEFNJmhhc2hfdmFsdWU9bmJTRCtPU2VpU0lOS2dES0ZyOEg3UT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/CCTV4.png" group-title="News",CCTV4
+https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/aljazeera.png" group-title="News",Al Jazeera 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/cna.png" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+#EXTINF:-1 group-title="NO",
+
+
+*****************************
+
+
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
+https://cdn1.googlecdn.live/dooballx/tsp1/chunks.m3u8|Referer=https://dooballx.com/
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8|Referer=https://ufabetcompany.app/football-channel/
+https://cdn1.googlecdn.live/dooballx/tsp2/chunks.m3u8|Referer=https://dooballx.com/
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com
@@ -469,8 +490,8 @@ https://media.wacthstream.com/stream_live/669_Ts_HD4/playlist.m3u8?wmsAuthSign=c
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-12/chunks.m3u8
 
 #EXTINF:-1 group-title="NO",
 
@@ -492,8 +513,8 @@ https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2
 https://media.wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ytkGPTw.png", True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://sport.livedoomovies.com
-https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://media.wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
 
 #EXTINF:-1 group-title="NO",
@@ -512,20 +533,41 @@ https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
+#EXTINF:-0 tvg-logo="https://i.imgur.com/mWzwSih.png" group-title="THSport",beIN SPORTS 4
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/YI7OifN.png" group-title="THSport",beIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/9iRlZ3z.png" group-title="THSport",beIN SPORTS 6
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/7lMqpfC.png" group-title="THSport",beIN SPORTS 7
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.imgur.com/PS4DpAy.png" group-title="THSport",beIN SPORTS 8
+#EXTVLCOPT:http-referrer=https://dooballx.com/
+https://cdn1.googlecdn.live/dooballx/bein8/chunks.m3u8
+
+
 #EXTINF:-1 group-title="NO",
 
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/YcwVBuV.png", SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/jNGKqyQ.png", SPOTV2 
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png",True Tennis HD
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -539,6 +581,8 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
 #EXTINF:-1 group-title="NO",
+
+
 
 
 
