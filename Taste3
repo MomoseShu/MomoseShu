@@ -9,3 +9,12 @@ https://cdn3099.google-streams.com:9092/v5/vawglaehRHIPq99t9y4M5w/1725939013/c69
 #EXTINF:-1 tvg-logo="" group-title="",film22
 #EXTVLCOPT:http-referrer=https://dooball66x.com/
 https://cdn3099.google-streams.com:9092/v5/vawglaehRHIPq99t9y4M5w/1725939013/c6957a4f1b87569b873ed3f93b537a4a/m3HNSpWmJ5LI4hGAseYobA/1725949693/live/dx-origin/hd-tfilm2_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="",fmo
+#EXTVLCOPT:http-referrer=https://uhdmax.net/
+https://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI0IDM6NDM6NDQgQU0maGFzaF92YWx1ZT1vNm1weGV2VE5CSWU5N0wzVGQwdUpnPT0mdmFsaWRtaW51dGVzPTI=&demo 
+
+#EXTINF:-1 tvg-logo="" group-title="",ftoon
+#EXTVLCOPT:http-referrer=https://freelive2.inwstream.com
+https://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI0IDM6NDQ6MzggQU0maGFzaF92YWx1ZT1tQnNYb2lybHcxa1VyNG1TVFRMdXJnPT0mdmFsaWRtaW51dGVzPTI=&demo 
