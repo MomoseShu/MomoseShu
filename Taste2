@@ -1,0 +1,7 @@
+#EXTINF:-1 tvg-logo="" group-title="",expwild
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",expwild1
+#EXTVLCOPT:http-referrer=https://www.livedoomovies.com/
+https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8
