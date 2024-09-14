@@ -43,6 +43,38 @@
           "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uPqAW07bGoljf3cmT5gecdOvVol-230x315-c-default.webp",
           "url": "https://streamhls.com/view/bd8f3e56-1903-596b-807a-52d866499850.m3u8",
           "referer": "https://www.9nunghd.com/"
+       }
+      ]
+    },
+{
+   "name": "Transformers",
+   "image": "https://mono29.com/app/wp-post-thumbnail/iifJij.jpg
+",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Transformers 1 (2007)",
+     "info": "พากย์ไทย",
+     "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/v8LwKznSXAq3FZ08nvXK5aZNGki.jpg",
+     "url": "https://cnn.nebulamov.com/src/hls/TH_Transformers_1_2007_155957_04-01-09am_2022-10-29_hls.m3u8/TH_Transformers_1_2007_155957_04-01-09am_2022-10-29_hls.m3u8",
+    },
+    {
+     "name": "Transformers 2 (2009)",
+     "info": "พากย์ไทย",
+     "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/gjv8ck2lq11BJAnNW8zVcfo3dNS.jpg",
+     "url": "https://cnn.nebulamov.com/src/hls/TH_Transformers_2_Revenge_Of_The_Fallen_2009_146718_04-20-40am_2022-10-29_hls.m3u8/TH_Transformers_2_Revenge_Of_The_Fallen_2009_146718_04-20-40am_2022-10-29_hls.m3u8",
+    },
+    {
+     "name": "Transformers 3 (2011)",
+     "info": "พากย์ไทย",
+     "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/pbHBb39fvnjDHRx2gZAgDDAJoA5.jpg",
+     "url": "https://cnn.nebulamov.com/src/hls/TH_Transformers_3_Dark_Of_The_Moon_2011_186021_05-32-38am_2022-10-29_hls.m3u8/TH_Transformers_3_Dark_Of_The_Moon_2011_186021_05-32-38am_2022-10-29_hls.m3u8",
+    },
+    {
+     "name": "Bumblebee (2018)",
+     "info": "พากย์ไทย",
+     "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/6WFOKsqhtf15NalkowPqFpnkRn2.jpg",
+     "url": "https://cnn.nebulamov.com/src/hls/th_Bumblebee_2018_129590_05-49-48pm_2022-10-29_hls.m3u8/th_Bumblebee_2018_129590_05-49-48pm_2022-10-29_hls.m3u8"
         }
       ]
     }
