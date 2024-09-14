@@ -1,0 +1,53 @@
+{
+"name": "หนังนอก",
+"author": "Momose",
+"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/FMovie",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4NKiJLl-GYAiavBm5KfO3LbK19DeYvv8_DeNlykjkg2iX93poHQHQOZy&s=10",
+"groups": [
+{
+      "name": "Elysium (2013) เอลิเซียม ปฏิบัติการยึดดาวอนาคต ",
+      "image": "https://movie2free.tv/wp-content/uploads/2023/12/Elysium-2013-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95.jpg-345x522.webp",
+      "info": "HD()",
+      "stations": [
+        {
+          "name": " Elysium (2013) เอลิเซียม ปฏิบัติการยึดดาวอนาคต",
+          "info": "พากย์ไทย",
+          "image": "https://movie2free.tv/wp-content/uploads/2023/12/Elysium-2013-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95.jpg-345x522.webp",
+          "url": "https://stream1.movie2free.tv/cdn/down/0a7200f00f50d13fad2f160f86456b82/video/800p.m3u8",
+          "referer": "https://movie-th.tv/"
+       }
+      ]
+    },
+{
+      "name": " Free Guy ขอสักทีพี่จะเป็นฮีโร่ พากย์ไทย (2021)",
+      "image": "https://assets.beartai.com/uploads/2021/10/free_guy_ver6-500x714.jpg",
+      "info": "HD()",
+      "stations": [
+        {
+          "name": " Free Guy ขอสักทีพี่จะเป็นฮีโร่ พากย์ไทย (2021)",
+          "info": "พากย์ไทย",
+          "image": "https://assets.beartai.com/uploads/2021/10/free_guy_ver6-500x714.jpg",
+          "url": "https://cnn.nebulamov.com/src/hls/Free_Guy_2021_178980_12-57-40am_2022-10-08_hls.m3u8/Free_Guy_2021_178980_12-57-40am_2022-10-08_hls.m3u8",
+          "referer": "https://movie-th.tv/"
+       }
+      ]
+    },
+{
+      "name": " Gods of Egypt (2016) สงครามเทวดา",
+      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uPqAW07bGoljf3cmT5gecdOvVol-230x315-c-default.webp",
+      "info": "HD()",
+      "stations": [
+        {
+          "name": " Gods of Egypt (2016) สงครามเทวดา",
+          "info": "พากย์ไทย",
+          "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uPqAW07bGoljf3cmT5gecdOvVol-230x315-c-default.webp",
+          "url": "https://streamhls.com/view/bd8f3e56-1903-596b-807a-52d866499850.m3u8",
+          "referer": "https://www.9nunghd.com/"
+        }
+      ]
+    }
+
+
+
+  ]
+}
