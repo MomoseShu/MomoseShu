@@ -1,7 +1,7 @@
 {
 "name": "หนังนอก",
 "author": "Momose",
-"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/FMovie",
+"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4NKiJLl-GYAiavBm5KfO3LbK19DeYvv8_DeNlykjkg2iX93poHQHQOZy&s=10",
 "groups": [
 {
@@ -43,6 +43,141 @@
           "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uPqAW07bGoljf3cmT5gecdOvVol-230x315-c-default.webp",
           "url": "https://streamhls.com/view/bd8f3e56-1903-596b-807a-52d866499850.m3u8",
           "referer": "https://www.9nunghd.com/"
+       }
+      ]
+    },
+  {
+      "name": "Transformers",
+      "author":  "",
+      "image": "https://mono29.com/app/wp-post-thumbnail/iifJij.jpg",
+      "stations": [
+        {
+"name"      :            "Transformers 1 2007 ภาคไทย ",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v8LwKznSXAq3FZ08nvXK5aZNGki.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/TH_Transformers_1_2007_155957_04-01-09am_2022-10-29_hls.m3u8/TH_Transformers_1_2007_155957_04-01-09am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+
+        {
+"name"      :            "Transformers 1 2007 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v8LwKznSXAq3FZ08nvXK5aZNGki.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_w_sub_Transformers_1_2007_136094_04-01-14am_2022-10-29_hls.m3u8/EN_w_sub_Transformers_1_2007_136094_04-01-14am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 2 2009 Revenge Of The Fallen 2009 ภาคไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gjv8ck2lq11BJAnNW8zVcfo3dNS.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/TH_Transformers_2_Revenge_Of_The_Fallen_2009_146718_04-20-40am_2022-10-29_hls.m3u8/TH_Transformers_2_Revenge_Of_The_Fallen_2009_146718_04-20-40am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+        {
+"name"      :            "Transformers 2 2009 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gjv8ck2lq11BJAnNW8zVcfo3dNS.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_w_sub_Transformers_2_Revenge_Of_The_Fallen_2009_173062_04-19-42am_2022-10-29_hls.m3u8/EN_w_sub_Transformers_2_Revenge_Of_The_Fallen_2009_173062_04-19-42am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 3 2011 Dark of The Moon ภาคไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pbHBb39fvnjDHRx2gZAgDDAJoA5.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/TH_Transformers_3_Dark_Of_The_Moon_2011_186021_05-32-38am_2022-10-29_hls.m3u8/TH_Transformers_3_Dark_Of_The_Moon_2011_186021_05-32-38am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 3 2011 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pbHBb39fvnjDHRx2gZAgDDAJoA5.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_w_sub_Transformers_3_Dark_Of_The_Moon__2011_194612_05-31-52am_2022-10-29_hls.m3u8/EN_w_sub_Transformers_3_Dark_Of_The_Moon__2011_194612_05-31-52am_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 4 2014 Age of Extinction ภาคไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/wnYaT3SmpDGC6jvb10zY7wCWS9o.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/TH_Transformers_4_Age_Of_Extinction_141602_05-08-31pm_2022-10-29_hls.m3u8/TH_Transformers_4_Age_Of_Extinction_141602_05-08-31pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 4 2014 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/wnYaT3SmpDGC6jvb10zY7wCWS9o.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_Transformers_4_Age_Of_Extinction__2014_179676_05-07-25pm_2022-10-29_hls.m3u8/EN_Transformers_4_Age_Of_Extinction__2014_179676_05-07-25pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+        {
+"name"      :            "Transformers 5 The Last Knight 2017 ภาคไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/mJymOwbOGDmIRukJ9xo3Jm23hjm.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/TH_Transformers_5_The_Last_Knight__2017_195200_05-29-03pm_2022-10-29_hls.m3u8/TH_Transformers_5_The_Last_Knight__2017_195200_05-29-03pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+
+        {
+"name"      :            "Transformers 5 2017 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/mJymOwbOGDmIRukJ9xo3Jm23hjm.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_Transformers_5_The_Last_Knight_2017_125160_05-29-08pm_2022-10-29_hls.m3u8/EN_Transformers_5_The_Last_Knight_2017_125160_05-29-08pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+        {
+"name"      :            "Bumblebee 2018 ภาคไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6WFOKsqhtf15NalkowPqFpnkRn2.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/th_Bumblebee_2018_129590_05-49-48pm_2022-10-29_hls.m3u8/th_Bumblebee_2018_129590_05-49-48pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+        {
+"name"      :            "Bumblebee 2018 ซัพไทย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6WFOKsqhtf15NalkowPqFpnkRn2.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_Bumblebee__2018__166514_05-48-11pm_2022-10-29_hls.m3u8/EN_Bumblebee__2018__166514_05-48-11pm_2022-10-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+{"name"		: "TRANSFORMERS: RISE OF THE BEASTS (2023) ทรานส์ฟอร์เมอร์ส: กำเนิดจักรกลอสูร", 
+"info"		: " พากย์ไทย ", 
+"image"		: "https://www.giantfreakinrobot.com/wp-content/uploads/2023/06/transformers-rise-of-the-beasts-promotional-art.jpg", 
+"url"		: "https://streamhls.com/view/205360da-eaea-527b-9ccf-97244ce044ed.m3u8", 
+"playInNatPlayer" : "true"},
+
+{"name"		: "TRANSFORMERS: RISE OF THE BEASTS (2023) ทรานส์ฟอร์เมอร์ส: กำเนิดจักรกลอสูร", 
+"info"		: " ซับไทย  ", 
+"image"		: "https://www.giantfreakinrobot.com/wp-content/uploads/2023/06/transformers-rise-of-the-beasts-promotional-art.jpg", 
+"url"		: "https://streamhls.com/view/df503428-91d7-55f0-ae5a-d7ecc4c20f45.m3u8", 
+"playInNatPlayer" : "true"},
         }
       ]
     }
