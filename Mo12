@@ -1,4 +1,10 @@
 {
+"name": "หนังนอกจ้า",
+"author": "Momose",
+"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4NKiJLl-GYAiavBm5KfO3LbK19DeYvv8_DeNlykjkg2iX93poHQHQOZy&s=10",
+"groups": [
+{
    "name": "Jumanji",
    "info": "",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2695/cover-thumb/20220609140245dClr.jpg",
