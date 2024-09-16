@@ -618,7 +618,127 @@
           "url": "https://hot.24playerhd.com/ioshls/c452b5593da714955338688b21b9c05f/c452b5593da714955338688b21b9c05f.m3u8",
           "referer": ""
         }
+      ]
+    },
+{     
+      "name": "21 Jump Street",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
+      "info": "TH/EN(HD)",
+      "stations": [
+        {
+          "name": "21 Jump Street",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/4430330ba5ab5a24a4fc779e/4430330ba5ab5a24a4fc779e168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "21 Jump Street",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/b2ab95143c28900ce53322bf/b2ab95143c28900ce53322bf168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "22 Jump Street",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/5b1c361a951324cfc33705dd/5b1c361a951324cfc33705dd168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "22 Jump Street",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/2aa923339108427d8aaf2f06/2aa923339108427d8aaf2f06168.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+{     
+      "name": "Zombieland",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+      "info": "TH/EN(HD)",
+      "stations": [
+        {
+          "name": "Zombieland ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Zombieland ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/d2471066c8c2f39aeb06c98e/d2471066c8c2f39aeb06c98e168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Zombieland ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/6f5eaa448446b209e3b6f046/6f5eaa448446b209e3b6f046168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Zombieland ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/00aa1dccf34417b533e4f9bd/00aa1dccf34417b533e4f9bd168.m3u8",
+          "referer": ""
+        }
+      ]
+    },
+{    
+       "name": "Divergent (2014) คนแยกโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+      "info": "TH/EN(HD)",
+      "stations": [
+        {
+          "name": "Divergent 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/9929f4b2a0d8606af858e35d0cb345c0/9929f4b2a0d8606af858e35d0cb345c0.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Divergent 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/edfa427e626114c8206574cde611f021/edfa427e626114c8206574cde611f021.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Insurgent",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/50b824bacc607db5a3bb3be7a730294c/50b824bacc607db5a3bb3be7a730294c.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Insurgent",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/e1085940817663e84c35cd4f505f9f6d/e1085940817663e84c35cd4f505f9f6d.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Allegiant",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/c836c2602c5df51698a39529748eb2e7/c836c2602c5df51698a39529748eb2e7.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "Allegiant",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/22b839168bc2e3615c6e22ee0e858fd6/22b839168bc2e3615c6e22ee0e858fd6.m3u8",
+          "referer": ""      
+}
    ]
   }
  ]
 }
+
