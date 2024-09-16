@@ -309,6 +309,69 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/3d08862ed90ad20a6c7b66df/3d08862ed90ad20a6c7b66df438.m3u8",
           "referer": ""
+ }
+      ]
+    },
+{
+      "name": "John Wick (2014) จอห์นวิค แรงกว่านรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+      "info": "TH/EN(HD)",
+      "stations": [
+        {
+          "name": "John Wick ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/84f061a6ad83c75cf26c0b14/84f061a6ad83c75cf26c0b14168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/2e2b27b9af1ad76cc27f1da8/2e2b27b9af1ad76cc27f1da8168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/ccca3228051f1e87b53a11b1/ccca3228051f1e87b53a11b1168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/c4dd4eba8be083e32754fae1/c4dd4eba8be083e32754fae1168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/1965ee729029e77d03f87920/1965ee729029e77d03f87920168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/8a21ef1c821e11355e83bcab/8a21ef1c821e11355e83bcab168.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/d4ed07846921df1d4da4021c/d4ed07846921df1d4da4021c438.m3u8",
+          "referer": ""
+        },
+        {
+          "name": "John Wick ภาค 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/731dee99fae43734d38690bb/731dee99fae43734d38690bb438.m3u8",
+          "referer": ""
 }
    ]
   }
