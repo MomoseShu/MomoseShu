@@ -1,862 +1,217 @@
 {
-"name": "หนังนอก",
-"author": "Momose",
-"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4NKiJLl-GYAiavBm5KfO3LbK19DeYvv8_DeNlykjkg2iX93poHQHQOZy&s=10",
-"groups": [
+   "name": "Jumanji",
+   "info": "",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2695/cover-thumb/20220609140245dClr.jpg",
+   "stations": [
 {
-      "name": "Elysium (2013) เอลิเซียม ปฏิบัติการยึดดาวอนาคต ",
-      "image": "https://movie2free.tv/wp-content/uploads/2023/12/Elysium-2013-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95.jpg-345x522.webp",
-      "info": "HD()",
-      "stations": [
-        {
-          "name": " Elysium (2013) เอลิเซียม ปฏิบัติการยึดดาวอนาคต",
-          "info": "พากย์ไทย",
-          "image": "https://movie2free.tv/wp-content/uploads/2023/12/Elysium-2013-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95.jpg-345x522.webp",
-          "url": "https://stream1.movie2free.tv/cdn/down/0a7200f00f50d13fad2f160f86456b82/video/800p.m3u8",
-          "referer": "https://movie-th.tv/"
-       }
-      ]
-    },
-{
-      "name": " Free Guy ขอสักทีพี่จะเป็นฮีโร่ พากย์ไทย (2021)",
-      "image": "https://assets.beartai.com/uploads/2021/10/free_guy_ver6-500x714.jpg",
-      "info": "HD()",
-      "stations": [
-        {
-          "name": " Free Guy ขอสักทีพี่จะเป็นฮีโร่ พากย์ไทย (2021)",
-          "info": "พากย์ไทย",
-          "image": "https://assets.beartai.com/uploads/2021/10/free_guy_ver6-500x714.jpg",
-          "url": "https://cnn.nebulamov.com/src/hls/Free_Guy_2021_178980_12-57-40am_2022-10-08_hls.m3u8/Free_Guy_2021_178980_12-57-40am_2022-10-08_hls.m3u8",
-          "referer": "https://movie-th.tv/"
-       }
-      ]
-    },
-{
-      "name": "Blade (1998) เบลด พันธุ์ฆ่าอมตะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Blade 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/8f17ff15a13833dbf0c58490f7e01fa7/8f17ff15a13833dbf0c58490f7e01fa7.m3u8",
-          "referer": ""
+     "name": "Jumanji: Welcome to the Jungle   - เกมดูดโลก บุกป่ามหัศจรรย์ (2017) [HD] พากย์ไทย บรรยายไทย",
+     "info": "",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2694/20220609140133gM6Q.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2694/video/5605/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
         },
         {
-          "name": "Blade 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/e12fa2fefedd0f70296d2c91d5adebc3/e12fa2fefedd0f70296d2c91d5adebc3.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Blade 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/04ee6bcd6b0f389a8bef050167b76832/04ee6bcd6b0f389a8bef050167b76832.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Blade 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/04fbf66c4d93dc04eb53e563dd5a4a45/04fbf66c4d93dc04eb53e563dd5a4a45.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Blade Trinity",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/f72f1bf04ced6e2ffc6d2b9a6207cb8e/f72f1bf04ced6e2ffc6d2b9a6207cb8e.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Blade Trinity",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-เบลด-พันธุ์ฆ่าอมตะ-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/cf10ee8c728ec405b4de32a167d02bd3/cf10ee8c728ec405b4de32a167d02bd3.m3u8",
-          "referer": ""
+     "name": "Jumanji: The Next Level  - เกมดูดโลก ตะลุยด่านมหัศจรรย์ (2019) [HD] พากย์ไทย บรรยายไทย",
+     "info": "",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2695/20220609140245dClr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2695/video/5606/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
         }
       ]
     },
 {
-      "name": "Men In Black (1997) เอ็มไอบี หน่วยจารชนพิทักษ์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Men In Black 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/6023a3a19e6e0670758cec23/6023a3a19e6e0670758cec23438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men In Black 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/4d459002ffd367d9fd970236/4d459002ffd367d9fd970236438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men In Black 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/d9745f1e1c906d3823e352e9/d9745f1e1c906d3823e352e9438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men In Black 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/9ed77da308113651e8de7ca5/9ed77da308113651e8de7ca5438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men in Black 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/8313374fee15aa2f913e1240/8313374fee15aa2f913e1240438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men in Black 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/3961582e36b7724c90a8ccc2/3961582e36b7724c90a8ccc2438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men in Black 4 International",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/54b92063afdc93605d30ac02/54b92063afdc93605d30ac02438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Men in Black 4 International",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-เอ็มไอบี-หน่วยจารชนพิทักษ์-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/2311245cd73b097433bf6dcf/2311245cd73b097433bf6dcf438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Now You See Me (2013) อาชญากลปล้นโลก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Now You See Me ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/5b5c1406ff7e7c4a021b40f2/5b5c1406ff7e7c4a021b40f2438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Now You See Me ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/c0d6a502fb742522ff2ef182/c0d6a502fb742522ff2ef182438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Now You See Me 2 ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/1089a5e9a1dfeade12150498/1089a5e9a1dfeade12150498438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Deadpool (2016) เดดพูล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Deadpool ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Deadpool ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/f608e3a246af6c57e9ac734a/f608e3a246af6c57e9ac734a438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Deadpool ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Deadpool ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/39ce09d899f605ec23461834/39ce09d899f605ec23461834438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Aquaman อควาแมน ",
-      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2666/cover-thumb/20220608145442sQ3q.jpg",
+      "name": "Pacific Rim",
       "info": "",
+      "image": "https://10000tip.files.wordpress.com/2018/02/pacific-rim-pstr07.jpg?w=640",
       "stations": [
         {
-          "name": "Aquaman (2018) อควาแมน",
-          "info": "พากย์ไทย",
-          "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2666/cover-thumb/20220608145442sQ3q.jpg",
-          "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2666/video/5554/hls/movie_3.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Percy Jackson &amp; the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสันกับสายฟ้าที่หายไป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/d2beab5102f95ca1642f07fb/d2beab5102f95ca1642f07fb438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/9c66fe2ae055cd2a908eae0a/9c66fe2ae055cd2a908eae0a438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/250fd93027c545817a4b79ec/250fd93027c545817a4b79ec438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/ecae07ce6da7f0891862028f/ecae07ce6da7f0891862028f438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Rurouni Kenshin (2012) รูโรนิ เคนชิน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Rurouni Kenshin ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/b3ca993ddf6f7b664c3d65c5/b3ca993ddf6f7b664c3d65c5438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Rurouni Kenshin ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/4a9cecbbe3b600b5d26138cd/4a9cecbbe3b600b5d26138cd438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Rurouni Kenshin ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/c573db570b445b9f7148f297/c573db570b445b9f7148f297438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Rurouni Kenshin ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/028c23dbf1063eeb7d17c0dd/028c23dbf1063eeb7d17c0dd438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Rurouni Kenshin ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/77b5518ea3664ab8ee3df241/77b5518ea3664ab8ee3df241438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Rurouni Kenshin ภาค 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/3d08862ed90ad20a6c7b66df/3d08862ed90ad20a6c7b66df438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Death Note (2006) สมุดโน๊ตกระชากวิญญาณ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Death Note ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/e8821e5c1ad6930210bcf455/e8821e5c1ad6930210bcf455438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/224236eb9b677dde3685223c/224236eb9b677dde3685223c438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/7885833747e0d90202a40fb7/7885833747e0d90202a40fb7438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/e490b6b9aba3b538fd4f2913/e490b6b9aba3b538fd4f2913438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/408d934eb42ec5c2aee80b6e/408d934eb42ec5c2aee80b6e438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/8c20d80e26ed842b9e9aab2e/8c20d80e26ed842b9e9aab2e438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/7808b82ad84b9d208b99b94d/7808b82ad84b9d208b99b94d438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Death Note ภาค 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/acaaa0a60d4b9aa1f424055d/acaaa0a60d4b9aa1f424055d438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "John Wick (2014) จอห์นวิค แรงกว่านรก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "John Wick ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/84f061a6ad83c75cf26c0b14/84f061a6ad83c75cf26c0b14168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/2e2b27b9af1ad76cc27f1da8/2e2b27b9af1ad76cc27f1da8168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/ccca3228051f1e87b53a11b1/ccca3228051f1e87b53a11b1168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/c4dd4eba8be083e32754fae1/c4dd4eba8be083e32754fae1168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/1965ee729029e77d03f87920/1965ee729029e77d03f87920168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/8a21ef1c821e11355e83bcab/8a21ef1c821e11355e83bcab168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/d4ed07846921df1d4da4021c/d4ed07846921df1d4da4021c438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "John Wick ภาค 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-จอห์นวิค-แรงกว่านรก-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/731dee99fae43734d38690bb/731dee99fae43734d38690bb438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Gantz (2010) สาวกกันสึ พันธ์แสบสังหาร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Gantz-2010-สาวกกันสึ-พันธ์แสบสังหาร-1-300x450.jpg",
-      "info": "TH(HD)",
-      "stations": [
-        {
-          "name": "Gantz ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Gantz-2010-สาวกกันสึ-พันธ์แสบสังหาร-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/9881c76a3d22f0de12690f12/9881c76a3d22f0de12690f12438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Gantz ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Gantz-2010-สาวกกันสึ-พันธ์แสบสังหาร-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/de6bdb6fcf4a4c910151bd35/de6bdb6fcf4a4c910151bd35438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-{
-      "name": "Transformers 1 ทรานฟอร์เมอร์ 1",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Transformers ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/9a6d65f6f0eb0dec395a77f1/9a6d65f6f0eb0dec395a77f1438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Transformers ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/c710ac20919ac00136d78eca/c710ac20919ac00136d78eca438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Transformers ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/bfd60e3ee9c05c3301ad2648/bfd60e3ee9c05c3301ad2648438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Transformers ภาค 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/147f455231fb66268496893f/147f455231fb66268496893f438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Transformers ภาค 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/a5a26624f70fa92306b7169d/a5a26624f70fa92306b7169d438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Transformers ภาค 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-ทรานฟอร์เมอร์-1-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/43537fb1818b211fb53df524/43537fb1818b211fb53df524438.m3u8",
-       }
-      ]
-    },
-   {
-      "name": "Avatar (2009) อวตาร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-อวตาร-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Avatar 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-อวตาร-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/25f2d7fb0ff138ca8221c0639360d2cd/25f2d7fb0ff138ca8221c0639360d2cd.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Avatar 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-อวตาร-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/a254b31a8005955f6f535ce50f4d7f75/a254b31a8005955f6f535ce50f4d7f75.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Avatar 2 The Way of Water",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-อวตาร-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/404fc5ebf93942807a542100/404fc5ebf93942807a542100438.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Avatar 2 The Way of Water",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-อวตาร-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/8320a33d636a419585707571/8320a33d636a419585707571438.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-   {
-      "name": "21 Jump Street (2012) สายลับร้ายไฮสคูล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "21 Jump Street",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/4430330ba5ab5a24a4fc779e/4430330ba5ab5a24a4fc779e168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "21 Jump Street",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/b2ab95143c28900ce53322bf/b2ab95143c28900ce53322bf168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "22 Jump Street",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/5b1c361a951324cfc33705dd/5b1c361a951324cfc33705dd168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "22 Jump Street",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/2aa923339108427d8aaf2f06/2aa923339108427d8aaf2f06168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "Zombieland (2009) ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Zombieland ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Zombieland ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/d2471066c8c2f39aeb06c98e/d2471066c8c2f39aeb06c98e168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Zombieland ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/6f5eaa448446b209e3b6f046/6f5eaa448446b209e3b6f046168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Zombieland ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Zombieland-2009-ซอมบี้แลนด์-แก๊งคนซ่าส์ล่าซอมบี้-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/00aa1dccf34417b533e4f9bd/00aa1dccf34417b533e4f9bd168.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "Divergent (2014) คนแยกโลก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Divergent 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/9929f4b2a0d8606af858e35d0cb345c0/9929f4b2a0d8606af858e35d0cb345c0.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Divergent 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/edfa427e626114c8206574cde611f021/edfa427e626114c8206574cde611f021.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Insurgent",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/50b824bacc607db5a3bb3be7a730294c/50b824bacc607db5a3bb3be7a730294c.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Insurgent",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/e1085940817663e84c35cd4f505f9f6d/e1085940817663e84c35cd4f505f9f6d.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Allegiant",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/c836c2602c5df51698a39529748eb2e7/c836c2602c5df51698a39529748eb2e7.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Allegiant",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-คนแยกโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/22b839168bc2e3615c6e22ee0e858fd6/22b839168bc2e3615c6e22ee0e858fd6.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "Night at the Museum",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Night at the Museum 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/2755908f0099ec5e75d3c6b9c1fe5699/2755908f0099ec5e75d3c6b9c1fe5699.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Night at the Museum 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/0c27b20c38f445264aa72eb02c37e7aa/0c27b20c38f445264aa72eb02c37e7aa.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Night at the Museum 2 Battle of the Smithsonian",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/da1b8e4ce596095b09a89d618c9196d1/da1b8e4ce596095b09a89d618c9196d1.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Night at the Museum 2 Battle of the Smithsonian",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/e21832295f0b08f23d4ba0b5d3dee613/e21832295f0b08f23d4ba0b5d3dee613.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Night at the Museum 3 Secret of the Tomb",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/f38a09570961622366d85e19be6c8f72/f38a09570961622366d85e19be6c8f72.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Night at the Museum 3 Secret of the Tomb",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Night-at-the-Museum-2006-คืนมหัศจรรย์...พิพิธภัณฑ์มันส์ทะลุโลก-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/8480cb5487b0f75b6b1542ec41f9e0ab/8480cb5487b0f75b6b1542ec41f9e0ab.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-https://hot.24playerhd.com/ioshls/3f609b1bdd97d619b61c0eca25026b20/3f609b1bdd97d619b61c0eca25026b20.m3u8,
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "Kick-Ass",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Kick-Ass ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/3f609b1bdd97d619b61c0eca25026b20/3f609b1bdd97d619b61c0eca25026b20.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Kick-Ass ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/3e98c08d3786fa3ff7350f29b4a22e03/3e98c08d3786fa3ff7350f29b4a22e03.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Kick-Ass ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/6fcd39191450e61b5751e6fe41bc0465/6fcd39191450e61b5751e6fe41bc0465.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Kick-Ass ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/62667cf2e5adb792190773c891bbf508/62667cf2e5adb792190773c891bbf508.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-    {
-      "name": "Fantastic Beasts",
-      "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "Fantastic Beasts 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/4b2553ca1e314e2afbf2ae41c51392c6/4b2553ca1e314e2afbf2ae41c51392c6.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Fantastic Beasts 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/3bf7690da78dee2282e54866dbc1361d/3bf7690da78dee2282e54866dbc1361d.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Fantastic Beasts 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
-          "url": "https://main.abcplays.com/m3u8/75ad43bd0f9fabdcf26e6917/75ad43bd0f9fabdcf26e6917168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "Fantastic Beasts 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
-          "url": "https://hot.24playerhd.com/ioshls/c452b5593da714955338688b21b9c05f/c452b5593da714955338688b21b9c05f.m3u8",
-          "referer": ""
-        }
-      ]
-    },
-  {
-      "name": "The Lord of the Rings 1 อภินิหารแหวนครองพิภพ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
-      "info": "TH/EN(HD)",
-      "stations": [
-        {
-          "name": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/fc2509468e07e3bd01cf42f6/fc2509468e07e3bd01cf42f6168.m3u8",
-          "referer": ""
-        },
-        {
-          "name": "The Lord of the Rings: The Two Towers (2002)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/3ecc60898df9e5299332ebd6/3ecc60898df9e5299332ebd6168.m3u8",
-          "referer": ""
+          "name": "PACIFIC RIM 2013 แปซิฟิค ริม สงครามอสูรเหล็ก",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/rHqYeDsvWZQKMoBXuaiQKqZQjjv.jpg",
+          "url": "https://streamhls.com/view/df5f8d60-23ed-5f2f-9ed4-f11d0704b6fb.m3u8",
+          "referer": "https://lb1.one3up.com"
         },
        {
-          "name": "The Lord of the Rings: The Return of the King (2003)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
-          "url": "https://main.abcplays.com/m3u8/b9fc8ac71d0858115e0ac132/b9fc8ac71d0858115e0ac132168.m3u8",
-          "referer": ""
+          "name": "PACIFIC RIM 2013 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/rHqYeDsvWZQKMoBXuaiQKqZQjjv.jpg",
+          "url": "https://lb1.one3up.com/hls/86b05583cecb4c30969419711c53b641/86b05583cecb4c30969419711c53b641?t=1659360366816",
+          "referer": "https://lb1.one3up.com"
         },
-    {
-      "name": "Iron Man (2008) มหาประลัยคนเกราะเหล็ก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-      "info": "TH/EN(HD)",
+        {
+          "name": "PACIFIC RIM UPRISING 2018 แปซิฟิค ริม 2 ปฏิวัติพลิกโลก",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/7SFn4TLKciVU0Nk1M0bpY5q3due.jpg",
+          "url": "https://streamhls.com/view/aece82f9-f45e-5de4-b757-af3ebe3463d4.m3u8",
+          "referer": "https://lb1.one3up.com"
+        },
+       {
+          "name": "PACIFIC RIM UPRISING 2018 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/7SFn4TLKciVU0Nk1M0bpY5q3due.jpg",
+          "url": "https://lb1.one3up.com/hls/c6f79ca763179bcb39e1942b8290d390/c6f79ca763179bcb39e1942b8290d390?t=1659360579421",
+          "referer": "https://lb1.one3up.com"
+        }
+      ]
+    },
+{
+      "name": "Jurassic Park",
+      "info": "",
+      "image": "https://my.kapook.com/imagescontent/fb_img/698/s_195113_6440.jpg",
       "stations": [
-        {
-          "name": "Iron Man",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/34949ad37412b7a3a2332e33ef305471/34949ad37412b7a3a2332e33ef305471.m3u8",
-          "referer": ""
+ {
+     "name"			: 		"JURASSIC PARK 1993 กำเนิดใหม่ ไดโนเสาร์",
+     "image"		: 		"https://www.themoviedb.org/t/p/w500_and_h282_face/mlolzwV6VrKOZJ1SfYbPHXXDD4p.jpg",
+     "url"       		:           "https://cnn.nebulamov.com/src/hls/Jurassic_Park__1993_149064_06-36-05am_2022-09-26_hls.m3u8/Jurassic_Park__1993_149064_06-36-05am_2022-09-26_hls.m3u8",
+"referer"   		:           "https://movie-th.tv/",
+"info"			: 		"    ", 
+"playInNatPlayer"		: 		"true"
         },
         {
-          "name": "Iron Man ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/18881a1ee2013182cc867f7090e4a33d/18881a1ee2013182cc867f7090e4a33d.m3u8",
-          "referer": ""
+          "name": "JURASSIC PARK 1993 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/mlolzwV6VrKOZJ1SfYbPHXXDD4p.jpg",
+          "url": "https://p2p.stream1688.com/files/88802470b3586c0c3a20c6470750c5fb_original.txt",
+          "referer": "https://lb1.one3up.com"
         },
         {
-          "name": "Iron Man ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/d69cd8882635b2ae983c0865818b39f8/d69cd8882635b2ae983c0865818b39f8.m3u8",
-          "referer": ""
+"name"		: 		"JURASSIC PARK 2 THE LOST WORLD 1997 ใครว่ามันสูญพันธุ์",
+"image"		: 		"https://www.themoviedb.org/t/p/w500_and_h282_face/tXiPGk0BZ6A80U4ZARTJ3H0CzU9.jpg",
+"url"       	: 		"https://cnn.nebulamov.com/src/hls/Jurassic_Park_III_2001_190379_06-27-11am_2022-09-26_hls.m3u8/Jurassic_Park_III_2001_190379_06-27-11am_2022-09-26_hls.m3u8",
+"referer"   	:           "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer"	: "true"
+},
+  
+{
+ "name"		: 		"JURASSIC PARK 2 THE LOST WORLD 1997 ST",
+ "image"		: 		"https://www.themoviedb.org/t/p/w500_and_h282_face/tXiPGk0BZ6A80U4ZARTJ3H0CzU9.jpg",
+ "url"		: 		"https://p2p.stream1688.com/files/c3a85d13fe69aa99956c57a7e539b4bd_original.txt",
+ "referer"		: 		"https://lb1.one3up.com"
         },
         {
-          "name": "Iron Man ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/9fa3c8ad3e033feaef1679d29d910990/9fa3c8ad3e033feaef1679d29d910990.m3u8",
-          "referer": ""
+          "name"		: 		"JURASSIC PARK 3 2001 ",          
+          "image"		: 		"https://www.themoviedb.org/t/p/w500_and_h282_face/3oYj3rRz59VgjZUTU4TL5tGYnSN.jpg",
+          "url"       	:           "https://cnn.nebulamov.com/src/hls/Jurassic_Park_III_2001_190379_06-27-11am_2022-09-26_hls.m3u8/Jurassic_Park_III_2001_190379_06-27-11am_2022-09-26_hls.m3u8",
+          "referer"   	:           "https://movie-th.tv/",
+          "info"		:	  	"    ", 
+          "playInNatPlayer"	: 		"true"
+         },
+         {
+          "name": "JURASSIC PARK 3 2001 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/3oYj3rRz59VgjZUTU4TL5tGYnSN.jpg",
+          "url": "https://www1422.ff-03.com/token=mTYa2jNqIc6c-jG26h4fYw/1659368995/2405:9800::/148/2/9e/726e97477390a573b48a54e63fbc99e2-1080p.mp4",
+          "referer": "https://lb1.one3up.com"
         },
         {
-          "name": "Iron Man ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/21a26fd15269c1071550837bbcc79bc2/21a26fd15269c1071550837bbcc79bc2.m3u8",
-          "referer": ""
+          "name": "JURASSIC WORLD 2015 จูราสสิค เวิลด์",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/9tjieFMEPnxqZ7jH6i1bFNwseKo.jpg",
+     "url"       :            "https://cnn.nebulamov.com/src/hls/Jurassic_World_2015_117388_06-45-12am_2022-09-26_hls.m3u8/Jurassic_World_2015_117388_06-45-12am_2022-09-26_hls.m3u8",
+      "referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
         },
         {
-          "name": "Iron Man ภาค 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png",
-          "url": "https://hot.24playerhd.com/ioshls/86ca70933d5c2c74de0c74a044ab58b6/86ca70933d5c2c74de0c74a044ab58b6.m3u8",
-          "referer": ""
+          "name": "JURASSIC WORLD 2015 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/9tjieFMEPnxqZ7jH6i1bFNwseKo.jpg",
+          "url": "https://p2p.stream1688.com/files/4f6b096667a2a3a24031f5689b70ce01_original.txt",
+          "referer": "https://lb1.one3up.com"
+        },
+        {
+          "name": "JURASSIC WORLD FALLEN KINGDOM 2018 จูราสสิค เวิลด์ อาณาจักรล่มสลาย",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/n9Qm4aYL1xx9Bmg5Q9JWQc1E9gi.jpg",
+   "url"       :            "https://cnn.nebulamov.com/src/hls/Jurassic_World_Fallen_Kingdom_2018_115803_05-59-12am_2022-09-26_hls.m3u8/Jurassic_World_Fallen_Kingdom_2018_115803_05-59-12am_2022-09-26_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+          },
+         {
+          "name": "JURASSIC WORLD FALLEN KINGDOM 2018 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/n9Qm4aYL1xx9Bmg5Q9JWQc1E9gi.jpg",
+          "url": "https://p2p.stream1688.com/files/22c18fc8d2a13a6bb6d2ab5930343fd9_original.txt",
+          "referer": "https://lb1.one3up.com"
+        },
+        {
+          "name": "JURASSIC WORLD DOMINION 2022 จูราสสิค เวิลด์ ทวงคืนอาณาจักร",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+    "url"       :            "https://cnn.nebulamov.com/src/hls/Jurassic_World__Dominion_2022_174769_09-53-50am_2022-09-05_hls.m3u8/Jurassic_World__Dominion_2022_174769_09-53-50am_2022-09-05_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+         },
+         {
+          "name": "JURASSIC WORLD DOMINION 2022 ST",
+          "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+          "url": "https://lb1.one3up.com/hls/f2604b354c94276519d8b6a794afc259/f2604b354c94276519d8b6a794afc259?t=1659355185461",
+          "referer": "https://lb1.one3up.com"
+        },
+      ]
+    },
+{
+"name": "Mad Max",
+"author": "(Update 20/03/66) By Asawin  ",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/cjd2b1yUiYDi3kZW3ntUzUH11vd.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            " Mad Max 4: Fury Road (2015) แมด แม็กซ์: ถนนโลกันตร์ ",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-39.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/madmax4_104294_10-50-31pm_2022-11-01_hls.m3u8/madmax4_104294_10-50-31pm_2022-11-01_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            " Mad Max 4: Fury Road (2015) แมด แม็กซ์: ถนนโลกันตร์ ซาวด์แทรค",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-39.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Madmax4_142963_07-51-53am_2022-11-03_hls.m3u8/Madmax4_142963_07-51-53am_2022-11-03_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 3 Beyond Thunderdome (1985) แมดแม็กซ์ 3 โดมบันลือโลก",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-40.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/madmax3_109866_10-53-41pm_2022-11-01_hls.m3u8/madmax3_109866_10-53-41pm_2022-11-01_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 3 Beyond Thunderdome (1985) แมดแม็กซ์ 3 โดมบันลือโลก",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-40.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Madmax3_190434_07-49-47am_2022-11-03_hls.m3u8/Madmax3_190434_07-49-47am_2022-11-03_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 2 The Road Warrior (1981) ",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-41.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/madmax2_193562_10-51-35pm_2022-11-01_hls.m3u8/madmax2_193562_10-51-35pm_2022-11-01_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 2 The Road Warrior (1981) ซาวด์แทรค",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-41.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Madmax2_121921_07-49-25am_2022-11-03_hls.m3u8/Madmax2_121921_07-49-25am_2022-11-03_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 1 (1997) แมด แม็กซ์ ",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-42.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/madmax1_106855_10-52-11pm_2022-11-01_hls.m3u8/madmax1_106855_10-52-11pm_2022-11-01_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Mad Max 1 (1997) แมด แม็กซ์  ซาวด์แทรค  ",
+"image"     :            "https://movie-th.tv/wp-content/uploads/2022/11/movie-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-1-42.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Madmax1_191268_07-49-22am_2022-11-03_hls.m3u8/Madmax1_191268_07-49-22am_2022-11-03_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
 }
    ]
   }
