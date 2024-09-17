@@ -1027,9 +1027,13 @@ http://client.newsborntvs.info:80/meritonx/islamaj/86686
 
 #EXTINF:-1 group-title="NO",
 
+#EXTINF:-1 tvg-id="US: FS1" tvg-name="SPORTS: FOX SPORTS 1" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_1.png" group-title="USA Sport",FS1
+http://client.newsborntvs.info:80/meritonx/islamaj/39215
 
+#EXTINF:-1 tvg-id="US: FS2" tvg-name="SPORTS: FOX SPORTS 2" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_2.png" group-title="USA Sport",FS2
+http://client.newsborntvs.info:80/meritonx/islamaj/39214
 
-
+#EXTINF:-1 group-title="NO",
 
 
 
