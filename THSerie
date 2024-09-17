@@ -1,0 +1,43 @@
+{
+"name": "ไทยซีรีย์",
+"author": "Momose",
+"url": "https://raw.githubusercontent.com/MomoseShu/MomoseShu/main/Movie",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4NKiJLl-GYAiavBm5KfO3LbK19DeYvv8_DeNlykjkg2iX93poHQHQOZy&s=10",
+"groups": [
+{
+      "name": "รักล้นพุง",
+      "info": "HD",
+      "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%87-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://server4.oneplayer.online/mp4/OnpeWXw/file_1080.mp4",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://hot.24playerhd.com/ioshls/adc0f9ad8f7783e6f1ef087ea2c93140/adc0f9ad8f7783e6f1ef087ea2c93140.m3u8",
+          "referer": ""
+   },
+   {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://server4.oneplayer.online/mp4/jHCHtUG/file_1080.mp4",
+          "referer": ""
+    },
+   {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://hot.24playerhd.com/ioshls/0c2de9e5b7d85acd2e8015498d609b6a/0c2de9e5b7d85acd2e8015498d609b6a.m3u8",
+          "referer": ""
+}
+   ]
+  }
+ ]
+}
