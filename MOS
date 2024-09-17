@@ -160,16 +160,16 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
 https://media.wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/FB4HQBi.png", True Thai Film
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://media.wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Film Asia
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://media.wacthstream.com/stream_live/237_TrueFilmAsia./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yrla82h5fgbr3mhjedazt/TRUEFILM1.png?rlkey=ia7scuo9qjimf94wgcay3j3ky&dl=0",TrueFilm HD 
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-2-th.png",TrueFilm HD 2 
 
@@ -187,10 +187,10 @@ https://media.wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?w
 https://media.wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/TgrurDu.png", AXN
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/336_AXN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="3BBSportone.th" tvg-name="3BB Sport one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie",Warnner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie",Warnner TV
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8
 
@@ -231,8 +231,9 @@ https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://media.wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="NO",
 
@@ -275,7 +276,6 @@ https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSig
 
 
 **************************************
-
 
 
 🦣Discovery 
@@ -395,7 +395,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 *****************************
 
 
-
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
 https://cdn1.googlecdn.live/dooballx/tsp1/chunks.m3u8|Referer=https://dooballx.com/
 
@@ -407,15 +406,16 @@ https://cdn1.googlecdn.live/dooballx/tsp2/chunks.m3u8|Referer=https://dooballx.c
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png", True Sports 4
-https://media.wacthstream.com/stream_live/669_Ts_HD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=?|Referer=https://wacth.tv
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sports 5
 #EXTVLCOPT:http-referrer=https://freetvdd.com
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
-#EXTVLCOPT:http-referrer=https://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/siamsport-12/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="NO",
 
@@ -446,12 +446,12 @@ https://media.wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2V
 
 
 #EXTINF:-1 group-title="THSport" tvg-logo="https://i.imgur.com/ueZJ14i.png",beIN SPORTS 1 
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDM6MTM6NTAgQU0maGFzaF92YWx1ZT0wM1dEaEh0YWJOUnlzY09FeFFyRUl3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAyMDU=
+#EXTVLCOPT:http-referrer=https://doolive4k.tv/
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/chunks.m3u8
 
 #EXTINF:-0 tvg-id="beINSports2Thailand.th" tvg-name="beIN SPORTS 2" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 2 
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://images.livebox.co/images/tv/png/epl-bein3.png" group-title="THSport",beIN SPORTS 3 
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -472,10 +472,6 @@ https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/7lMqpfC.png" group-title="THSport",beIN SPORTS 7
 #EXTVLCOPT:http-referrer=https://dooballx.com/
 https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8
-
-#EXTINF:-0 tvg-logo="https://i.imgur.com/PS4DpAy.png" group-title="THSport",beIN SPORTS 8
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein8/chunks.m3u8
 
 
 #EXTINF:-1 group-title="NO",
@@ -498,6 +494,104 @@ https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
 
 #EXTINF:-1 group-title="NO",
+
+
+#EXTINF:-1 tvg-id="US: FS1" tvg-name="SPORTS: FOX SPORTS 1" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_1.png" group-title="USA Sport",FS1
+https://6oclock.xyz:8443/Tyrone43147/My3boys/15907
+
+#EXTINF:-1 tvg-id="US: FS2" tvg-name="SPORTS: FOX SPORTS 2" tvg-logo="http://puddintap.click/ico/SPORTS-Color/FOX_SPORTS_2.png" group-title="USA Sport",FS2
+https://6oclock.xyz:8443/Tyrone43147/My3boys/15906
+
+
+#EXTINF:-1 group-title="NO",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 1 ⁴ᵏ" tvg-logo="" group-title="Malaysia",Astro SuperSport 1 
+http://client.newsborntvs.info:80/meritonx/islamaj/86293
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 2 ⁴ᵏ" tvg-logo="" group-title="Malaysia",Astro SuperSport 2 
+http://client.newsborntvs.info:80/meritonx/islamaj/86294
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 3 ⁴ᵏ" tvg-logo="" group-title="Malaysia",Astro SuperSport 3 
+http://client.newsborntvs.info:80/meritonx/islamaj/86295
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 4 ⁴ᵏ" tvg-logo="" group-title="Malaysia",Astro SuperSport 4
+http://client.newsborntvs.info:80/meritonx/islamaj/86296
+
+#EXTINF:-1 group-title="NO",
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 1 
+http://client.newsborntvs.info:80/meritonx/islamaj/86297
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 2
+http://client.newsborntvs.info:80/meritonx/islamaj/86298
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 3 
+http://client.newsborntvs.info:80/meritonx/islamaj/86299
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 4 
+
+http://client.newsborntvs.info:80/meritonx/islamaj/86300
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 5 
+
+http://client.newsborntvs.info:80/meritonx/islamaj/86301
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 6 
+http://client.newsborntvs.info:80/meritonx/islamaj/86302
+
+
+#EXTINF:-1 group-title="NO", 
+
+
+
+
+🇭🇰🇪🇸Laliga
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Prime ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Prime ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86578
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 1 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86580
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 2 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86581
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 3 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86582
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 4 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86583
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 5 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86584
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 6 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86585
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 7 ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86586
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Plus ⁴ᵏ
+http://client.newsborntvs.info:80/meritonx/islamaj/86579
+
+#EXTINF:-1 group-title="NO",
+
+EPL🇭🇰🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 1 
+http://client.newsborntvs.info:80/meritonx/islamaj/86376
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 2 
+http://client.newsborntvs.info:80/meritonx/islamaj/86377
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 3 
+http://client.newsborntvs.info:80/meritonx/islamaj/86378
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 4 
+http://client.newsborntvs.info:80/meritonx/islamaj/86379
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 5 
+http://client.newsborntvs.info:80/meritonx/islamaj/86380
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="" group-title="Football",NowHK Premier Leauge 6 
+http://client.newsborntvs.info:80/meritonx/islamaj/86381
+
+#EXTINF:-1 group-title="NO",
+
 
 
 
@@ -559,11 +653,6 @@ https://cdn1.googlecdnforstreaming.live/live/trueballthai8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oi0V0Sb.png" group-title="Football",True BALLTHAI 9
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/trueballthai9/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OfXs1OV.png" group-title="Football",True BALLTHAI 10
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/trueballthai10/chunks.m3u8
-
 
 
 #EXTINF:-1 group-title="NO",
@@ -791,6 +880,7 @@ http://raos101.com:80/live/tuncayefe/neKD62nrcC/261974.ts
 
 
 
+
 🇧🇪Belgium Pro League 
 
 #EXTINF:-1 group-title="Football",ELEVEN PRO LEAGUES 1
@@ -825,7 +915,7 @@ http://nett-tv.vip:80/1jqv55tnya/1dxd2x9474/948084
 
 
 
-🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland PL
+🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland PL, Laliga
 
 #EXTINF:-1 group-title="Football",PREMIER SPORTS 1
 http://dksip.com:80/Faya001462/TWeNk6VcN9/306697
@@ -912,6 +1002,11 @@ Optus🇦🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇪🇸🇯🇵🇰🇷
 #EXTINF:-1 group-title="NO",
 
 **************************************
+
+
+
+
+
 
 
 
