@@ -329,6 +329,764 @@
 "referer"   :            "https://lb1.one3up.com",
 "info": "    ", 
 "playInNatPlayer": "true"
+        }
+      ]
+    },
+  {
+      "name": "Black Panther",
+      "author":  "",
+      "image": "https://s.isanook.com/mv/0/rp/r/w850/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvMTUvNzU2NTcvNzU2NTctdGh1bWJuYWlsLmpwZw==.jpg",
+      "stations": [     
+{
+"name":"Black Panther แบล็ค แพนเธอร์ 2018 ",
+"info":"พากย์ไทย   1080p",
+"image":"https://www.doomovie-free.com/wp-content/uploads/2019/11/Black-Panther-2018.jpg",
+"url":"https://cnn.nebulamov.com/src/hls/Black_Panther_194896_08-30-42pm_2022-08-29_hls.m3u8/Black_Panther_194896_08-30-42pm_2022-08-29_hls.m3u8",
+"referer":"https://movie-th.tv/"
+},
+{
+"name":"Black Panther แบล็ค แพนเธอร์ 2018",
+"info":"ซับไทย  1080p",
+"image":"https://www.doomovie-free.com/wp-content/uploads/2019/11/Black-Panther-2018.jpg",
+"url":"https://cnn.nebulamov.com/src/hls/BlackPantherSubth_156756_10-44-43pm_2022-09-20_hls.m3u8/BlackPantherSubth_156756_10-44-43pm_2022-09-20_hls.m3u8",
+"referer":"https://movie-th.tv/"
+},
+{
+"name":"Black Panther Wakanda Forever",
+"info":"พากย์ไทย   1080p",
+"image":"https://movieup2you.com/wp-content/uploads/2022/12/3890868842-1024x576.jpg",
+"url":"https://cnn.nebulamov.com/src/hls/TH_BP2_2022_176942_06-32-30am_2023-02-05_hls.m3u8/TH_BP2_2022_176942_06-32-30am_2023-02-05_hls.m3u8",
+"referer":"https://movie-th.tv/"
+},
+{
+"name":"Black Panther Wakanda Forever",
+"info":"ซับไทย  1080p",
+"image":"https://movieup2you.com/wp-content/uploads/2022/12/3890868842-1024x576.jpg",
+"url":"https://cnn.nebulamov.com/src/hls/EN_BP2_2022_198582_06-33-34am_2023-02-05_hls.m3u8/EN_BP2_2022_198582_06-33-34am_2023-02-05_hls.m3u8",
+"referer":"https://movie-th.tv/"
+        }
+      ]
+    },
+{
+"name": "Star Wars",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/original/noKFlPn2GjuUounuxtmPnkRlZpa.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "Star Wars:Episode I – The Phantom Menace 1999 ภัยซ่อนเร้น",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uNDKAPQnfeaY3BktMKSW2rDm72Y.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeI_162614_09-00-42pm_2022-08-22_hls.m3u8/StarWarsEpisodeI_162614_09-00-42pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode I – The Phantom Menace 1999 ภัยซ่อนเร้น     ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uNDKAPQnfeaY3BktMKSW2rDm72Y.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Starwarsepisodei_135134_09-16-23pm_2022-11-19_hls.m3u8/Starwarsepisodei_135134_09-16-23pm_2022-11-19_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode II – Attack of the Clones 2002 กองทัพโคลนส์จู่โจม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/rlEYntikENUNbk2eOg7EP5JJfxY.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeII_112788_09-00-49pm_2022-08-22_hls.m3u8/StarWarsEpisodeII_112788_09-00-49pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode II – Attack of the Clones 2002 กองทัพโคลนส์จู่โจม    ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/rlEYntikENUNbk2eOg7EP5JJfxY.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Starwarsepisodeii_148358_09-21-06pm_2022-11-19_hls.m3u8/Starwarsepisodeii_148358_09-21-06pm_2022-11-19_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode III – Revenge of the Sith 2005 ซิธชำระแค้น",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsZCeynGhauXhejI0bWCeUHvR0F.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeIII_184240_09-01-43pm_2022-08-22_hls.m3u8/StarWarsEpisodeIII_184240_09-01-43pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode III – Revenge of the Sith 2005 ซิธชำระแค้น   ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsZCeynGhauXhejI0bWCeUHvR0F.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Starwarsepisodeiii_162759_09-18-20pm_2022-11-19_hls.m3u8/Starwarsepisodeiii_162759_09-18-20pm_2022-11-19_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode IV – A New Hope 1977 ความหวังใหม่",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jKquaxnCRelAbibZVMdTsUEnkKm.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode IV – A New Hope 1977 ความหวังใหม่   ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jKquaxnCRelAbibZVMdTsUEnkKm.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Starwarsepisodeiv_163376_09-22-53pm_2022-11-19_hls.m3u8/Starwarsepisodeiv_163376_09-22-53pm_2022-11-19_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode V – The Empire Strikes Back 1980 จักรวรรดิเอมไพร์โต้กลับ",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6jycQtEorKgmcsi9AeYBrRxlpqu.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeV_114178_08-42-16pm_2022-08-22_hls.m3u8/StarWarsEpisodeV_114178_08-42-16pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	 
+{
+"name"      :            "Star Wars:Episode V – The Empire Strikes Back 1980 จักรวรรดิเอมไพร์โต้กลับ   ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6jycQtEorKgmcsi9AeYBrRxlpqu.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Starwarsepisodev_196604_11-28-47pm_2022-11-20_hls.m3u8/Starwarsepisodev_196604_11-28-47pm_2022-11-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode VI – Return of the Jedi 1983 การกลับมาของเจได",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/7wUAgjPVgl0pPJMgPiJHnGvNl9.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode VI – Return of the Jedi 1983 การกลับมาของเจได   ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/7wUAgjPVgl0pPJMgPiJHnGvNl9.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8/StarWarsEpisodeIV_155280_08-42-06pm_2022-08-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode VII – The Force Awakens 2015 อุบัติการณ์แห่งพลัง",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fK0423lqxNG20ZXCDO41vfJjBTU.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeVII_104737_09-01-47pm_2022-08-22_hls.m3u8/StarWarsEpisodeVII_104737_09-01-47pm_2022-08-22_hls.m3u8
+",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Wars:Episode VII – The Force Awakens 2015 อุบัติการณ์แห่งพลัง  ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fK0423lqxNG20ZXCDO41vfJjBTU.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeVII_104737_09-01-47pm_2022-08-22_hls.m3u8/StarWarsEpisodeVII_104737_09-01-47pm_2022-08-22_hls.m3u8
+",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode VIII - The Last Jedi 2017 ปัจฉิมบทแห่งเจได.  ",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pi0JIXxsVXkT1e5ZmHxLQtEBmws.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/StarWarsEpisodeVIII_153357_09-20-08pm_2022-08-22_hls.m3u8/StarWarsEpisodeVIII_153357_09-20-08pm_2022-08-22_low.m3u8",
+"referer"   :            "https://streamhee.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode VIII - The Last Jedi ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pi0JIXxsVXkT1e5ZmHxLQtEBmws.jpg",
+"url"       :            "https://lb1.one3up.com/hls/c3481ee9baf05286df79a33f49c7f81b/c3481ee9baf05286df79a33f49c7f81b?t=1659101867584",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode IX – The Rise of Skywalker 2019 กำเนิดใหม่สกายวอล์คเกอร์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8ROVXHf6rtWRPiWNqI9GXWy0Rxv.jpg",
+"url"       :            "https://streamhee.com/2019_new/Star.Wars.The.Rise.Of.Skywalker.2019/Star.Wars.The.Rise.Of.Skywalker.2019.1080P.mp4.m3u8",
+"referer"   :            "https://streamhee.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Star Wars:Episode IX – The Rise of Skywalker ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8ROVXHf6rtWRPiWNqI9GXWy0Rxv.jpg",
+"url"       :            "https://lb1.one3up.com/hls/c4a475f4e90d6e8425f7f61528dd66a4/c4a475f4e90d6e8425f7f61528dd66a4?t=1659102353788",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Rogue One - A Star Wars Story 2016 โร้ค วัน ตำนานสตาร์วอร์ส",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9BarWUc56Cvy5IjXysoT29DF6mI.jpg",
+"url"       :            "https://streamhee.com/2016_new/Rogue.One.A.Star.Wars.Story.2016/Rogue.One.A.Star.Wars.Story.2016.1080P.mp4.m3u8",
+"referer"   :            "https://streamhee.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Rogue One - A Star Wars Story ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9BarWUc56Cvy5IjXysoT29DF6mI.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/3244b835c165be1eb4564b8b6d6ddfce/3244b835c165be1eb4564b8b6d6ddfce.m3u8",
+"referer"   :            "https://www.i-moviehd.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Solo:A Star Wars Story 2018 ฮาน โซโล ตำนานสตาร์ วอร์ส",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cFyXiR4puMr1hznSKdvqXSY4IU6.jpg",
+"url"       :            "https://streamhee.com/2018_new/Solo.A.Star.Wars.Story.2018/Solo.A.Star.Wars.Story.2018.1080P.mp4.m3u8",
+"referer"   :            "https://streamhee.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Solo:A Star Wars Story ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cFyXiR4puMr1hznSKdvqXSY4IU6.jpg",
+"url"       :            "https://lb1.one3up.com/hls/56247036ad00d3b67d621f0960bed9b8/56247036ad00d3b67d621f0960bed9b8?t=1659102035809",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+"name": "Spider Man",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/iIKOzyArPxXhK45tqIJzkUdbCs.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "Spider Man 2002 ไอ้แมงมุม 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lOLvVbVcRDMYu2vZkaXwBE2KAYb.jpg",
+"url"       :            "https://lb1.one3up.com/hls/e9a530b8a9a4851da1591f6dcf0d58a4/e9a530b8a9a4851da1591f6dcf0d58a4?t=1659142226849",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Spider Man 2002 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lOLvVbVcRDMYu2vZkaXwBE2KAYb.jpg",
+"url"       :            "https://lb1.one3up.com/hls/4303dd2195b05511625be94bceeea18d/4303dd2195b05511625be94bceeea18d?t=1659142412034",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man 2004 ไอ้แมงมุม 2",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/2UF15hiKO4q1UEek4Jw4rzwkWvm.jpg",
+"url"       :            "https://lb1.one3up.com/hls/0187130c6ee8619a7eb8e8a292fe8f96/0187130c6ee8619a7eb8e8a292fe8f96?t=1659142648813",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man 2004 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/2UF15hiKO4q1UEek4Jw4rzwkWvm.jpg",
+"url"       :            "https://lb1.one3up.com/hls/8a3130f3314e817e46f791ff99b24b2e/8a3130f3314e817e46f791ff99b24b2e?t=1659142829315",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man 2007 ไอ้แมงมุม 3",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fzLbVKZ47Z1a3KNiYKKgnZEeHKM.jpg",
+"url"       :            "https://antiddosleoplayer.com/s5ylhnr72zq9u5mva44wkjeo9t7eserd0r5/default/index.m3u8",
+"referer"   :            "https://antiddosleoplayer.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man 2007 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fzLbVKZ47Z1a3KNiYKKgnZEeHKM.jpg",
+"url"       :            "https://lb1.one3up.com/hls/4ae6915ed995e21f201da593404e9ca4/4ae6915ed995e21f201da593404e9ca4?t=1659143048407",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "The Amazing Spider-Man 2012 ดิ อะเมซิ่ง สไปเดอร์แมน 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3W9F1P02LjZMYPGc8YwKtnZqK6O.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/b32a32129b3475517c3575be018c1c68/b32a32129b3475517c3575be018c1c68.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "The Amazing Spider-Man 1 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3W9F1P02LjZMYPGc8YwKtnZqK6O.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/d45995a2590265d1f23d11825ae28346/d45995a2590265d1f23d11825ae28346.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "The Amazing Spider-Man 2014 ดิ อะเมซิ่ง สไปเดอร์-แมน 2 ผงาดอสูรกายสายฟ้า",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qX3LbPeACoTtx8Z4WVlZYzWDsbM.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/2d98e2b3f010fa06d92083e5e395fea7/2d98e2b3f010fa06d92083e5e395fea7.m3u8
+",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "The Amazing Spider-Man 2 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qX3LbPeACoTtx8Z4WVlZYzWDsbM.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/e0a72d085c7219ca94762e0c152c85b0/e0a72d085c7219ca94762e0c152c85b0.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider-Man Homecoming 2017 สไปเดอร์แมน โฮมคัมมิ่ง",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/g4RA86jLd8QGe60oHjTnccvLzbr.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/spdhomecoiming_106354_10-10-36pm_2022-08-25_hls.m3u8/spdhomecoiming_106354_10-10-36pm_2022-08-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider-Man Homecoming 2017 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/g4RA86jLd8QGe60oHjTnccvLzbr.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/spdhome2017subth_134984_09-55-45am_2022-09-22_hls.m3u8/spdhome2017subth_134984_09-55-45am_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider-Man Far From Home 2019 สไปเดอร์แมน ฟาร์ ฟรอม โฮม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cj9Zgsz1vJafjneYZkRivz5RkvX.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/spdfarfromhome_109431_09-52-33pm_2022-08-30_hls.m3u8/spdfarfromhome_109431_09-52-33pm_2022-08-30_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider-Man Far From Home 2019 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cj9Zgsz1vJafjneYZkRivz5RkvX.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/spdhome2017subth_184501_10-42-20pm_2022-09-20_hls.m3u8/spdhome2017subth_184501_10-42-20pm_2022-09-20_hls.m3u8
+",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man No Way Home 2021 สไปเดอร์แมน โน เวย์ โฮม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq2Wa11mT88pYzysHeVwZ8kicV5.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Spider-Man-No.Way_Home._2021__192190_01-03-18am_2022-08-13_hls.m3u8/Spider-Man-No.Way_Home._2021__192190_01-03-18am_2022-08-13_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man No Way Home 2021 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq2Wa11mT88pYzysHeVwZ8kicV5.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_No_Way_Home_Extended_Version_2022_113682_10-04-52pm_2023-01-30_hls.m3u8/EN_No_Way_Home_Extended_Version_2022_113682_10-04-52pm_2023-01-30_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Spider Man Into the Spider-Verse 2018 สไปเดอร์แมน ผงาดสู่จักรวาล-แมงมุม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pzgeLSDMvcZl60mzeZtGnE9ApQF.jpg",
+"url"       :            "https://xxx.77player.xyz/m3u8/8e005c835ef912718b53f39e/8e005c835ef912718b53f39e800.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+ {
+"name"      :            "Spider Man Into the Spider-Verse 2018 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pzgeLSDMvcZl60mzeZtGnE9ApQF.jpg",
+"url"       :            "https://lb1.one3up.com/hls/e9eafc23c154636779921c0ccb84b7e4/e9eafc23c154636779921c0ccb84b7e4?t=1659162394270",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+  {
+      "name": "Star Trek ",
+      "author":  "",
+      "image": "https://www.patsonic.com/wp-content/uploads/2009/05/star-trek-xi-movie-featured.jpg",
+      "stations": [
+        {
+"name"      :            "Star Trek 1 สตาร์ เทรค 1: สงครามพิฆาตจักรวาล 2009 ภาคไทย ",
+"image"     :            "https://gonewiththetwins.com/new/wp-content/uploads/2014/02/startrek2009.jpg",
+"url"       :            "https://streamhls.com/view/309c25eb-9f77-5c02-988f-717530e4f0ab.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Star Trek 1 สตาร์ เทรค 1: สงครามพิฆาตจักรวาล 2009 ซัพไทย",
+"image"     :            "https://gonewiththetwins.com/new/wp-content/uploads/2014/02/startrek2009.jpg",
+"url"       :            "https://hlsp2p.com/view/69d94d4e-96ad-5c60-84c9-aafa06ed8cca.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Star Trek 2 Into Darkness สตาร์เทรค 2 ทะยานสู่ห้วงมืด 2013 ภาคไทย",
+"image"     :            "https://www.astronomytrek.com/wp-content/uploads/2016/09/Star-Trek-Into-Darkness.jpg",
+"url"       :            "https://streamhls.com/view/187f9181-404a-53e4-9e34-f573cde8e906.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Star Trek 2 Into Darkness สตาร์เทรค 2 ทะยานสู่ห้วงมืด 2013 ซัพไทย",
+"image"     :            "https://www.astronomytrek.com/wp-content/uploads/2016/09/Star-Trek-Into-Darkness.jpg",
+"url"       :            "https://hlsp2p.com/view/74d9431b-2659-5dfe-9a05-898aa64b78c3.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Star Trek 3 Beyond สตาร์ เทรค 3 ข้ามขอบจักรวาล 2016  ภาคไทย",
+"image"     :            "https://gg-th.com/videos/_YPTuniqid_5cacce495493d4.66596559.jpg",
+"url"       :            "https://streamhls.com/view/4481cfd2-9e18-5a05-8b0a-ca0b72492949.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Star Trek 3 Beyond สตาร์ เทรค 3 ข้ามขอบจักรวาล 2016  ซัพไทย",
+"image"     :            "https://gg-th.com/videos/_YPTuniqid_5cacce495493d4.66596559.jpg",
+"url"       :            "https://hlsp2p.com/view/8c4ffa06-8af3-5e74-b5bf-7c230b555af8.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+"name": "Venom",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+
+{
+"name"      :            "Venom 2018 เวน่อม 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/nsbQwhstoOxpHKlxtPcKUwg2fe.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/venom2018_185616_09-56-58am_2022-09-22_hls.m3u8/venom2018_185616_09-56-58am_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+	
+{
+"name"      :            "Venom 2018 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/nsbQwhstoOxpHKlxtPcKUwg2fe.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/venom2018subth_198715_08-42-48pm_2022-09-22_hls.m3u8/venom2018subth_198715_08-42-48pm_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Venom Let There Be Carnage 2021 เวน่อม 2",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8u1mMvyWej8wLQgMPtLsW5ivlWD.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/venom2021_176883_10-06-56am_2022-09-22_hls.m3u8/venom2021_176883_10-06-56am_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+"name": "X-Men",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/fHJv0TvTXOYx3Ndlrb9wvHCOTKZ.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "X Men X1 ศึกมนุษย์พลังเหนือโลก 2000",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/u4gOTZLplCbP3IgcYcZ7e1zgOAo.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2000xmen_120955_09-43-33pm_2022-10-24_hls.m3u8/2000xmen_120955_09-43-33pm_2022-10-24_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men X1 ศึกมนุษย์พลังเหนือโลก 2000 ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/u4gOTZLplCbP3IgcYcZ7e1zgOAo.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2000Xmen_129183_08-38-53pm_2022-10-25_hls.m3u8/2000Xmen_129183_08-38-53pm_2022-10-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men X2 ศึกมนุษย์พลังเหนือโลก 2003",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/94kVsJsprxzB2cxZNB1cHZe1awN.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2003xmen2_145679_09-54-08pm_2022-10-24_hls.m3u8/2003xmen2_145679_09-54-08pm_2022-10-24_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men X2 ศึกมนุษย์พลังเหนือโลก 2003 ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/94kVsJsprxzB2cxZNB1cHZe1awN.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2003Xmen2_168195_08-40-52pm_2022-10-25_hls.m3u8/2003Xmen2_168195_08-40-52pm_2022-10-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men X3 The Last Stand รวมพลังประจัญบาน 2006",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6RIK1yKFWsrbtV40vHfLULnNip7.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2006xmenls_146694_09-51-46pm_2022-10-24_hls.m3u8/2006xmenls_146694_09-51-46pm_2022-10-24_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men X3 The Last Stand รวมพลังประจัญบาน 2006 ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6RIK1yKFWsrbtV40vHfLULnNip7.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2006Xmenls_186759_09-25-17pm_2022-10-25_hls.m3u8/2006Xmenls_186759_09-25-17pm_2022-10-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Origins Wolverine กำเนิดวูลฟ์เวอรีน 2009",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/e1V5saXVrZc7qn76BxYVwrZNB6T.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2009xmenorigin_122980_09-39-16pm_2022-10-24_hls.m3u8/2009xmenorigin_122980_09-39-16pm_2022-10-24_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Origins Wolverine กำเนิดวูลฟ์เวอรีน 2009 ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/e1V5saXVrZc7qn76BxYVwrZNB6T.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2009Xmenorigin_140390_08-41-58pm_2022-10-25_hls.m3u8/2009Xmenorigin_140390_08-41-58pm_2022-10-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:First Class 2011 เอ็กซ์ เม็น รุ่น 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/c2RSROmoT0GSASqF2fUM1ivXyOr.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2011xmen1st_195718_09-56-02pm_2022-10-24_hls.m3u8/2011xmen1st_195718_09-56-02pm_2022-10-24_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:First Class 2011 เอ็กซ์ เม็น รุ่น 1 ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/c2RSROmoT0GSASqF2fUM1ivXyOr.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2011Xmen1st_197100_07-51-06pm_2022-10-27_hls.m3u8/2011Xmen1st_197100_07-51-06pm_2022-10-27_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:The Wolverine 2013 เดอะ วูล์ฟเวอรีน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fXP4xk8OHPvkGwRFae8eKLuqlD8.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2013wolfth_143282_07-54-00pm_2022-10-27_hls.m3u8/2013wolfth_143282_07-54-00pm_2022-10-27_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:The Wolverine 2013 เดอะ วูล์ฟเวอรีน  ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fXP4xk8OHPvkGwRFae8eKLuqlD8.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2013Wolf_159943_07-51-00pm_2022-10-27_hls.m3u8/2013Wolf_159943_07-51-00pm_2022-10-27_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Days of Future Past 2014 สงครามวันพิฆาตกู้อนาคต",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uvEf0evKEhQsjNM1RxWz2s0EZO9.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2014xmenfutureth_176781_07-55-54pm_2022-10-27_hls.m3u8/2014xmenfutureth_176781_07-55-54pm_2022-10-27_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Days of Future Past 2014 สงครามวันพิฆาตกู้อนาคต ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uvEf0evKEhQsjNM1RxWz2s0EZO9.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2014Xmenfuture_149934_07-52-10pm_2022-10-27_hls.m3u8/2014Xmenfuture_149934_07-52-10pm_2022-10-27_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            " Men:Apocalypse 2016 เอ็กซ์เม็น อะพอคคาลิปส์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fDmkE1K8tp6pLhTA5PRMVPSExCe.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2016Xmenapo_144767_08-42-34pm_2022-10-30_hls.m3u8/2016Xmenapo_144767_08-42-34pm_2022-10-30_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            " Men:Apocalypse 2016 เอ็กซ์เม็น อะพอคคาลิปส์   ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fDmkE1K8tp6pLhTA5PRMVPSExCe.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2016Xmenaposubth_186969_09-09-46pm_2022-10-28_hls.m3u8/2016Xmenaposubth_186969_09-09-46pm_2022-10-28_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Dark Phoenix 2019 เอ็กเม็น ดาร์ก ฟีนิกซ์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ojVQv3qO5dL9kA7pk9KxpMi0ANO.jpg",
+"url"       :            "https://xxx.77player.xyz/iosplaylist/94f2ca0eafb0732876dab200123163d0/94f2ca0eafb0732876dab200123163d0.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "X Men:Dark Phoenix ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ojVQv3qO5dL9kA7pk9KxpMi0ANO.jpg",
+"url"       :            "https://lb1.one3up.com/hls/cf40fe20a238285a4fb789021b29eafa/cf40fe20a238285a4fb789021b29eafa?t=1659104391231",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Logan 2017 โลแกน เดอะ วูล์ฟเวอรีน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/45KTkpV6G3qfv0dQtj20cPZMCNY.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2017logan_110240_09-11-04pm_2022-10-28_hls.m3u8/2017logan_110240_09-11-04pm_2022-10-28_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Logan 2017 โลแกน เดอะ วูล์ฟเวอรีน ซาวด์แทรค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/45KTkpV6G3qfv0dQtj20cPZMCNY.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/2017Logansubth_155842_09-07-56pm_2022-10-28_hls.m3u8/2017Logansubth_155842_09-07-56pm_2022-10-28_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "The New Mutants 2020 มิวแทนท์รุ่นใหม่",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/kttJz8krjqWVic2C9U7KAYhDtyb.jpg",
+"url"       :            "https://lb1.one3up.com/hls/bee6f4c07011ec76ad15354f58d94905/bee6f4c07011ec76ad15354f58d94905?t=1659104856733",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "The New Mutants ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/kttJz8krjqWVic2C9U7KAYhDtyb.jpg",
+"url"       :            "https://lb1.one3up.com/hls/679861391c59a90c80805ee5c6b3b21e/679861391c59a90c80805ee5c6b3b21e?t=1659105115021",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+"name": "Batman",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/b2tylOBE2EvX9GE7jmRsQtHRA3k.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "Batman 1989",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/tstphI6z81k1otgzn7YUcynW4Re.jpg",
+"url"       :            "https://xxx.77player.xyz/hls/b43a39199e7c2598ae651015071ab8dd/b43a39199e7c2598ae651015071ab8dd.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman Returns 1992 แบทแมน รีเทิร์นส",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/rQrIsmets6shNnEAf9lrc0dpWjL.jpg",
+"url"       :            "https://xxx.77player.xyz/hls/19098560089318b78a3d07e2676803b8/19098560089318b78a3d07e2676803b8.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman Forever 1995 แบทแมน ฟอร์เอฟเวอร์ ศึกจอมโจรอมตะ",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6GXafIiSFhddBJBYBERPNx8wzFH.jpg",
+"url"       :            "https://xxx.77player.xyz/hls/559f9a65b80e53eb957e4c5598f734ae/559f9a65b80e53eb957e4c5598f734ae.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman and Robin 1997 แบทแมน & โรบิน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ikssKl2ilX2MMPcoHZ0fyva1X9B.jpg",
+"url"       :            "https://xxx.77player.xyz/hls/bf15dff94a58b7adf93f9796f7b6ef68/bf15dff94a58b7adf93f9796f7b6ef68.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman Begins 2005 แบทแมน บีกินส์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/skov80os5kaSL1rHFAtYLv7w2bP.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/batbegin_131656_09-05-37pm_2022-10-16_hls.m3u8/batbegin_131656_09-05-37pm_2022-10-16_low.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman Begins ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/skov80os5kaSL1rHFAtYLv7w2bP.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Batbeginsubth_147193_10-38-07am_2022-10-20_hls.m3u8/Batbeginsubth_147193_10-38-07am_2022-10-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman The Dark Knight 2008 แบทแมน อัศวินรัตติกาล",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/A9YICp8lGP7Es5R8oD6qUbvDWhn.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/batdarkkn2008_148890_09-12-58pm_2022-10-16_hls.m3u8/batdarkkn2008_148890_09-12-58pm_2022-10-16_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman The Dark Knight ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/A9YICp8lGP7Es5R8oD6qUbvDWhn.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Batdarkkn2008subth_150503_10-37-22am_2022-10-20_hls.m3u8/Batdarkkn2008subth_150503_10-37-22am_2022-10-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman The Dark Knight Rises 2012 แบทแมน อัศวินรัตติกาลผงาด",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/73lKeIl7MOQsFK74shmoSAhitg6.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/darkknightrise2012_120563_09-12-24pm_2022-10-16_hls.m3u8/darkknightrise2012_120563_09-12-24pm_2022-10-16_hls.m3u8",
+"referer"   :            "https://movie-th.tv",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Batman The Dark Knight Rises ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/73lKeIl7MOQsFK74shmoSAhitg6.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Darkknightrise2012subth_173079_10-37-57am_2022-10-20_hls.m3u8/Darkknightrise2012subth_173079_10-37-57am_2022-10-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+
+{
+"name"      :            "The Batman 2022 เดอะ แบทแมน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/The_Batman_2022_150112_01-15-33am_2022-09-25_hls.m3u8/The_Batman_2022_150112_01-15-33am_2022-09-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "The Batman 2022 เดอะ แบทแมน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
+"url"       :            "https://xxx.77player.xyz/iosplaylist/12004885a9d96006500de89101cbb48d/12004885a9d96006500de89101cbb48d.m3u8",
+"referer"   :            "https://movie-th.tv",
+"info": "    ", 
+"playInNatPlayer": "true"
 }
    ]
   }
