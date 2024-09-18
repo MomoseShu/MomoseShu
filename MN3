@@ -1071,7 +1071,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
 {
 "name"      :            "The Batman 2022 เดอะ แบทแมน",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/eUORREWq2ThkkxyiCESCu3sVdGg.jpg",
@@ -1287,9 +1286,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+{
 "name"      :            "The Terminator 1984 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/e7VZBag51dIjbpUNx8JOFzZHfBV.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi1subth_175821_08-32-59pm_2022-10-17_hls.m3u8/termi1subth_175821_08-32-59pm_2022-10-17_hls.m3u8",
@@ -1297,9 +1294,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+ {
 "name"      :            "Terminator 1991 Judgment Day คนเหล็ก 2 วันพิพากษา",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v1qML4ISWztYzxAdkHZpF2mBGOa.jpg",
 "url"       :            "https://xxx.77player.xyz/ioshls/6bb6182a9aefa7121e10eaece6977845/6bb6182a9aefa7121e10eaece6977845.m3u8",
@@ -1307,9 +1302,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+{
 "name"      :            "Terminator 1991 Judgment Day ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v1qML4ISWztYzxAdkHZpF2mBGOa.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8",
@@ -1317,11 +1310,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
-
-        {
+{
 "name"      :            "Terminator 2003 Rise Of The Machines คนเหล็ก 3 กำเนิดใหม่เครื่องจักรสังหาร",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3X43GIuFnadD2dFkT3TQePrag7y.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi3thsound_106212_08-26-13pm_2022-10-18_hls.m3u8/termi3thsound_106212_08-26-13pm_2022-10-18_hls.m3u8",
@@ -1329,11 +1318,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
-
-        {
+{
 "name"      :            "Terminator 2003 Rise Of The Machines ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3X43GIuFnadD2dFkT3TQePrag7y.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi3subth_184192_08-27-52pm_2022-10-18_hls.m3u8/termi3subth_184192_08-27-52pm_2022-10-18_hls.m3u8",
@@ -1341,9 +1326,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+  {
 "name"      :            "Terminator 2009 Salvation คนเหล็ก 4 มหาสงครามจักรกลล้างโลก",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsEyk8OailuOQmobKknWgXfypfb.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi4thsound_133267_08-26-57pm_2022-10-18_hls.m3u8/termi4thsound_133267_08-26-57pm_2022-10-18_hls.m3u8",
@@ -1351,9 +1334,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+  {
 "name"      :            "Terminator 2009 Salvation ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsEyk8OailuOQmobKknWgXfypfb.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi4subth_114159_08-27-56pm_2022-10-18_hls.m3u8/termi4subth_114159_08-27-56pm_2022-10-18_hls.m3u8",
@@ -1361,8 +1342,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-        {
+{
 "name"      :            "Terminator 5 Genisys 2015 คนเหล็ก 5 มหาวิบัติจักรกลยึดโลก",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uMUq3XJuwVYdLefVlw5cySmhLV.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi5thsound_139277_08-28-32pm_2022-10-18_hls.m3u8/termi5thsound_139277_08-28-32pm_2022-10-18_hls.m3u8",
@@ -1370,10 +1350,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
-        {
+   {
 "name"      :            "Terminator 5 Genisys 2015 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uMUq3XJuwVYdLefVlw5cySmhLV.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi5subth_128948_08-30-43pm_2022-10-18_hls.m3u8/termi5subth_128948_08-30-43pm_2022-10-18_hls.m3u8",
@@ -1381,8 +1358,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
         {
 "name"      :            "Terminator 6 Dark Fate 2019 คนเหล็ก 6 วิกฤตชะตาโลก",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9o9X8Ubr7t5WA09zvHO2uwwcCAW.jpg",
@@ -1391,9 +1366,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+  {
 "name"      :            "Terminator 6 Dark Fate 2019 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9o9X8Ubr7t5WA09zvHO2uwwcCAW.jpg",
 "url"       :            "https://cnn.nebulamov.com/src/hls/termi6subth_144551_10-42-14am_2022-10-20_hls.m3u8/termi6subth_144551_10-42-14am_2022-10-20_hls.m3u8",
@@ -1416,9 +1389,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-         {
+{
 "name"      :            "THE MATRIX 1999 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ll4HTrUVuELq7wixDB36uzI1VHN.jpg",
 "url"       :            "https://main.77player.xyz/m3u8/45ad96e3c7c27d6cd7dcefa9/45ad96e3c7c27d6cd7dcefa9438.m3u8",
@@ -1426,17 +1397,13 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
- 
-
-        {
+  {
 "name"      :            "THE MATRIX RELOADED 2003 สงครามมนุษย์เหนือโลก",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/xX65SiqPmDrQsbKIQgLwFKghyxr.jpg",
 "url"			: "https://streamhls.com/view/db353322-df80-55db-97ba-afa605cc5d1d.m3u8", 
-"playInNatPlayer" : "true"},
-
-
-
-        {
+"playInNatPlayer" : "true"
+},
+ {
 "name"      :            "THE MATRIX RELOADED 2003 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/xX65SiqPmDrQsbKIQgLwFKghyxr.jpg",
 "url"       :            "https://main.77player.xyz/m3u8/9fdf0f3957a6c549b05f7609/9fdf0f3957a6c549b05f7609438.m3u8",
@@ -1444,9 +1411,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+ {
 "name"      :            "THE MATRIX REVOLUTIONS 2003 ปฏิวัติมนุษย์เหนือโลก",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jqyOkODNX96Tu4CH2D75qOsuOpK.jpg",
 "url"       :            "https://streamhls.com/view/db353322-df80-55db-97ba-afa605cc5d1d.m3u8",
@@ -1454,9 +1419,7 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-        {
+ {
 "name"      :            "THE MATRIX REVOLUTIONS 2003 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jqyOkODNX96Tu4CH2D75qOsuOpK.jpg",
 "url"       :            "https://p2p.stream1688.com/view/41f7be7a-12c2-5fba-bff2-97e316d4c861.txt",
@@ -1464,18 +1427,13 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
-        {
+{
 "name"      :            "THE MATRIX RESURRECTIONS 2021 เดอะ เมทริกซ์ 4 เรเซอเร็คชั่นส์",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hjAI67s5P3QO8Tl04nLV0rpqbID.jpg",
 "url"			: "https://streamhls.com/view/2fbcbe1b-e02b-58d9-901a-ea9d3b16d8b8.m3u8", 
-"playInNatPlayer" : "true"},
-
-
-
-        {
+"playInNatPlayer" : "true"
+},
+{
 "name"      :            "THE MATRIX RESURRECTIONS 2021 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hjAI67s5P3QO8Tl04nLV0rpqbID.jpg",
 "url"			: "https://streamhls.com/view/c50cedd0-bbb8-5a43-ba20-14bfdc668321.m3u8", 
@@ -1487,8 +1445,7 @@
       "name": "Bad Boy",
       "author":  "",
       "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/tQ7CVLWrE1AVWfb2IUICtX9ChEG.jpg",
-      "stations": [
-        
+      "stations": [        
 {
 "name"      :            "BAD BOYS 1995 แบดบอยส์ คู่หูขวางนรก 1",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",
@@ -1497,8 +1454,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
  {
 "name"      :            "BAD BOYS 1995 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",
@@ -1507,8 +1462,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
  {
 "name"      :            "BAD BOYS II 2003 แบดบอยส์ คู่หูขวางนรก 2",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq888t3Lr0eRM35A8x5bN5UBTem.jpg",
@@ -1517,8 +1470,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
  {
 "name"      :            "BAD BOYS II 2003 ST ",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq888t3Lr0eRM35A8x5bN5UBTem.jpg",
@@ -1527,9 +1478,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
  {
 "name"      :            "BAD BOYS FOR LIFE 2020 แบดบอยส์ คู่หูขวางนรก 3",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gDj2pexYOTNW702D6iCe9hBqmtb.jpg",
@@ -1538,8 +1486,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
  {
 "name"      :            "BAD BOYS FOR LIFE 2020 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gDj2pexYOTNW702D6iCe9hBqmtb.jpg",
@@ -1554,8 +1500,7 @@
       "name": "Olympus Has Fallen",
       "author":  "",
       "image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvNi8zNDE2Mi9vbHltcHVzLWhhcy1mYWxsZW4tcGl4Mi5qcGc=.jpg",
-      "stations": [
-        
+      "stations": [        
 {
 "name"      :            "OLYMPUS HAS FALLEN 2013 ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/1uGunbWLjSa04kmdPLwKbU6Ytt8.jpg",
@@ -1564,7 +1509,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
 {
 "name"      :            "OLYMPUS HAS FALLEN 2013 ST",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/1uGunbWLjSa04kmdPLwKbU6Ytt8.jpg",
@@ -1573,8 +1517,6 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
 {
 "name"      :            "LONDON HAS FALLEN 2016 ยุทธการถล่มลอนดอน",
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qHtWWrZnzmfKNJGk2A7OZS5iSF1.jpg",
@@ -1583,38 +1525,29 @@
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
 {
-"name"      :            "LONDON HAS FALLEN 2016 ST",
-"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qHtWWrZnzmfKNJGk2A7OZS5iSF1.jpg",
-"url"       :            "https://streamhls.com/view/358f3582-e19a-5a76-bbd3-17e7d85c30a2.m3u8",
+   "name"      :            "LONDON HAS FALLEN 2016 ST",
+   "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qHtWWrZnzmfKNJGk2A7OZS5iSF1.jpg",
+  "url"       :            "https://streamhls.com/view/358f3582-e19a-5a76-bbd3-17e7d85c30a2.m3u8",
 "referer"   :            "https://streamhls.com",
 "info": "    ", 
 "playInNatPlayer": "true"
 },
-
-
-
 {
-"name"      :            "ANGEL HAS FALLEN 2019 ผ่ายุทธการ ดับแผนอหังการ์",
-"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
-"url"       :            "https://streamhls.com/view/0737731c-c402-59f5-8ae4-53d60f79301c.m3u8",
-"referer"   :            "https://streamhls.com",
-"info": "    ", 
-"playInNatPlayer": "true"
+   "name"      :            "ANGEL HAS FALLEN 2019 ผ่ายุทธการ ดับแผนอหังการ์",
+   "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
+   "url"       :            "https://streamhls.com/view/0737731c-c402-59f5-8ae4-53d60f79301c.m3u8",
+   "referer"   :            "https://streamhls.com",
+   "info": "    ", 
+   "playInNatPlayer": "true"
 },
-
-
-
 {
-"name"      :            "ANGEL HAS FALLEN 2019 ST",
-"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
-"url"       :            "https://streamhls.com/view/1d2a9457-c39b-5e36-b299-55686f9374af.m3u8",
-"referer"   :            "https://streamhls.com",
-"info": "    ", 
-"playInNatPlayer": "true"
+   "name"      :            "ANGEL HAS FALLEN 2019 ST",
+   "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
+   "url"       :            "https://streamhls.com/view/1d2a9457-c39b-5e36-b299-55686f9374af.m3u8",
+   "referer"   :            "https://streamhls.com",
+    "info": "    ", 
+    "playInNatPlayer": "true"
 }
    ]
   }
