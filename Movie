@@ -1064,9 +1064,767 @@
 "referer"   :            "https://lb1.one3up.com",
 "info": "    ", 
 "playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+      "name": "Bad Boy",
+      "author":  "",
+      "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/tQ7CVLWrE1AVWfb2IUICtX9ChEG.jpg",
+      "stations": [
+{
+"name"      :            "BAD BOYS 1995 แบดบอยส์ คู่หูขวางนรก 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",
+"url"       :            "https://streamhls.com/view/41b29de7-1deb-51e7-a15a-943540a31246.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "BAD BOYS 1995 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",
+"url"       :            "https://hlsp2p.com/view/2a2da20f-e337-5612-bb6e-d47400d62aac.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "BAD BOYS II 2003 แบดบอยส์ คู่หูขวางนรก 2",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq888t3Lr0eRM35A8x5bN5UBTem.jpg",
+"url"       :            "https://streamhls.com/view/2342e85c-abbb-5095-bf3f-2bd03d24e349.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "BAD BOYS II 2003 ST ",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/oq888t3Lr0eRM35A8x5bN5UBTem.jpg",
+"url"       :            "https://hlsp2p.com/view/22fca417-d65b-59a0-9917-a4a37f5e550a.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "BAD BOYS FOR LIFE 2020 แบดบอยส์ คู่หูขวางนรก 3",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gDj2pexYOTNW702D6iCe9hBqmtb.jpg",
+"url"       :            "https://streamhls.com/view/7feb4762-9a43-5cf5-8cc9-2b333a9423c6.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "BAD BOYS FOR LIFE 2020 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gDj2pexYOTNW702D6iCe9hBqmtb.jpg",
+"url"       :            "https://hlsp2p.com/view/4aa4c204-8e67-524b-b528-e5b2df493d47.m3u8",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+      "name": "Olympus Has Fallen",
+      "author":  "",
+      "image": "https://s.isanook.com/mv/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL212LzAvdWQvNi8zNDE2Mi9vbHltcHVzLWhhcy1mYWxsZW4tcGl4Mi5qcGc=.jpg",
+      "stations": [
+{
+"name"      :            "OLYMPUS HAS FALLEN 2013 ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/1uGunbWLjSa04kmdPLwKbU6Ytt8.jpg",
+"url"       :            "https://streamhls.com/view/f4c55b0d-52d0-57df-9200-ddc3b30cd5fb.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "OLYMPUS HAS FALLEN 2013 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/1uGunbWLjSa04kmdPLwKbU6Ytt8.jpg",
+"url"       :            "https://streamhls.com/view/53ddd7aa-2810-5979-8590-9a085ab127de.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "LONDON HAS FALLEN 2016 ยุทธการถล่มลอนดอน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qHtWWrZnzmfKNJGk2A7OZS5iSF1.jpg",
+"url"       :            "https://streamhls.com/view/6a9e461e-3b71-592e-9f12-c83885c57dec.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "LONDON HAS FALLEN 2016 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/qHtWWrZnzmfKNJGk2A7OZS5iSF1.jpg",
+"url"       :            "https://streamhls.com/view/358f3582-e19a-5a76-bbd3-17e7d85c30a2.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "ANGEL HAS FALLEN 2019 ผ่ายุทธการ ดับแผนอหังการ์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
+"url"       :            "https://streamhls.com/view/0737731c-c402-59f5-8ae4-53d60f79301c.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "ANGEL HAS FALLEN 2019 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8kf2XYVjaZIq99JwFy9pqP6rUGl.jpg",
+"url"       :            "https://streamhls.com/view/1d2a9457-c39b-5e36-b299-55686f9374af.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+      "name": "Pirates of the Caribbean",
+      "author":  "",
+      "image": "https://i.pinimg.com/originals/2d/69/0f/2d690f6b0592b4afb273cd98b4387017.jpg",
+      "stations": [
+        
+{"name"		: "Pirates of the Caribbean 1 The Curse of the Black Pearl (2003) คืนชีพกองทัพโจรสลัดสยองโลก", 
+"info"		: " พากย์ไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/6xEtK5EuO5PEKZ7zXCXSZB68Lkc.jpg", 
+"url"			: "https://streamhls.com/view/b3239d56-aa06-57c5-a50c-e6df76355588.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"      :            "Pirates of the Caribbean 1 The Curse of the Black Pearl (2003) คืนชีพกองทัพโจรสลัดสยองโลก",
+"info"	:                       " ซัพไทย", 
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6xEtK5EuO5PEKZ7zXCXSZB68Lkc.jpg",
+"url"       :            "https://streamhls.com/view/5a590150-478c-5862-ba2a-3c3056cdb1f5.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name"		: "Pirates of the Caribbean 2 Dead Man’s Chest (2006) สงครามปีศาจโจรสลัดสยองโลก", 
+"info"		: " พากย์ไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/iv5ilhzGL2BXu64HRNcFox3447g.jpg", 
+"url"			: "https://streamhls.com/view/fcfb8d88-fbc2-5598-8fd8-c494357925e2.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 2 Dead Man’s Chest (2006) สงครามปีศาจโจรสลัดสยองโลก", 
+"info"	:                       " ซัพไทย",  
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/iv5ilhzGL2BXu64HRNcFox3447g.jpg", 
+"url"			: "https://streamhls.com/view/5a590150-478c-5862-ba2a-3c3056cdb1f5.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 3 At World’s End (2007) ผจญภัยล่าโจรสลัดสุดขอบโลก", 
+"info"		: " พากย์ไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/s8p827Rz89NOpxLAaQcRi99iq7f.jpg", 
+"url"			: "https://streamhls.com/view/247df715-ec7f-543a-a530-3edb9e783784.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 3 At World’s End (2007) ผจญภัยล่าโจรสลัดสุดขอบโลก", 
+"info"		: " ซัพไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/s8p827Rz89NOpxLAaQcRi99iq7f.jpg", 
+"url"			: "https://streamhls.com/view/d5d88395-7e3f-5ce7-9c18-60599d4aa12b.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 4 On Stranger Tides (2011) ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก", 
+"info"		: " พากย์ไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/zoTQh7FjRLQfsQ0Otzhw6hwlAZq.jpg", 
+"url"			: "https://streamhls.com/view/e6efd7a8-aa17-55ea-87e2-55ae6f43a168.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 4 On Stranger Tides (2011) ผจญภัยล่าสายน้ำอมฤตสุดขอบโลก", 
+"info"		: "ซัพไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/zoTQh7FjRLQfsQ0Otzhw6hwlAZq.jpg", 
+"url"			: "https://streamhls.com/view/c4c34b4a-1e05-5f1e-8954-0030628351cb.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 5 Dead Men Tell No Tales (2017) สงครามแค้นโจรสลัดไร้ชีพ", 
+"info"		: " พากย์ไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/5aHOkr2t94Sk0Ty0mpKB5vYCFtb.jpg", 
+"url"			: "https://streamhls.com/view/a06fc41b-2bca-5b8f-97cb-a12c5a1573f1.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"		: "Pirates of the Caribbean 5 Dead Men Tell No Tales (2017) สงครามแค้นโจรสลัดไร้ชีพ", 
+"info"		: " ซัพไทย", 
+"image"		: "https://www.themoviedb.org/t/p/w500_and_h282_face/5aHOkr2t94Sk0Ty0mpKB5vYCFtb.jpg", 
+"url"			: "https://streamhls.com/view/fe29341d-ab19-5384-bb92-73c7b84265c8.m3u8", 
+"playInNatPlayer" : "true"
+        }
+      ]
+    },
+{
+"name": "DC Universe",
+"author": "",
+"image": "https://i.imgur.com/lCoL9JN.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "Man of Steel 2013 บุรุษเหล็กซูเปอร์แมน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zQmawynS76X7SXGS39g8Z7aiXI2.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/mos2013_129498_01-45-50pm_2022-10-02_hls.m3u8/mos2013_129498_01-45-50pm_2022-10-02_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Man of Steel 2013 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zQmawynS76X7SXGS39g8Z7aiXI2.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Mos2013subth_197323_07-07-03pm_2022-10-02_hls.m3u8/Mos2013subth_197323_07-07-03pm_2022-10-02_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Batman V Superman Dawn of Justice 2016 แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/p5AdYNJL92XCxfI102LOw29gbev.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/supvbat_114233_01-49-28pm_2022-10-02_hls.m3u8/supvbat_114233_01-49-28pm_2022-10-02_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Batman V Superman Dawn of Justice 2016 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/p5AdYNJL92XCxfI102LOw29gbev.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Supvbatsubth_144086_07-10-25pm_2022-10-02_hls.m3u8/Supvbatsubth_144086_07-10-25pm_2022-10-02_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Suicide Squad 2016 ทีมพลีชีพมหาวายร้าย",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ojNPMImGngOKpg39CW2hirTUZ3t.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/ss2016_136008_10-53-29pm_2022-09-20_hls.m3u8/ss2016_136008_10-53-29pm_2022-09-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Suicide Squad 2016 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ojNPMImGngOKpg39CW2hirTUZ3t.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/ss2016subth_109904_08-56-39pm_2022-09-22_hls.m3u8/ss2016subth_109904_08-56-39pm_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Wonder Woman 2017 วันเดอร์ วูแมน",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hYA8GBCCVdtV2oUvQxGfbKiFofs.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Wonder_Woman_2017_119911_09-47-16am_2022-09-29_hls.m3u8/Wonder_Woman_2017_119911_09-47-16am_2022-09-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Wonder Woman 2017 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hYA8GBCCVdtV2oUvQxGfbKiFofs.jpg",
+"url"       :            "https://lb1.one3up.com/hls/300399354d5df9a1f2ee89f859216e1e/300399354d5df9a1f2ee89f859216e1e?t=1659066396936",
+"referer"   :            "https://lb1.one3up.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Justice League 2017 จัสติซ ลีก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6PxLSEf9zt9ZM6BsVdia9QXSibZ.jpg",
+"url"       :            "https://lb1.one3up.com/hls/a061c8f8ce4612406c2a8a923631247b/a061c8f8ce4612406c2a8a923631247b?t=1659067147426",
+"referer"   :            "https://lb1.one3up.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Justice League 2017 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/6PxLSEf9zt9ZM6BsVdia9QXSibZ.jpg",
+"url"       :            "https://lb1.one3up.com/hls/18808f66637318f1f2d109c42c7e99cd/18808f66637318f1f2d109c42c7e99cd?t=1659067196887",
+"referer"   :            "https://lb1.one3up.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Aquaman 2018 อควาแมนเจ้าสมุทร",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fc43l6HqgE5WotpCjk2MHDLZFy1.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Aquaman_2018_105107_04-38-48am_2022-09-25_hls.m3u8/Aquaman_2018_105107_04-38-48am_2022-09-25_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Aquaman 2018 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fc43l6HqgE5WotpCjk2MHDLZFy1.jpg",
+"url"       :            "https://lb1.one3up.com/hls/c8d0828ddab660ecfc48a7a9c9d22850/c8d0828ddab660ecfc48a7a9c9d22850?t=1659067613299",
+"referer"   :            "https://lb1.one3up.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Shazam 2019 ชาแซม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fhpjI5L99lPJkKbyqDEdcLtjqAG.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Shazam_2019_153695_08-05-17am_2022-12-04_hls.m3u8/Shazam_2019_153695_08-05-17am_2022-12-04_hls.m3u8
+",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Shazam 2019 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fhpjI5L99lPJkKbyqDEdcLtjqAG.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Shazam_2019_153695_08-05-17am_2022-12-04_hls.m3u8/Shazam_2019_153695_08-05-17am_2022-12-04_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Joker 2019",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/nxt5320P4XdkCaRb99FEmFYfMh3.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Joker_2019_168102_01-01-54pm_2022-09-07_hls.m3u8/Joker_2019_168102_01-01-54pm_2022-09-07_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Joker 2019 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/nxt5320P4XdkCaRb99FEmFYfMh3.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/jokersubth_139170_08-47-45pm_2022-10-16_hls.m3u8/jokersubth_139170_08-47-45pm_2022-10-16_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Birds of Prey 2020 ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8hApvKHH3xTPvSWllwDljyU4m9Z.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Birds_of_Prey_2020_151094_02-06-12am_2022-10-14_hls.m3u8/Birds_of_Prey_2020_151094_02-06-12am_2022-10-14_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Birds of Prey 2020 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/8hApvKHH3xTPvSWllwDljyU4m9Z.jpg",
+"url"       :            "https://lb1.one3up.com/hls/4fafcf88c15fd4ea0e7496ea7bcf9e5f/4fafcf88c15fd4ea0e7496ea7bcf9e5f?t=1659074124656",
+"referer"   :            "https://lb1.one3up.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Wonder Woman 1984 วันเดอร์ วูแมน 1984(2020)",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/axRLO2P475BdpZX2aHWIMy07P0x.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Wonder_Woman_1984_2020_115664_10-07-35am_2022-09-29_hls.m3u8/Wonder_Woman_1984_2020_115664_10-07-35am_2022-09-29_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Wonder Woman 1984 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/axRLO2P475BdpZX2aHWIMy07P0x.jpg",
+"url"       :            "https://main.77player.xyz/m3u8/c166372b89d6a03736a31d8f/c166372b89d6a03736a31d8f438.m3u8",
+"referer"   :            "https://www.i-moviehd.com/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Zack Snyder s Justice League 2021",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bJkQXnkg8V9KcuGJqM58WfkmjzY.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Zack_Snyder_s_Justice_League_2021_178139_07-33-37am_2022-09-26_hls.m3u8/Zack_Snyder_s_Justice_League_2021_178139_07-33-37am_2022-09-26_hls.m3u8",
+"referer"   :            "https://xxx.77player.xyz/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "Zack Snyder s Justice League 2021 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/bJkQXnkg8V9KcuGJqM58WfkmjzY.jpg",
+"url"       :            "https://lb1.one3up.com/playlist/7af161770c6e2205a7a30d024fe51275/1659074745200",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},	
+{
+"name"      :            "The Suicide Squad 2021 เดอะ ซุยไซด์ สควอด",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zfLcW48wMZW3QksmgYXcd2kZDjD.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/ss2021_177602_10-49-05pm_2022-09-20_hls.m3u8/ss2021_177602_10-49-05pm_2022-09-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "The Suicide Squad 2021 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zfLcW48wMZW3QksmgYXcd2kZDjD.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/ss2021subth_151064_09-01-31pm_2022-09-22_hls.m3u8/ss2021subth_151064_09-01-31pm_2022-09-22_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "BLACK ADAM 2022 แบล็ก อดัม",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gYDZv1JS6CQkFLrGvZ9ON48rVvj.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/Black_Adam_2022_118150_04-49-07am_2023-01-07_hls.m3u8/Black_Adam_2022_118150_04-49-07am_2023-01-07_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "BLACK ADAM 2022 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/gYDZv1JS6CQkFLrGvZ9ON48rVvj.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/EN_Black_Adam_2022_181288_04-33-35pm_2022-11-30_hls.m3u8/EN_Black_Adam_2022_181288_04-33-35pm_2022-11-30_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+{
+"name": "Harry Potter",
+"author": "",
+"image": "https://www.themoviedb.org/t/p/w500_and_h282_face/lsmVL3S5QdIqEcOj6Yi5RyHAfma.jpg",
+"url": "",
+"info": "",
+"stations": [ 
+{
+"name"      :            "Harry Potter and the Sorcerer’s Stone 2001 แฮร์รี่ พอตเตอร์ กับ ศิลาอาถรรพ์ ภาค 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cvNvWh3vpZHCCmuZ1g75H8iXuxi.jpg",
+"url"       :            "https://streamhls.com/view/fb56793e-2764-51e4-be34-e635b88c7bee.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Sorcerer’s Stone 2001 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/cvNvWh3vpZHCCmuZ1g75H8iXuxi.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/22121e89106c5f633ab2c0652da5cc36/22121e89106c5f633ab2c0652da5cc36.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Chamber of Secrets 2002 แฮร์รี่ พอตเตอร์ กับ ห้องแห่งความลับ ภาค 2",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg",
+"url"       :            "https://streamhls.com/view/eac7fd72-d52b-50e1-aa11-cbe562b1b7f8.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Chamber of Secrets 2002 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/H2_164492_11-10-43pm_2022-11-06_hls.m3u8/H2_164492_11-10-43pm_2022-11-06_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Prisoner of Azkaban 2004 แฮร์รี่ พอตเตอร์ กับ นักโทษแห่งอัซคาบัน ภาค 3",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/yVGOIFTHhZtjgRHmO9Aynohcz6t.jpg",
+"url"       :            "https://streamhls.com/view/ac0032c7-75d2-542e-aed3-c279f9a181da.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Prisoner of Azkaban 2004 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/yVGOIFTHhZtjgRHmO9Aynohcz6t.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/H4_136926_11-13-23pm_2022-11-06_hls.m3u8/H4_136926_11-13-23pm_2022-11-06_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Goblet of Fire 2005 แฮร์รี่ พอตเตอร์ กับ ถ้วยอัคนี ภาค 4",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/u3wmCW0cdr0ac7oihdvCa5eDlPl.jpg",
+"url"       :            "https://streamhls.com/view/0c12e822-ac1c-5c57-a027-13377969947d.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Goblet of Fire 2005 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/u3wmCW0cdr0ac7oihdvCa5eDlPl.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/H4_183565_11-10-22pm_2022-11-06_hls.m3u8/H4_183565_11-10-22pm_2022-11-06_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Order of the Phoenix 2007 แฮร์รี่ พอตเตอร์ กับ ภาคีนกฟีนิกซ์ ภาค 5",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/yoxQqxrdA7Xz0qFqxdBKlQi60g6.jpg",
+"url"       :            "https://streamhls.com/view/1daf4e46-3745-55b4-a94f-7e1cf3241daf.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Order of the Phoenix 2007 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/yoxQqxrdA7Xz0qFqxdBKlQi60g6.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/ba014060bc472240be8661a4dd4e7536/ba014060bc472240be8661a4dd4e7536.m3u8",
+"referer"   :            "https://streamhee.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Half-Blood Prince 2009 แฮร์รี่ พอตเตอร์ กับ เจ้าชายเลือดผสม ภาค 6",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fc5P2FX8cvKn6l8O27aKepnK3TT.jpg",
+"url"       :            "https://streamhls.com/view/cff3a394-056a-5803-b67c-806ea4f5b7a6.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Half-Blood Prince 2009 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/fc5P2FX8cvKn6l8O27aKepnK3TT.jpg",
+"url"       :            "https://hlsp2p.com/files/a49121d77ee46e3fc979a8419abbf6c0_original.txt",
+"referer"   :            "https://hlsp2p.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Deathly Hallows Part 1 2010 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 7 ตอนที่ 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pAqz6yM4nilXj1kDWayWNI6Hc78.jpg",
+"url"       :            "https://streamhls.com/view/49ff9cc4-ddb4-55d3-95a9-7002ca2290a0.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Deathly Hallows Part 1 2010 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/pAqz6yM4nilXj1kDWayWNI6Hc78.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/bd7acdff9cf3868fa4051dac511cf3b3/bd7acdff9cf3868fa4051dac511cf3b3.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Deathly Hallows Part 2 2011 แฮร์รี่ พอตเตอร์ กับ เครื่องรางยมทูต ภาค 7 ตอนที่ 2",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
+"url"       :            "https://streamhls.com/view/7995c2c4-881e-5899-a806-a281d6abe570.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter and the Deathly Hallows Part 2 2011 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/dcdbc3e67647be1413c24e68cca4f3ae/dcdbc3e67647be1413c24e68cca4f3ae.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Harry Potter 20th Anniversary Return to Hogwarts 2022",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/w5ubUx6SxdIC7c6yBSt8yWFldCH.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/05c0a9e5fda8d45bde4e1b04843c59f7/05c0a9e5fda8d45bde4e1b04843c59f7.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+  {
+      "name": "TOP GUN",
+      "author":  "",
+      "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/yEJD4J8hqams88HWos6srj7HUnU.jpg",
+      "stations": [
+        {
+"name"      :            "TOP GUN 1986 ท็อปกัน ฟ้าเหนือฟ้า",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/am0wHjplG1YynuDWz2LPWx5V9kJ.jpg",
+"url"       :            "https://streamhls.com/view/63d98420-4927-5fb5-80ed-bc6a6ff15c3f.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+    {
+"name"      :            "TOP GUN 1986 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/am0wHjplG1YynuDWz2LPWx5V9kJ.jpg",
+"url"       :            "https://lb1.one3up.com/hls/8f3f443bbc1461a8ab3e5cda2beaa8c1/8f3f443bbc1461a8ab3e5cda2beaa8c1?t=1660991831829",
+"referer"   :            "https://lb1.one3up.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+    {
+"name"      :            "TOP GUN:MAVERICK 2022 ท็อปกัน มาเวอริค",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jALOpRgEjKLWn5ZD01pGecHdCNt.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/2b219014f554ac0da4d90b6966804a60/2b219014f554ac0da4d90b6966804a60.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+    {
+"name"      :            "TOP GUN:MAVERICK 2022 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jALOpRgEjKLWn5ZD01pGecHdCNt.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/2d2d8e358d6ad31a0d2cba405fcb80af/2d2d8e358d6ad31a0d2cba405fcb80af.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+  {
+      "name": "The Terminator",
+      "author":  "",
+      "image": "https://www.kickassfacts.com/wp-content/uploads/2016/05/The-Terminator.jpg",
+      "stations": [
+        {
+"name"      :            "The Terminator 1984 คนเหล็ก ภาค 1",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/e7VZBag51dIjbpUNx8JOFzZHfBV.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "The Terminator 1984 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/e7VZBag51dIjbpUNx8JOFzZHfBV.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi1subth_175821_08-32-59pm_2022-10-17_hls.m3u8/termi1subth_175821_08-32-59pm_2022-10-17_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 1991 Judgment Day คนเหล็ก 2 วันพิพากษา",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v1qML4ISWztYzxAdkHZpF2mBGOa.jpg",
+"url"       :            "https://xxx.77player.xyz/ioshls/6bb6182a9aefa7121e10eaece6977845/6bb6182a9aefa7121e10eaece6977845.m3u8",
+"referer"   :            "https://xxx.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 1991 Judgment Day ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/v1qML4ISWztYzxAdkHZpF2mBGOa.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8/termi2thsound_144727_08-34-19pm_2022-10-17_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 2003 Rise Of The Machines คนเหล็ก 3 กำเนิดใหม่เครื่องจักรสังหาร",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3X43GIuFnadD2dFkT3TQePrag7y.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi3thsound_106212_08-26-13pm_2022-10-18_hls.m3u8/termi3thsound_106212_08-26-13pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 2003 Rise Of The Machines ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/3X43GIuFnadD2dFkT3TQePrag7y.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi3subth_184192_08-27-52pm_2022-10-18_hls.m3u8/termi3subth_184192_08-27-52pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 2009 Salvation คนเหล็ก 4 มหาสงครามจักรกลล้างโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsEyk8OailuOQmobKknWgXfypfb.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi4thsound_133267_08-26-57pm_2022-10-18_hls.m3u8/termi4thsound_133267_08-26-57pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Terminator 2009 Salvation ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/lsEyk8OailuOQmobKknWgXfypfb.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi4subth_114159_08-27-56pm_2022-10-18_hls.m3u8/termi4subth_114159_08-27-56pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "Terminator 5 Genisys 2015 คนเหล็ก 5 มหาวิบัติจักรกลยึดโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uMUq3XJuwVYdLefVlw5cySmhLV.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi5thsound_139277_08-28-32pm_2022-10-18_hls.m3u8/termi5thsound_139277_08-28-32pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 5 Genisys 2015 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/uMUq3XJuwVYdLefVlw5cySmhLV.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi5subth_128948_08-30-43pm_2022-10-18_hls.m3u8/termi5subth_128948_08-30-43pm_2022-10-18_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 6 Dark Fate 2019 คนเหล็ก 6 วิกฤตชะตาโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9o9X8Ubr7t5WA09zvHO2uwwcCAW.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi6thsound_117365_10-45-57am_2022-10-20_hls.m3u8/termi6thsound_117365_10-45-57am_2022-10-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "Terminator 6 Dark Fate 2019 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/9o9X8Ubr7t5WA09zvHO2uwwcCAW.jpg",
+"url"       :            "https://cnn.nebulamov.com/src/hls/termi6subth_144551_10-42-14am_2022-10-20_hls.m3u8/termi6subth_144551_10-42-14am_2022-10-20_hls.m3u8",
+"referer"   :            "https://movie-th.tv/",
+"info": "    ", 
+"playInNatPlayer": "true"
+        }
+      ]
+    },
+  {
+      "name": "The Matrix",
+      "author":  "(Update 05/01/66) By Asawin  ",
+      "image": "http://2.bp.blogspot.com/-5IdrDIHTCwk/T0mKEq4ynwI/AAAAAAAAApY/txzTr6NkJe8/s1600/matrix_overview.jpg",
+      "stations": [
+        {
+"name"      :            "THE MATRIX 1999 เพาะพันธุ์มนุษย์เหนือโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ll4HTrUVuELq7wixDB36uzI1VHN.jpg",
+"url"       :            "https://streamhls.com/view/e61319f5-47f7-5ee2-ab7f-14b4cbe93fe6.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "THE MATRIX 1999 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/ll4HTrUVuELq7wixDB36uzI1VHN.jpg",
+"url"       :            "https://main.77player.xyz/m3u8/45ad96e3c7c27d6cd7dcefa9/45ad96e3c7c27d6cd7dcefa9438.m3u8",
+"referer"   :            "https://main.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+ {
+"name"      :            "THE MATRIX RELOADED 2003 สงครามมนุษย์เหนือโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/xX65SiqPmDrQsbKIQgLwFKghyxr.jpg",
+"url"			: "https://streamhls.com/view/db353322-df80-55db-97ba-afa605cc5d1d.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"      :            "THE MATRIX RELOADED 2003 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/xX65SiqPmDrQsbKIQgLwFKghyxr.jpg",
+"url"       :            "https://main.77player.xyz/m3u8/9fdf0f3957a6c549b05f7609/9fdf0f3957a6c549b05f7609438.m3u8",
+"referer"   :            "https://main.77player.xyz",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "THE MATRIX REVOLUTIONS 2003 ปฏิวัติมนุษย์เหนือโลก",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jqyOkODNX96Tu4CH2D75qOsuOpK.jpg",
+"url"       :            "https://streamhls.com/view/db353322-df80-55db-97ba-afa605cc5d1d.m3u8",
+"referer"   :            "https://streamhls.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "THE MATRIX REVOLUTIONS 2003 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/jqyOkODNX96Tu4CH2D75qOsuOpK.jpg",
+"url"       :            "https://p2p.stream1688.com/view/41f7be7a-12c2-5fba-bff2-97e316d4c861.txt",
+"referer"   :            "https://p2p.stream1688.com",
+"info": "    ", 
+"playInNatPlayer": "true"
+},
+{
+"name"      :            "THE MATRIX RESURRECTIONS 2021 เดอะ เมทริกซ์ 4 เรเซอเร็คชั่นส์",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hjAI67s5P3QO8Tl04nLV0rpqbID.jpg",
+"url"			: "https://streamhls.com/view/2fbcbe1b-e02b-58d9-901a-ea9d3b16d8b8.m3u8", 
+"playInNatPlayer" : "true"
+},
+{
+"name"      :            "THE MATRIX RESURRECTIONS 2021 ST",
+"image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hjAI67s5P3QO8Tl04nLV0rpqbID.jpg",
+"url"			: "https://streamhls.com/view/c50cedd0-bbb8-5a43-ba20-14bfdc668321.m3u8", 
+"playInNatPlayer" : "true"
 }
    ]
   }
  ]
 }
+
 
