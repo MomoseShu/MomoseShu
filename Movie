@@ -768,7 +768,7 @@
         {
           "name": "PACIFIC RIM 2013 แปซิฟิค ริม สงครามอสูรเหล็ก",
           "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/rHqYeDsvWZQKMoBXuaiQKqZQjjv.jpg",
-          "url": "https://streamhls.com/view/df5f8d60-23ed-5f2f-9ed4-f11d0704b6fb.m3u8",
+          "url": "https://playermhd.p2phls.xyz/49ede09f-f141-44e9-b467-6019c36445ae/_",
           "referer": "https://lb1.one3up.com"
         },
         {
@@ -780,7 +780,7 @@
         {
           "name": "PACIFIC RIM UPRISING 2018 แปซิฟิค ริม 2 ปฏิวัติพลิกโลก",
           "image": "https://www.themoviedb.org/t/p/w500_and_h282_face/7SFn4TLKciVU0Nk1M0bpY5q3due.jpg",
-          "url": "https://streamhls.com/view/aece82f9-f45e-5de4-b757-af3ebe3463d4.m3u8",
+          "url": "https://playermhd.p2phls.xyz/41210c15-8175-4c4a-8010-a11dd2d90552/_",
           "referer": "https://lb1.one3up.com"
         },
         {
@@ -1821,6 +1821,62 @@
 "image"     :            "https://www.themoviedb.org/t/p/w500_and_h282_face/hjAI67s5P3QO8Tl04nLV0rpqbID.jpg",
 "url"			: "https://streamhls.com/view/c50cedd0-bbb8-5a43-ba20-14bfdc668321.m3u8", 
 "playInNatPlayer" : "true"
+        }
+      ]
+    },
+  {
+   "name": "About Time -  ย้อนเวลาให้เธอ(ปิ๊ง)รัก (2013)",
+   "info": "",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3760/cover-thumb/20230104143853qRHD.jpg",
+   "stations": [
+    {
+     "name": "About Time -  ย้อนเวลาให้เธอ(ปิ๊ง)รัก (2013) [HD] พากย์ไทย บรรยายไทย",
+     "info": "",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3760/20230104143853qRHD.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3760/video/9491/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Shawshank Redemption - ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง (1994)",
+   "info": "",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1141/cover-thumb/20220512152749MRze.jpg",
+   "stations": [
+    {
+     "name": "The Shawshank Redemption - ชอว์แชงค์ มิตรภาพ ความหวัง ความรุนแรง (1994) [HD] พากย์ไทย",
+     "info": "",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1141/20220512152749MRze.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1141/video/4508/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+{
+   "name": "The Terminal (2004) ด้วยรักและมิตรภาพ",
+   "info": "พากย์ไทย",
+   "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/The-Terminal-2004.jpg?x77412",
+   "stations": [
+    {
+     "name": "The Terminal (2004) ด้วยรักและมิตรภาพ",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/The-Terminal-2004.jpg?x77412",
+     "url": "https://playermhd.p2phls.xyz/99c33c30-c95e-42e5-b33b-beadaa826d3c/_",
+     "referer": "https://www.moviehdfree.net/"
+    }
+   ]
+  },
+{
+   "name": "In Time (2011) ล่าเวลาสุดนรก",
+   "info": "พากย์ไทย",
+   "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/In-Time-2011.jpg?x77412",
+   "stations": [
+    {
+     "name": "In Time (2011) ล่าเวลาสุดนรก",
+     "info": "พากย์ไทย",
+     "image": "https://www.moviehdfree.net/wp-content/uploads/2021/05/In-Time-2011.jpg?x77412",
+     "url": "https://playermhd.p2phls.xyz/27ae69cf-fc31-4eb4-a8c1-3744ebe469ae/_",
+     "referer": "https://www.moviehdfree.net/"
 }
    ]
   }
