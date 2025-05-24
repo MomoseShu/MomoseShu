@@ -1,0 +1,58 @@
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" group-title="Football",True BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp" group-title="Football",True BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="Football",True BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="Football",True BALLTHAI 4
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJ1325T.png" group-title="Football",True BALLTHAI 5
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai5/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjnGyiX.png" group-title="Football",True BALLTHAI 6
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1s0HzH.png" group-title="Football",True BALLTHAI 7
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUHhWNZ.png" group-title="Football",True BALLTHAI 8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai8/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oi0V0Sb.png" group-title="Football",True BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/trueballthai9/chunks.m3u8
+
+
+#EXTINF:-1 group-title="NO",
+
+*********************************
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oi0V0Sb.png" group-title="Football", ASIAN
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://e112.google-streams.com:9312/v5/OvybNU3GEP8Si8vVgUmOig/1748084507/850d145e9a8b0ee1ee05380c6c84cdd7/RS5h7vOZjcs60BI6dU6s0w/1748095187/live/vx-origin/hd-asianmore_720/chunks.m3u8
+
+#EXTINF:-1 group-title="NO",
+
+
+
+
+
+
+
+
